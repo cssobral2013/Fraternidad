@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-ExtraLight.woff2') format('woff2'),
+        url('fonts/Fraternidad-ExtraLight.woff') format('woff'),
+        url('fonts/Fraternidad-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/Fraternidad-ExtraLightItalic.woff') format('woff'),
+        url('fonts/Fraternidad-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-Light.woff2') format('woff2'),
+        url('fonts/Fraternidad-Light.woff') format('woff'),
+        url('fonts/Fraternidad-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-LightItalic.woff2') format('woff2'),
+        url('fonts/Fraternidad-LightItalic.woff') format('woff'),
+        url('fonts/Fraternidad-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-Regular.woff2') format('woff2'),
+        url('fonts/Fraternidad-Regular.woff') format('woff'),
+        url('fonts/Fraternidad-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-Italic.woff2') format('woff2'),
+        url('fonts/Fraternidad-Italic.woff') format('woff'),
+        url('fonts/Fraternidad-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-Medium.woff2') format('woff2'),
+        url('fonts/Fraternidad-Medium.woff') format('woff'),
+        url('fonts/Fraternidad-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-MediumItalic.woff2') format('woff2'),
+        url('fonts/Fraternidad-MediumItalic.woff') format('woff'),
+        url('fonts/Fraternidad-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-SemiBold.woff2') format('woff2'),
+        url('fonts/Fraternidad-SemiBold.woff') format('woff'),
+        url('fonts/Fraternidad-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/Fraternidad-SemiBoldItalic.woff') format('woff'),
+        url('fonts/Fraternidad-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-Bold.woff2') format('woff2'),
+        url('fonts/Fraternidad-Bold.woff') format('woff'),
+        url('fonts/Fraternidad-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-BoldItalic.woff2') format('woff2'),
+        url('fonts/Fraternidad-BoldItalic.woff') format('woff'),
+        url('fonts/Fraternidad-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-ExtraBold.woff2') format('woff2'),
+        url('fonts/Fraternidad-ExtraBold.woff') format('woff'),
+        url('fonts/Fraternidad-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraternidad';
+    src: url('fonts/Fraternidad-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/Fraternidad-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/Fraternidad-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
