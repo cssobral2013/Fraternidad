@@ -1,9 +1,6 @@
 Copyright 2018, The Manrope Project Authors (https://github.com/sharanda/manrope/)
-
 Copyright 2020, The Hauora Sans Project Authors (https://github.com/WCYS-Co/Hauora-Sans/)
-
 Copyright 2021, Ravid Balaliev (https://www.behance.net/ravid29)
-
 Copyright 2020-2021, The Fraternidad Project Authors (https://github.com/cssobral2013)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
