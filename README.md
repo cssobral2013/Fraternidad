@@ -4,5 +4,5 @@ Is developed from Vela Sans (https://www.behance.net/gallery/118694463/Vela-Sans
 - Added true italics
 - Thickened weight of Regular
 - Imported K/k from Hauora Sans (https://github.com/WCYS-Co/Hauora-Sans/)
-- Changed 'G' to alternate form
+- Changed 'G' to alternate form and modified
 - Changed 'a' to single-storey in italics only
