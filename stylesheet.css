@@ -123,7 +123,7 @@
     src: url('fonts/Fraternidad-ExtraBold.woff2') format('woff2'),
         url('fonts/Fraternidad-ExtraBold.woff') format('woff'),
         url('fonts/Fraternidad-ExtraBold.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
@@ -133,7 +133,7 @@
     src: url('fonts/Fraternidad-ExtraBoldItalic.woff2') format('woff2'),
         url('fonts/Fraternidad-ExtraBoldItalic.woff') format('woff'),
         url('fonts/Fraternidad-ExtraBoldItalic.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 800;
     font-style: italic;
     font-display: swap;
 }
