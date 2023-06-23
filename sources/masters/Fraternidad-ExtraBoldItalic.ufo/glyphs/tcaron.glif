@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+  <advance width="970"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="t" xOffset="118"/>
+    <component base="comma" xOffset="841" yOffset="1470"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=25</string>
+  </dict>
+  </lib>
+</glyph>

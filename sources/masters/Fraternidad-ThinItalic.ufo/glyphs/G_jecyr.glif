@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gjecyr" format="2">
+  <advance width="1004"/>
+  <unicode hex="0403"/>
+  <outline>
+    <contour>
+      <point x="640" y="1890" type="line"/>
+      <point x="734" y="1890" type="line"/>
+      <point x="597" y="1620" type="line"/>
+      <point x="533" y="1620" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="252" y="1440" type="line"/>
+      <point x="1115" y="1440" type="line"/>
+      <point x="1101" y="1356" type="line"/>
+      <point x="321" y="1356" type="line"/>
+      <point x="107" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=23</string>
+  </dict>
+  </lib>
+</glyph>

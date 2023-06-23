@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave" format="2">
+  <advance width="1141"/>
+  <unicode hex="00E8"/>
+  <outline>
+    <component base="e"/>
+    <contour>
+      <point x="743" y="1620" type="line"/>
+      <point x="499" y="1620" type="line"/>
+      <point x="595" y="1230" type="line"/>
+      <point x="757" y="1230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>e</string>
+  </dict>
+  </lib>
+</glyph>

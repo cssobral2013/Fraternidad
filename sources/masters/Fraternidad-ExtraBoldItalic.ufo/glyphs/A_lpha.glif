@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alpha" format="2">
+  <advance width="1330"/>
+  <unicode hex="0391"/>
+  <outline>
+    <component base="A" xOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-95</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccaron" format="2">
+  <advance width="1095"/>
+  <unicode hex="010D"/>
+  <outline>
+    <component base="c"/>
+    <contour>
+      <point x="295" y="1560" type="line"/>
+      <point x="531" y="1560" type="line"/>
+      <point x="645" y="1380" type="line"/>
+      <point x="816" y="1560" type="line"/>
+      <point x="1054" y="1560" type="line"/>
+      <point x="728" y="1230" type="line"/>
+      <point x="515" y="1230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>c</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>c</string>
+  </dict>
+  </lib>
+</glyph>

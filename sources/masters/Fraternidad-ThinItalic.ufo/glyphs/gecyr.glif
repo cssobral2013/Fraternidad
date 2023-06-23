@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gecyr" format="2">
+  <advance width="851"/>
+  <unicode hex="0433"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="195" y="1080" type="line"/>
+      <point x="878" y="1080" type="line"/>
+      <point x="865" y="996" type="line"/>
+      <point x="261" y="996" type="line"/>
+      <point x="103" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=23</string>
+  </dict>
+  </lib>
+</glyph>

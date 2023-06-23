@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Geupcyr" format="2">
+  <advance width="1023"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="252" y="1440" type="line"/>
+      <point x="1052" y="1440" type="line"/>
+      <point x="1077" y="1600" type="line"/>
+      <point x="1160" y="1600" type="line"/>
+      <point x="1121" y="1356" type="line"/>
+      <point x="321" y="1356" type="line"/>
+      <point x="107" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=23</string>
+  </dict>
+  </lib>
+</glyph>

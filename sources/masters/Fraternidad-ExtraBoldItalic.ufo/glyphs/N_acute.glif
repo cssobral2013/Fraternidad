@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="2">
+  <advance width="1400"/>
+  <unicode hex="0143"/>
+  <outline>
+    <contour>
+      <point x="927" y="1980" type="line"/>
+      <point x="787" y="1590" type="line"/>
+      <point x="954" y="1590" type="line"/>
+      <point x="1178" y="1980" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="241" y="1440" type="line"/>
+      <point x="512" y="1440" type="line"/>
+      <point x="973" y="480" type="line"/>
+      <point x="1125" y="1440" type="line"/>
+      <point x="1396" y="1440" type="line"/>
+      <point x="1168" y="0" type="line"/>
+      <point x="897" y="0" type="line"/>
+      <point x="436" y="960" type="line"/>
+      <point x="284" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>N</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>N</string>
+  </dict>
+  </lib>
+</glyph>

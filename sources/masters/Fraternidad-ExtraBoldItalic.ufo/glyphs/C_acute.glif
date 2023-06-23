@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute" format="2">
+  <advance width="1448"/>
+  <unicode hex="0106"/>
+  <outline>
+    <component base="C"/>
+    <contour>
+      <point x="996" y="1980" type="line"/>
+      <point x="857" y="1590" type="line"/>
+      <point x="1023" y="1590" type="line"/>
+      <point x="1248" y="1980" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>C</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>C</string>
+  </dict>
+  </lib>
+</glyph>

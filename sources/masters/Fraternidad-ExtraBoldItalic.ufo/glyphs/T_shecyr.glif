@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="1468"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="218" y="1200" type="line"/>
+      <point x="256" y="1440" type="line"/>
+      <point x="962" y="1440" type="line"/>
+      <point x="924" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="662" y="1440" type="line"/>
+      <point x="562" y="812" type="line"/>
+      <point x="535" y="874" type="line"/>
+      <point x="630" y="950"/>
+      <point x="793" y="976"/>
+      <point x="912" y="976" type="curve" smooth="yes"/>
+      <point x="1185" y="976"/>
+      <point x="1314" y="843"/>
+      <point x="1314" y="570" type="curve" smooth="yes"/>
+      <point x="1314" y="518"/>
+      <point x="1309" y="466"/>
+      <point x="1301" y="414" type="curve" smooth="yes"/>
+      <point x="1235" y="0" type="line"/>
+      <point x="965" y="0" type="line"/>
+      <point x="1017" y="332" type="line" smooth="yes"/>
+      <point x="1026" y="388"/>
+      <point x="1035" y="447"/>
+      <point x="1035" y="504" type="curve" smooth="yes"/>
+      <point x="1035" y="660"/>
+      <point x="959" y="720"/>
+      <point x="808" y="720" type="curve" smooth="yes"/>
+      <point x="700" y="720"/>
+      <point x="573" y="684"/>
+      <point x="499" y="600" type="curve"/>
+      <point x="548" y="722" type="line"/>
+      <point x="434" y="0" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="393" y="1440" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=27</string>
+  </dict>
+  </lib>
+</glyph>

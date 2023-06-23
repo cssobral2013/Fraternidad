@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="2">
+  <advance width="1773"/>
+  <unicode hex="0174"/>
+  <outline>
+    <contour>
+      <point x="803" y="1620" type="line"/>
+      <point x="1037" y="1860" type="line"/>
+      <point x="1127" y="1860" type="line"/>
+      <point x="1285" y="1620" type="line"/>
+      <point x="1187" y="1620" type="line"/>
+      <point x="1071" y="1790" type="line"/>
+      <point x="901" y="1620" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="0" type="line"/>
+      <point x="163" y="1440" type="line"/>
+      <point x="248" y="1440" type="line"/>
+      <point x="406" y="152" type="line"/>
+      <point x="971" y="1440" type="line"/>
+      <point x="1057" y="1440" type="line"/>
+      <point x="1216" y="152" type="line"/>
+      <point x="1780" y="1440" type="line"/>
+      <point x="1867" y="1440" type="line"/>
+      <point x="1235" y="0" type="line"/>
+      <point x="1148" y="0" type="line"/>
+      <point x="990" y="1286" type="line"/>
+      <point x="425" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>W</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>W</string>
+  </dict>
+  </lib>
+</glyph>

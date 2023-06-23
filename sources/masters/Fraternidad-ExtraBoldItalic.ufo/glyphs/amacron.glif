@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="amacron" format="2">
+  <advance width="1088"/>
+  <unicode hex="0101"/>
+  <outline>
+    <component base="a"/>
+    <contour>
+      <point x="443" y="1320" type="line"/>
+      <point x="476" y="1528" type="line"/>
+      <point x="992" y="1528" type="line"/>
+      <point x="959" y="1320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  </dict>
+  </lib>
+</glyph>

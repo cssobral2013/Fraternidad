@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="2">
+  <advance width="1394"/>
+  <unicode hex="016A"/>
+  <outline>
+    <component base="U"/>
+    <contour>
+      <point x="607" y="1680" type="line"/>
+      <point x="640" y="1888" type="line"/>
+      <point x="1173" y="1888" type="line"/>
+      <point x="1140" y="1680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>U</string>
+  </dict>
+  </lib>
+</glyph>

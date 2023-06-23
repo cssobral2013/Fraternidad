@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scaron" format="2">
+  <advance width="1299"/>
+  <unicode hex="0160"/>
+  <outline>
+    <component base="S"/>
+    <contour>
+      <point x="494" y="1920" type="line"/>
+      <point x="739" y="1920" type="line"/>
+      <point x="858" y="1740" type="line"/>
+      <point x="1033" y="1920" type="line"/>
+      <point x="1278" y="1920" type="line"/>
+      <point x="944" y="1590" type="line"/>
+      <point x="724" y="1590" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>S</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="2">
+  <advance width="1142"/>
+  <unicode hex="015A"/>
+  <outline>
+    <component base="S"/>
+    <contour>
+      <point x="741" y="1890" type="line"/>
+      <point x="633" y="1620" type="line"/>
+      <point x="698" y="1620" type="line"/>
+      <point x="835" y="1890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>S</string>
+  </dict>
+  </lib>
+</glyph>

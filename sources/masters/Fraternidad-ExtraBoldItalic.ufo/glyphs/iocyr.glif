@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iocyr" format="2">
+  <advance width="1141"/>
+  <unicode hex="0451"/>
+  <outline>
+    <component base="iecyr" xOffset="-20"/>
+    <component base="dieresis" xOffset="141"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=2</string>
+  </dict>
+  </lib>
+</glyph>

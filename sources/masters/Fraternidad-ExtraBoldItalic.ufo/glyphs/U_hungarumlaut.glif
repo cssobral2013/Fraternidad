@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhungarumlaut" format="2">
+  <advance width="1394"/>
+  <unicode hex="0170"/>
+  <outline>
+    <component base="U"/>
+    <contour>
+      <point x="1115" y="1980" type="line"/>
+      <point x="976" y="1590" type="line"/>
+      <point x="1143" y="1590" type="line"/>
+      <point x="1367" y="1980" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="1980" type="line"/>
+      <point x="560" y="1590" type="line"/>
+      <point x="727" y="1590" type="line"/>
+      <point x="951" y="1980" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>U</string>
+  </dict>
+  </lib>
+</glyph>

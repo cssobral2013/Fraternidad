@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma" format="2">
+  <advance width="1004"/>
+  <unicode hex="0393"/>
+  <outline>
+    <component base="Gecyr" xOffset="81"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=103</string>
+  </dict>
+  </lib>
+</glyph>

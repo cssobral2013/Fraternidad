@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="2">
+  <advance width="1330"/>
+  <unicode hex="0100"/>
+  <outline>
+    <contour>
+      <point x="556" y="1680" type="line"/>
+      <point x="589" y="1888" type="line"/>
+      <point x="1122" y="1888" type="line"/>
+      <point x="1089" y="1680" type="line"/>
+    </contour>
+    <contour>
+      <point x="-75" y="0" type="line"/>
+      <point x="584" y="1440" type="line"/>
+      <point x="982" y="1440" type="line"/>
+      <point x="1185" y="0" type="line"/>
+      <point x="911" y="0" type="line"/>
+      <point x="728" y="1270" type="line"/>
+      <point x="779" y="1270" type="line"/>
+      <point x="200" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="300" type="line"/>
+      <point x="272" y="554" type="line"/>
+      <point x="1016" y="554" type="line"/>
+      <point x="976" y="300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>A</string>
+  </dict>
+  </lib>
+</glyph>

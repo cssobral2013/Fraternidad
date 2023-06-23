@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="1254"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="0" y="1356" type="line"/>
+      <point x="0" y="1440" type="line"/>
+      <point x="540" y="1440" type="line"/>
+      <point x="540" y="1356" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="1440" type="line"/>
+      <point x="224" y="740" type="line"/>
+      <point x="182" y="804" type="line"/>
+      <point x="257" y="854"/>
+      <point x="457" y="918"/>
+      <point x="590" y="918" type="qcurve" smooth="yes"/>
+      <point x="781" y="918"/>
+      <point x="1011" y="782"/>
+      <point x="1114" y="544"/>
+      <point x="1114" y="392" type="qcurve" smooth="yes"/>
+      <point x="1114" y="0" type="line"/>
+      <point x="1030" y="0" type="line"/>
+      <point x="1030" y="356" type="line" smooth="yes"/>
+      <point x="1030" y="475"/>
+      <point x="978" y="652"/>
+      <point x="871" y="771"/>
+      <point x="710" y="830"/>
+      <point x="600" y="830" type="qcurve" smooth="yes"/>
+      <point x="456" y="830"/>
+      <point x="245" y="748"/>
+      <point x="192" y="698" type="qcurve"/>
+      <point x="224" y="814" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="1440" type="line"/>
+    </contour>
+  </outline>
+</glyph>

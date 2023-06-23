@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emcyr" format="2">
+  <advance width="1658"/>
+  <unicode hex="041C"/>
+  <outline>
+    <component base="M" xOffset="-19"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-93</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shchacyr" format="2">
+  <advance width="1907"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="1476" y="-240" type="line"/>
+      <point x="1514" y="0" type="line"/>
+      <point x="1376" y="0" type="line"/>
+      <point x="1414" y="240" type="line"/>
+      <point x="1818" y="240" type="line"/>
+      <point x="1742" y="-240" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="0" type="line"/>
+      <point x="242" y="1440" type="line"/>
+      <point x="509" y="1440" type="line"/>
+      <point x="321" y="254" type="line"/>
+      <point x="725" y="254" type="line"/>
+      <point x="913" y="1440" type="line"/>
+      <point x="1179" y="1440" type="line"/>
+      <point x="991" y="254" type="line"/>
+      <point x="1395" y="254" type="line"/>
+      <point x="1583" y="1440" type="line"/>
+      <point x="1849" y="1440" type="line"/>
+      <point x="1621" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=13</string>
+  </dict>
+  </lib>
+</glyph>

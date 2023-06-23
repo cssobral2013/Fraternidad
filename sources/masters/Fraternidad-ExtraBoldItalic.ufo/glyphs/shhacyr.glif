@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shhacyr" format="2">
+  <advance width="1283"/>
+  <unicode hex="04BB"/>
+  <outline>
+    <component base="checyr" xScale="-1" yScale="-1" xOffset="1244" yOffset="1080"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=103</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ushortcyr" format="2">
+  <advance width="1012"/>
+  <unicode hex="045E"/>
+  <outline>
+    <component base="ucyr"/>
+    <contour>
+      <point x="560" y="1212" type="qcurve" smooth="yes"/>
+      <point x="497" y="1212"/>
+      <point x="393" y="1274"/>
+      <point x="332" y="1377"/>
+      <point x="332" y="1440" type="qcurve"/>
+      <point x="410" y="1440" type="line"/>
+      <point x="410" y="1379"/>
+      <point x="499" y="1290"/>
+      <point x="560" y="1290" type="qcurve" smooth="yes"/>
+      <point x="623" y="1290"/>
+      <point x="710" y="1379"/>
+      <point x="710" y="1440" type="qcurve"/>
+      <point x="788" y="1440" type="line"/>
+      <point x="788" y="1377"/>
+      <point x="727" y="1274"/>
+      <point x="623" y="1212"/>
+    </contour>
+  </outline>
+</glyph>

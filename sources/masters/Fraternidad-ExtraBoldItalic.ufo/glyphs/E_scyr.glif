@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Escyr" format="2">
+  <advance width="1562"/>
+  <unicode hex="0421"/>
+  <outline>
+    <component base="C" xOffset="94"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=32</string>
+  </dict>
+  </lib>
+</glyph>

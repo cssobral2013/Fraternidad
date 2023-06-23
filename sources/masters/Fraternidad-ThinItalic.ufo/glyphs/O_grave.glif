@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="2">
+  <advance width="1371"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="770" y="1890" type="line"/>
+      <point x="676" y="1890" type="line"/>
+      <point x="727" y="1620" type="line"/>
+      <point x="792" y="1620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

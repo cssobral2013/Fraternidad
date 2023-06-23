@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tau" format="2">
+  <advance width="1367"/>
+  <unicode hex="03A4"/>
+  <outline>
+    <component base="T" xOffset="295"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=212</string>
+  </dict>
+  </lib>
+</glyph>

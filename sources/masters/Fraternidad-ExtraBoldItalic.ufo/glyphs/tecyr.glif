@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tecyr" format="2">
+  <advance width="1150"/>
+  <unicode hex="0442"/>
+  <outline>
+    <contour>
+      <point x="404" y="0" type="line"/>
+      <point x="537" y="840" type="line"/>
+      <point x="201" y="840" type="line"/>
+      <point x="239" y="1080" type="line"/>
+      <point x="1167" y="1080" type="line"/>
+      <point x="1129" y="840" type="line"/>
+      <point x="793" y="840" type="line"/>
+      <point x="660" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=67</string>
+  </dict>
+  </lib>
+</glyph>

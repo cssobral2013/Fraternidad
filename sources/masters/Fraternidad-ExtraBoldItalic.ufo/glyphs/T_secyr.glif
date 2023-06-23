@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsecyr" format="2">
+  <advance width="1476"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="1044" y="-240" type="line"/>
+      <point x="1082" y="0" type="line"/>
+      <point x="14" y="0" type="line"/>
+      <point x="242" y="1440" type="line"/>
+      <point x="509" y="1440" type="line"/>
+      <point x="319" y="240" type="line"/>
+      <point x="962" y="240" type="line"/>
+      <point x="1145" y="1400" type="line"/>
+      <point x="1412" y="1400" type="line"/>
+      <point x="1228" y="240" type="line"/>
+      <point x="1387" y="240" type="line"/>
+      <point x="1311" y="-240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=13</string>
+  </dict>
+  </lib>
+</glyph>

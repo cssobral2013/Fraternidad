@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydotbelow" format="2">
+  <advance width="1146"/>
+  <unicode hex="1EF5"/>
+  <outline>
+    <component base="y"/>
+    <contour>
+      <point x="732" y="-390" type="qcurve" smooth="yes"/>
+      <point x="701" y="-390"/>
+      <point x="658" y="-348"/>
+      <point x="658" y="-317" type="qcurve" smooth="yes"/>
+      <point x="658" y="-285"/>
+      <point x="701" y="-243"/>
+      <point x="732" y="-243" type="qcurve" smooth="yes"/>
+      <point x="763" y="-243"/>
+      <point x="806" y="-285"/>
+      <point x="806" y="-317" type="qcurve" smooth="yes"/>
+      <point x="806" y="-348"/>
+      <point x="763" y="-390"/>
+    </contour>
+  </outline>
+</glyph>

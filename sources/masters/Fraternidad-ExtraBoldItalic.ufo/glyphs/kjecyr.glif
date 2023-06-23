@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kjecyr" format="2">
+  <advance width="1039"/>
+  <unicode hex="045C"/>
+  <outline>
+    <contour>
+      <point x="640" y="1620" type="line"/>
+      <point x="885" y="1620" type="line"/>
+      <point x="665" y="1230" type="line"/>
+      <point x="504" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="184" y="1080" type="line"/>
+      <point x="444" y="1080" type="line"/>
+      <point x="361" y="560" type="line"/>
+      <point x="792" y="1080" type="line"/>
+      <point x="1111" y="1080" type="line"/>
+      <point x="655" y="540" type="line"/>
+      <point x="964" y="0" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="355" y="520" type="line"/>
+      <point x="273" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=11</string>
+  </dict>
+  </lib>
+</glyph>

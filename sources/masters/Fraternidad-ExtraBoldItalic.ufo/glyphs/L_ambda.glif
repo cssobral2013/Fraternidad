@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="2">
+  <advance width="1306"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="558" y="1440" type="line"/>
+      <point x="-91" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="716" y="1184" type="line"/>
+      <point x="895" y="0" type="line"/>
+      <point x="1169" y="0" type="line"/>
+      <point x="956" y="1440" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-91</string>
+  </dict>
+  </lib>
+</glyph>

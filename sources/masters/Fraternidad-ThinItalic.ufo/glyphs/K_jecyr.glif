@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kjecyr" format="2">
+  <advance width="1080"/>
+  <unicode hex="040C"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="252" y="1440" type="line"/>
+      <point x="335" y="1440" type="line"/>
+      <point x="226" y="752" type="line"/>
+      <point x="1032" y="1440" type="line"/>
+      <point x="1146" y="1440" type="line"/>
+      <point x="345" y="752" type="line"/>
+      <point x="981" y="0" type="line"/>
+      <point x="867" y="0" type="line"/>
+      <point x="226" y="752" type="line"/>
+      <point x="107" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="809" y="1890" type="line"/>
+      <point x="903" y="1890" type="line"/>
+      <point x="766" y="1620" type="line"/>
+      <point x="701" y="1620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=23</string>
+  </dict>
+  </lib>
+</glyph>

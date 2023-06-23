@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scircumflex" format="2">
+  <advance width="1299"/>
+  <unicode hex="015C"/>
+  <outline>
+    <component base="S"/>
+    <contour>
+      <point x="435" y="1590" type="line"/>
+      <point x="770" y="1920" type="line"/>
+      <point x="989" y="1920" type="line"/>
+      <point x="1219" y="1590" type="line"/>
+      <point x="974" y="1590" type="line"/>
+      <point x="856" y="1770" type="line"/>
+      <point x="680" y="1590" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>S</string>
+  </dict>
+  </lib>
+</glyph>

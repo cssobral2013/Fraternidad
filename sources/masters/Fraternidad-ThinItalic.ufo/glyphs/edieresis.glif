@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis" format="2">
+  <advance width="1076"/>
+  <unicode hex="00EB"/>
+  <outline>
+    <component base="iocyr" xOffset="-85"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>e</string>
+  <key>com.fontlab.recipe</key>
+  <string>iocyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+  <advance width="1172"/>
+  <unicode hex="0111"/>
+  <outline>
+    <component base="d" xOffset="165"/>
+    <contour>
+      <point x="815" y="1200" type="line"/>
+      <point x="828" y="1284" type="line"/>
+      <point x="1283" y="1284" type="line"/>
+      <point x="1270" y="1200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=132</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="2">
+  <advance width="1066"/>
+  <unicode hex="03C7"/>
+  <outline>
+    <component base="x" xOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-112</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nu" format="2">
+  <advance width="1245"/>
+  <unicode hex="03BD"/>
+  <outline>
+    <component base="v" xOffset="152"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=76</string>
+  </dict>
+  </lib>
+</glyph>

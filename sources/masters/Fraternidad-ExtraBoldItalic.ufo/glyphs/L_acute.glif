@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+  <advance width="1042"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="492" y="1980" type="line"/>
+      <point x="353" y="1590" type="line"/>
+      <point x="520" y="1590" type="line"/>
+      <point x="744" y="1980" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="260" y="1440" type="line"/>
+      <point x="526" y="1440" type="line"/>
+      <point x="339" y="254" type="line"/>
+      <point x="946" y="254" type="line"/>
+      <point x="906" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=31</string>
+  </dict>
+  </lib>
+</glyph>

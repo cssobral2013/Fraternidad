@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute" format="2">
+  <advance width="619"/>
+  <unicode hex="013A"/>
+  <outline>
+    <component base="l"/>
+    <contour>
+      <point x="518" y="1980" type="line"/>
+      <point x="381" y="1590" type="line"/>
+      <point x="543" y="1590" type="line"/>
+      <point x="762" y="1980" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>l</string>
+  </dict>
+  </lib>
+</glyph>

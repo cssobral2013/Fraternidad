@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcommaaccent" format="2">
+  <advance width="1450"/>
+  <unicode hex="0122"/>
+  <outline>
+    <component base="G"/>
+    <contour>
+      <point x="525" y="-150" type="line"/>
+      <point x="386" y="-540" type="line"/>
+      <point x="553" y="-540" type="line"/>
+      <point x="777" y="-150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>G</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>G</string>
+  </dict>
+  </lib>
+</glyph>

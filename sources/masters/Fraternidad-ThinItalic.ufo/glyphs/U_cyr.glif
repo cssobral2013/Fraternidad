@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucyr" format="2">
+  <advance width="1423"/>
+  <unicode hex="0423"/>
+  <outline>
+    <contour>
+      <point x="535" y="0" type="line"/>
+      <point x="725" y="310" type="line"/>
+      <point x="392" y="1440" type="line"/>
+      <point x="480" y="1440" type="line"/>
+      <point x="783" y="404" type="line"/>
+      <point x="1419" y="1440" type="line"/>
+      <point x="1508" y="1440" type="line"/>
+      <point x="629" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=163</string>
+  </dict>
+  </lib>
+</glyph>

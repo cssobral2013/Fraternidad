@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="1721"/>
+  <unicode hex="010F"/>
+  <outline>
+    <component base="d" xOffset="165"/>
+    <component base="comma" xOffset="1488" yOffset="1280"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=132</string>
+  </dict>
+  </lib>
+</glyph>

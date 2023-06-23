@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rho" format="2">
+  <advance width="1134"/>
+  <unicode hex="03C1"/>
+  <outline>
+    <contour>
+      <point x="-141" y="-480" type="line"/>
+      <point x="8" y="460" type="line" smooth="yes"/>
+      <point x="20" y="534"/>
+      <point x="32" y="609"/>
+      <point x="56" y="680" type="curve" smooth="yes"/>
+      <point x="141" y="936"/>
+      <point x="350" y="1110"/>
+      <point x="625" y="1110" type="curve" smooth="yes"/>
+      <point x="898" y="1110"/>
+      <point x="1050" y="937"/>
+      <point x="1050" y="669" type="curve" smooth="yes"/>
+      <point x="1050" y="338"/>
+      <point x="837" y="-30"/>
+      <point x="472" y="-30" type="curve" smooth="yes"/>
+      <point x="376" y="-30"/>
+      <point x="273" y="-2"/>
+      <point x="204" y="68" type="curve"/>
+      <point x="117" y="-480" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="212" type="curve" smooth="yes"/>
+      <point x="700" y="212"/>
+      <point x="792" y="441"/>
+      <point x="792" y="633" type="curve" smooth="yes"/>
+      <point x="792" y="772"/>
+      <point x="729" y="868"/>
+      <point x="581" y="868" type="curve" smooth="yes"/>
+      <point x="356" y="868"/>
+      <point x="269" y="640"/>
+      <point x="269" y="447" type="curve" smooth="yes"/>
+      <point x="269" y="309"/>
+      <point x="329" y="212"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-65</string>
+  </dict>
+  </lib>
+</glyph>

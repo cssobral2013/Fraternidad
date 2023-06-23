@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugrave" format="2">
+  <advance width="1184"/>
+  <unicode hex="00F9"/>
+  <outline>
+    <component base="u"/>
+    <contour>
+      <point x="738" y="1620" type="line"/>
+      <point x="494" y="1620" type="line"/>
+      <point x="590" y="1230" type="line"/>
+      <point x="751" y="1230" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphatonos" format="2">
+  <advance width="1185"/>
+  <unicode hex="03AC"/>
+  <outline>
+    <component base="alpha" xOffset="-20"/>
+    <contour>
+      <point x="746" y="1620" type="line"/>
+      <point x="609" y="1230" type="line"/>
+      <point x="771" y="1230" type="line"/>
+      <point x="990" y="1620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=26</string>
+  </dict>
+  </lib>
+</glyph>

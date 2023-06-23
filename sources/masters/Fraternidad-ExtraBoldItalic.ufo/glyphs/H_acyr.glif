@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hacyr" format="2">
+  <advance width="1313"/>
+  <unicode hex="0425"/>
+  <outline>
+    <component base="X" xOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-112</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="1466"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="193" y="0" type="line"/>
+      <point x="421" y="1440" type="line"/>
+      <point x="503" y="1440" type="line"/>
+      <point x="396" y="762" type="line"/>
+      <point x="1250" y="762" type="line"/>
+      <point x="1358" y="1440" type="line"/>
+      <point x="1440" y="1440" type="line"/>
+      <point x="1212" y="0" type="line"/>
+      <point x="1130" y="0" type="line"/>
+      <point x="1237" y="678" type="line"/>
+      <point x="383" y="678" type="line"/>
+      <point x="275" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="996" type="line"/>
+      <point x="227" y="1080" type="line"/>
+      <point x="1520" y="1080" type="line"/>
+      <point x="1507" y="996" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=55</string>
+  </dict>
+  </lib>
+</glyph>

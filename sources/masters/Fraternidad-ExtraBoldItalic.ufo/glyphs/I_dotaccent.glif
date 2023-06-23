@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="2">
+  <advance width="548"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="444" y="1626" type="curve" smooth="yes"/>
+      <point x="367" y="1626"/>
+      <point x="311" y="1679"/>
+      <point x="311" y="1757" type="curve" smooth="yes"/>
+      <point x="311" y="1856"/>
+      <point x="394" y="1942"/>
+      <point x="494" y="1942" type="curve" smooth="yes"/>
+      <point x="572" y="1942"/>
+      <point x="627" y="1891"/>
+      <point x="627" y="1812" type="curve" smooth="yes"/>
+      <point x="627" y="1711"/>
+      <point x="545" y="1626"/>
+    </contour>
+    <contour>
+      <point x="52" y="0" type="line"/>
+      <point x="280" y="1440" type="line"/>
+      <point x="547" y="1440" type="line"/>
+      <point x="319" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>I</string>
+  </dict>
+  </lib>
+</glyph>

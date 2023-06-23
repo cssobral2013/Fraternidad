@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexacute" format="2">
+  <advance width="1473"/>
+  <unicode hex="1ED0"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="475" y="1591" type="line"/>
+      <point x="810" y="1921" type="line"/>
+      <point x="1029" y="1921" type="line"/>
+      <point x="1259" y="1591" type="line"/>
+      <point x="1014" y="1591" type="line"/>
+      <point x="896" y="1771" type="line"/>
+      <point x="720" y="1591" type="line"/>
+    </contour>
+    <contour>
+      <point x="1415" y="2191" type="line"/>
+      <point x="1276" y="1801" type="line"/>
+      <point x="1443" y="1801" type="line"/>
+      <point x="1667" y="2191" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

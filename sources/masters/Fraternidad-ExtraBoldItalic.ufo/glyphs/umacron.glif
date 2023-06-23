@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacron" format="2">
+  <advance width="1184"/>
+  <unicode hex="016B"/>
+  <outline>
+    <component base="u"/>
+    <contour>
+      <point x="445" y="1320" type="line"/>
+      <point x="478" y="1528" type="line"/>
+      <point x="994" y="1528" type="line"/>
+      <point x="961" y="1320" type="line"/>
+    </contour>
+  </outline>
+</glyph>

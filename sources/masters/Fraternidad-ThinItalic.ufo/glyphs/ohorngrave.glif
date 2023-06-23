@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorngrave" format="2">
+  <advance width="1077"/>
+  <unicode hex="1EDD"/>
+  <outline>
+    <component base="ohorn"/>
+    <contour>
+      <point x="631" y="1530" type="line"/>
+      <point x="540" y="1530" type="line"/>
+      <point x="588" y="1260" type="line"/>
+      <point x="651" y="1260" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>o</string>
+  </dict>
+  </lib>
+</glyph>

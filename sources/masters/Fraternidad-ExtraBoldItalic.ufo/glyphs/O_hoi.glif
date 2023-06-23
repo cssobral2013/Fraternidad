@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohoi" format="2">
+  <advance width="1473"/>
+  <unicode hex="1ECE"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="822" y="1886" type="curve"/>
+      <point x="777" y="2019" type="line"/>
+      <point x="833" y="2062"/>
+      <point x="903" y="2089"/>
+      <point x="974" y="2089" type="curve" smooth="yes"/>
+      <point x="1090" y="2089"/>
+      <point x="1154" y="2019"/>
+      <point x="1164" y="1914" type="curve" smooth="yes"/>
+      <point x="1165" y="1904"/>
+      <point x="1165" y="1894"/>
+      <point x="1165" y="1884" type="curve" smooth="yes"/>
+      <point x="1165" y="1739"/>
+      <point x="1025" y="1623"/>
+      <point x="887" y="1612" type="curve"/>
+      <point x="863" y="1721" type="line"/>
+      <point x="917" y="1735"/>
+      <point x="994" y="1776"/>
+      <point x="994" y="1840" type="curve"/>
+      <point x="994" y="1840"/>
+      <point x="994" y="1840"/>
+      <point x="994" y="1840" type="curve"/>
+      <point x="994" y="1886"/>
+      <point x="973" y="1920"/>
+      <point x="924" y="1920" type="curve" smooth="yes"/>
+      <point x="890" y="1920"/>
+      <point x="850" y="1904"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

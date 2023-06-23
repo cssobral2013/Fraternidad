@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorngrave" format="2">
+  <advance width="1174"/>
+  <unicode hex="1EDD"/>
+  <outline>
+    <component base="ohorn"/>
+    <contour>
+      <point x="719" y="1620" type="line"/>
+      <point x="475" y="1620" type="line"/>
+      <point x="571" y="1230" type="line"/>
+      <point x="732" y="1230" type="line"/>
+    </contour>
+  </outline>
+</glyph>

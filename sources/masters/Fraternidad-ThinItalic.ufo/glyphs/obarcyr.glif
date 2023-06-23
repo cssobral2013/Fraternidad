@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obarcyr" format="2">
+  <advance width="1157"/>
+  <unicode hex="04E9"/>
+  <outline>
+    <component base="o" xOffset="159"/>
+    <contour>
+      <point x="200" y="498" type="line"/>
+      <point x="214" y="582" type="line"/>
+      <point x="1023" y="582" type="line"/>
+      <point x="1009" y="498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=121</string>
+  </dict>
+  </lib>
+</glyph>

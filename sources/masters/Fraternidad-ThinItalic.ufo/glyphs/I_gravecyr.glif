@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igravecyr" format="2">
+  <advance width="1270"/>
+  <unicode hex="040D"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="252" y="1440" type="line"/>
+      <point x="335" y="1440" type="line"/>
+      <point x="130" y="150" type="line"/>
+      <point x="1193" y="1440" type="line"/>
+      <point x="1275" y="1440" type="line"/>
+      <point x="1047" y="0" type="line"/>
+      <point x="965" y="0" type="line"/>
+      <point x="1170" y="1292" type="line"/>
+      <point x="107" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="816" y="1890" type="line"/>
+      <point x="837" y="1620" type="line"/>
+      <point x="773" y="1620" type="line"/>
+      <point x="721" y="1890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=23</string>
+  </dict>
+  </lib>
+</glyph>

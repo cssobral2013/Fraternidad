@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="1450"/>
+  <unicode hex="0120"/>
+  <outline>
+    <component base="G"/>
+    <contour>
+      <point x="915" y="1626" type="curve" smooth="yes"/>
+      <point x="839" y="1626"/>
+      <point x="782" y="1679"/>
+      <point x="782" y="1756" type="curve" smooth="yes"/>
+      <point x="782" y="1855"/>
+      <point x="866" y="1942"/>
+      <point x="965" y="1942" type="curve" smooth="yes"/>
+      <point x="1041" y="1942"/>
+      <point x="1098" y="1891"/>
+      <point x="1098" y="1813" type="curve" smooth="yes"/>
+      <point x="1098" y="1713"/>
+      <point x="1017" y="1626"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>G</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>G</string>
+  </dict>
+  </lib>
+</glyph>

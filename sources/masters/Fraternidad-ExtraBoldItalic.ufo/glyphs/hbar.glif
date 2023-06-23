@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+  <advance width="1261"/>
+  <unicode hex="0127"/>
+  <outline>
+    <component base="h" xOffset="50"/>
+    <contour>
+      <point x="175" y="1160" type="line"/>
+      <point x="208" y="1368" type="line"/>
+      <point x="722" y="1368" type="line"/>
+      <point x="689" y="1160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-9</string>
+  </dict>
+  </lib>
+</glyph>

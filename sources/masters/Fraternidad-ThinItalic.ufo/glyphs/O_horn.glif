@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorn" format="2">
+  <advance width="1371"/>
+  <unicode hex="01A0"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="1166" y="1626" type="curve"/>
+      <point x="1249" y="1626" type="line"/>
+      <point x="1249" y="1624"/>
+      <point x="1249" y="1622"/>
+      <point x="1249" y="1620" type="curve" smooth="yes"/>
+      <point x="1249" y="1477"/>
+      <point x="1188" y="1387"/>
+      <point x="1043" y="1364" type="curve"/>
+      <point x="1034" y="1362"/>
+      <point x="1025" y="1361"/>
+      <point x="1016" y="1361" type="curve" smooth="yes"/>
+      <point x="977" y="1361"/>
+      <point x="941" y="1376"/>
+      <point x="910" y="1398" type="curve"/>
+      <point x="918" y="1448" type="line"/>
+      <point x="945" y="1439"/>
+      <point x="973" y="1433"/>
+      <point x="1002" y="1433" type="curve" smooth="yes"/>
+      <point x="1026" y="1433"/>
+      <point x="1049" y="1439"/>
+      <point x="1070" y="1449" type="curve" smooth="yes"/>
+      <point x="1146" y="1485"/>
+      <point x="1163" y="1547"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igravecyr" format="2">
+  <advance width="1458"/>
+  <unicode hex="040D"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="1440" type="line"/>
+      <point x="416" y="1440" type="line"/>
+      <point x="416" y="480" type="line"/>
+      <point x="1042" y="1440" type="line"/>
+      <point x="1318" y="1440" type="line"/>
+      <point x="1318" y="0" type="line"/>
+      <point x="1042" y="0" type="line"/>
+      <point x="1042" y="960" type="line"/>
+      <point x="416" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="741" y="1980" type="line"/>
+      <point x="820" y="1590" type="line"/>
+      <point x="650" y="1590" type="line"/>
+      <point x="484" y="1980" type="line"/>
+    </contour>
+  </outline>
+</glyph>

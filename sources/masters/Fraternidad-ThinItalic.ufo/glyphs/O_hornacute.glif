@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohornacute" format="2">
+  <advance width="1371"/>
+  <unicode hex="1EDA"/>
+  <outline>
+    <component base="Ohorn"/>
+    <contour>
+      <point x="1049" y="1890" type="line"/>
+      <point x="941" y="1620" type="line"/>
+      <point x="1006" y="1620" type="line"/>
+      <point x="1143" y="1890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

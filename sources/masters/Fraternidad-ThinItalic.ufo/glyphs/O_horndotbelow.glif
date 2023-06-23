@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorndotbelow" format="2">
+  <advance width="1371"/>
+  <unicode hex="1EE2"/>
+  <outline>
+    <component base="Ohorn"/>
+    <contour>
+      <point x="623" y="-390" type="curve" smooth="yes"/>
+      <point x="588" y="-390"/>
+      <point x="561" y="-365"/>
+      <point x="561" y="-330" type="curve" smooth="yes"/>
+      <point x="561" y="-284"/>
+      <point x="599" y="-243"/>
+      <point x="646" y="-243" type="curve" smooth="yes"/>
+      <point x="681" y="-243"/>
+      <point x="708" y="-268"/>
+      <point x="708" y="-304" type="curve" smooth="yes"/>
+      <point x="708" y="-350"/>
+      <point x="669" y="-390"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>
