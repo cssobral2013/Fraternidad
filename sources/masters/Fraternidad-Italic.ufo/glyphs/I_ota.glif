@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iota" format="2">
-  <advance width="462"/>
+  <advance width="357"/>
   <unicode hex="0399"/>
   <outline>
-    <component base="I" xOffset="29"/>
+    <component base="I" xOffset="-76"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=63</string>
-  </dict>
-  </lib>
 </glyph>

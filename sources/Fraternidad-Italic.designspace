@@ -1,25 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="100" name="weight" tag="wght" maximum="800" default="400">
+  <axis maximum="800" name="weight" tag="wght" minimum="100" default="400">
    <labelname xml:lang="en">Weight</labelname>
    <map output="100" input="100"/>
-   <map output="200" input="200"/>
-   <map output="300" input="300"/>
    <map output="400" input="400"/>
-   <map output="500" input="500"/>
-   <map output="600" input="600"/>
-   <map output="700" input="700"/>
    <map output="800" input="800"/>
   </axis>
  </axes>
  <sources>
-  <source name="ThinItalic" familyname="Fraternidad" filename="masters/Fraternidad-ThinItalic.ufo" stylename="Thin Italic">
+  <source name="ThinItalic" stylename="Thin Italic" filename="masters/Fraternidad-ThinItalic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
-  </source> 
-  <source name="Italic" familyname="Fraternidad" filename="masters/Fraternidad-Italic.ufo" stylename="Italic">
+  </source>
+  <source name="Italic" stylename="Italic" filename="masters/Fraternidad-Italic.ufo" familyname="Fraternidad">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -28,49 +23,49 @@
     <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source name="ExtraBoldItalic" familyname="Fraternidad" filename="masters/Fraternidad-ExtraBoldItalic.ufo" stylename="ExtraBold Italic">
+  <source name="ExtraBoldItalic" stylename="ExtraBold Italic" filename="masters/Fraternidad-ExtraBoldItalic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="800"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance name="ThinItalic" familyname="Fraternidad" filename="instances/Fraternidad-ThinItalic.ufo" stylename="Thin Italic">
+  <instance name="ThinItalic" stylename="Thin Italic" filename="instances/Fraternidad-ThinItalic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance name="ExtraLightItalic" familyname="Fraternidad" filename="instances/Fraternidad-ExtraLightItalic.ufo" stylename="ExtraLight Italic">
+  <instance name="ExtraLightItalic" stylename="ExtraLight Italic" filename="instances/Fraternidad-ExtraLightItalic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance name="LightItalic" familyname="Fraternidad" filename="instances/Fraternidad-LightItalic.ufo" stylename="Light Italic">
+  <instance name="LightItalic" stylename="Light Italic" filename="instances/Fraternidad-LightItalic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance name="Italic" familyname="Fraternidad" filename="instances/Fraternidad-Italic.ufo" stylename="Italic">
+  <instance name="Italic" stylename="Italic" filename="instances/Fraternidad-Italic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance name="MediumItalic" familyname="Fraternidad" filename="instances/Fraternidad-MediumItalic.ufo" stylename="Medium Italic">
+  <instance name="MediumItalic" stylename="Medium Italic" filename="instances/Fraternidad-MediumItalic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance name="SemiBoldItalic" familyname="Fraternidad" filename="instances/Fraternidad-SemiBoldItalic.ufo" stylename="SemiBold Italic">
+  <instance name="SemiBoldItalic" stylename="SemiBold Italic" filename="instances/Fraternidad-SemiBoldItalic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance name="BoldItalic" familyname="Fraternidad" filename="instances/Fraternidad-BoldItalic.ufo" stylename="Bold Italic">
+  <instance name="BoldItalic" stylename="Bold Italic" filename="instances/Fraternidad-BoldItalic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
-  <instance name="ExtraBoldItalic" familyname="Fraternidad" filename="instances/Fraternidad-ExtraBoldItalic.ufo" stylename="ExtraBold Italic">
+  <instance name="ExtraBoldItalic" stylename="ExtraBold Italic" filename="instances/Fraternidad-ExtraBoldItalic.ufo" familyname="Fraternidad">
    <location>
     <dimension name="weight" xvalue="800"/>
    </location>

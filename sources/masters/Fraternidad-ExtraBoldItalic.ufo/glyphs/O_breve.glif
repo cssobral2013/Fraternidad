@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="2">
-  <advance width="1473"/>
+  <advance width="1469"/>
   <unicode hex="014E"/>
   <outline>
-    <component base="O"/>
-    <component base="breve" xOffset="158"/>
+    <component base="O" xOffset="-2"/>
+    <component base="breve" xOffset="156"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>O</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>O</string>
-  <key>com.fontlab.recipe</key>
-  <string>O+breve</string>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
-  </dict>
-  </lib>
 </glyph>

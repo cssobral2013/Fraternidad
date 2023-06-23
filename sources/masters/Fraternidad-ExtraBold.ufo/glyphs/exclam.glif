@@ -3,7 +3,20 @@
   <advance width="752"/>
   <unicode hex="0021"/>
   <outline>
-    <component base="period" xOffset="56"/>
+    <contour>
+      <point x="376" y="-22" type="qcurve" smooth="yes"/>
+      <point x="308" y="-22"/>
+      <point x="217" y="70"/>
+      <point x="217" y="136" type="qcurve" smooth="yes"/>
+      <point x="217" y="203"/>
+      <point x="308" y="294"/>
+      <point x="376" y="294" type="qcurve" smooth="yes"/>
+      <point x="445" y="294"/>
+      <point x="535" y="203"/>
+      <point x="535" y="136" type="qcurve" smooth="yes"/>
+      <point x="535" y="70"/>
+      <point x="445" y="-22"/>
+    </contour>
     <contour>
       <point x="260" y="420" type="line"/>
       <point x="220" y="1440" type="line"/>

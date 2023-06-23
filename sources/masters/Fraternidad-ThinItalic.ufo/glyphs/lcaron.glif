@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-  <advance width="494"/>
+  <advance width="394"/>
   <unicode hex="013E"/>
   <outline>
-    <component base="l" xOffset="54"/>
-    <component base="comma" xOffset="551" yOffset="1280"/>
+    <component base="l" xOffset="-46"/>
+    <component base="comma" xOffset="451" yOffset="1280"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=154</string>
-  </dict>
-  </lib>
 </glyph>

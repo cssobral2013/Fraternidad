@@ -6,12 +6,4 @@
     <component base="L"/>
     <component base="comma" xOffset="586" yOffset="1221"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>L</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>L</string>
-  </dict>
-  </lib>
 </glyph>

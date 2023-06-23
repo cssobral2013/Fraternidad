@@ -6,12 +6,4 @@
     <component base="A"/>
     <component base="dieresis" xOffset="209" yOffset="360"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>A</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>A</string>
-  </dict>
-  </lib>
 </glyph>

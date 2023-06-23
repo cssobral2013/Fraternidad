@@ -5,12 +5,4 @@
   <outline>
     <component base="M"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>M</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>M</string>
-  </dict>
-  </lib>
 </glyph>

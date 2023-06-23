@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eta" format="2">
-  <advance width="1266"/>
+  <advance width="1166"/>
   <unicode hex="0397"/>
   <outline>
-    <component base="H" xOffset="81"/>
+    <component base="H" xOffset="-19"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=103</string>
-  </dict>
-  </lib>
 </glyph>

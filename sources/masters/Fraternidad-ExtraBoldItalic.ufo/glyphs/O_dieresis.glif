@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="2">
-  <advance width="1473"/>
+  <advance width="1469"/>
   <unicode hex="00D6"/>
   <outline>
-    <component base="O"/>
-    <component base="dieresis" xOffset="287" yOffset="360"/>
+    <component base="O" xOffset="-2"/>
+    <component base="dieresis" xOffset="285" yOffset="360"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>O</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>O</string>
-  </dict>
-  </lib>
 </glyph>

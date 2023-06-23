@@ -26,12 +26,4 @@
       <point x="976" y="300" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>A</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>A</string>
-  </dict>
-  </lib>
 </glyph>

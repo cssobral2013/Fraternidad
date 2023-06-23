@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ibreve" format="2">
-  <advance width="537"/>
+  <advance width="539"/>
   <unicode hex="012D"/>
   <outline>
-    <component base="dotlessi" xOffset="-44"/>
-    <component base="breve" xOffset="-344" yOffset="-380"/>
+    <component base="dotlessi" xOffset="97"/>
+    <component base="breve" xOffset="-353" yOffset="-380"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>i</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>i</string>
-  <key>com.fontlab.recipe</key>
-  <string>dotlessi+breve</string>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
-  </dict>
-  </lib>
 </glyph>

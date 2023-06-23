@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rho" format="2">
-  <advance width="1191"/>
+  <advance width="1086"/>
   <unicode hex="03A1"/>
   <outline>
-    <component base="P" xOffset="29"/>
+    <component base="P" xOffset="-76"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=45</string>
-  </dict>
-  </lib>
 </glyph>

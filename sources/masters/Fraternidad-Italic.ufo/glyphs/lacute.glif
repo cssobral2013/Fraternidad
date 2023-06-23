@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
-  <advance width="603"/>
+  <advance width="498"/>
   <unicode hex="013A"/>
   <outline>
-    <component base="l" xOffset="96"/>
     <contour>
-      <point x="531" y="1937" type="line"/>
-      <point x="409" y="1604" type="line"/>
-      <point x="524" y="1604" type="line"/>
-      <point x="702" y="1937" type="line"/>
+      <point x="426" y="1937" type="line"/>
+      <point x="304" y="1604" type="line"/>
+      <point x="419" y="1604" type="line"/>
+      <point x="597" y="1937" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="166" type="line"/>
+      <point x="414" y="166"/>
+      <point x="352" y="169"/>
+      <point x="303" y="189"/>
+      <point x="273" y="234"/>
+      <point x="273" y="276" type="qcurve" smooth="yes"/>
+      <point x="273" y="302"/>
+      <point x="281" y="351"/>
+      <point x="286" y="376" type="qcurve"/>
+      <point x="455" y="1440" type="line"/>
+      <point x="283" y="1440" type="line"/>
+      <point x="104" y="311" type="line" smooth="yes"/>
+      <point x="100" y="289"/>
+      <point x="94" y="244"/>
+      <point x="94" y="221" type="qcurve" smooth="yes"/>
+      <point x="94" y="165"/>
+      <point x="129" y="82"/>
+      <point x="193" y="27"/>
+      <point x="282" y="0"/>
+      <point x="335" y="0" type="qcurve" smooth="yes"/>
+      <point x="420" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=154</string>
-  </dict>
-  </lib>
 </glyph>

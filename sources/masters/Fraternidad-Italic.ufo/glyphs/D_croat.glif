@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcroat" format="2">
-  <advance width="1419"/>
+  <advance width="1314"/>
   <unicode hex="0110"/>
   <outline>
-    <component base="Eth" xOffset="126"/>
+    <component base="Eth" xOffset="21"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=37</string>
-  </dict>
-  </lib>
 </glyph>

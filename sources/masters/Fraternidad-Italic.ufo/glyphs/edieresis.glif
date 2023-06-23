@@ -3,16 +3,6 @@
   <advance width="1110"/>
   <unicode hex="00EB"/>
   <outline>
-    <component base="iocyr" xOffset="-124"/>
+    <component base="uni0451" xOffset="41"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>e</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>e</string>
-  <key>com.fontlab.recipe</key>
-  <string>iocyr</string>
-  </dict>
-  </lib>
 </glyph>

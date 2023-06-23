@@ -6,12 +6,4 @@
     <component base="U"/>
     <component base="ogonek" xOffset="474" yOffset="70"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>U</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>U</string>
-  </dict>
-  </lib>
 </glyph>

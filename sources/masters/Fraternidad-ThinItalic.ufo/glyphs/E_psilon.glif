@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilon" format="2">
-  <advance width="1074"/>
+  <advance width="1073"/>
   <unicode hex="0395"/>
   <outline>
-    <component base="E" xOffset="81"/>
+    <component base="E"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=103</string>
-  </dict>
-  </lib>
 </glyph>

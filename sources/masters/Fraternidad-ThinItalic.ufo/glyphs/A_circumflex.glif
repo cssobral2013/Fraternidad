@@ -29,12 +29,4 @@
       <point x="912" y="374" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>A</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>A</string>
-  </dict>
-  </lib>
 </glyph>

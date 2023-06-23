@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2116" format="2">
+  <advance width="2280"/>
+  <unicode hex="2116"/>
+  <outline>
+    <component base="N"/>
+    <component base="degree" xOffset="1400"/>
+    <component base="hyphen" xOffset="1400" yOffset="-76"/>
+  </outline>
+</glyph>

@@ -6,16 +6,4 @@
     <component base="O"/>
     <component base="breve" xOffset="191" yOffset="-9"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>O</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>O</string>
-  <key>com.fontlab.recipe</key>
-  <string>O+breve</string>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
-  </dict>
-  </lib>
 </glyph>

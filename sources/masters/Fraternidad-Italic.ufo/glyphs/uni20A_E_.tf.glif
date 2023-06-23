@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AE.tf" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="311" y="200" type="line"/>
+      <point x="340" y="385" type="line"/>
+      <point x="1059" y="682" type="line"/>
+      <point x="1029" y="498" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="578" type="line"/>
+      <point x="400" y="763" type="line"/>
+      <point x="1118" y="1060" type="line"/>
+      <point x="1089" y="876" type="line"/>
+    </contour>
+    <contour>
+      <point x="525" y="0" type="line"/>
+      <point x="726" y="1267" type="line"/>
+      <point x="246" y="1267" type="line"/>
+      <point x="274" y="1440" type="line"/>
+      <point x="1412" y="1440" type="line"/>
+      <point x="1385" y="1267" type="line"/>
+      <point x="905" y="1267" type="line"/>
+      <point x="704" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicron" format="2">
-  <advance width="1587"/>
+  <advance width="1469"/>
   <unicode hex="039F"/>
   <outline>
-    <component base="O" xOffset="94"/>
+    <component base="O" xOffset="-2"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=32</string>
-  </dict>
-  </lib>
 </glyph>

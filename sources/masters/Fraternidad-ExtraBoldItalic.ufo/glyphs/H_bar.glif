@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
-  <advance width="1611"/>
+  <advance width="1502"/>
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="183" y="0" type="line"/>
-      <point x="411" y="1440" type="line"/>
-      <point x="677" y="1440" type="line"/>
-      <point x="584" y="848" type="line"/>
-      <point x="1215" y="848" type="line"/>
-      <point x="1309" y="1440" type="line"/>
-      <point x="1575" y="1440" type="line"/>
-      <point x="1347" y="0" type="line"/>
-      <point x="1080" y="0" type="line"/>
-      <point x="1175" y="594" type="line"/>
-      <point x="543" y="594" type="line"/>
-      <point x="449" y="0" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="302" y="1440" type="line"/>
+      <point x="568" y="1440" type="line"/>
+      <point x="475" y="848" type="line"/>
+      <point x="1106" y="848" type="line"/>
+      <point x="1200" y="1440" type="line"/>
+      <point x="1466" y="1440" type="line"/>
+      <point x="1238" y="0" type="line"/>
+      <point x="971" y="0" type="line"/>
+      <point x="1066" y="594" type="line"/>
+      <point x="434" y="594" type="line"/>
+      <point x="340" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="202" y="988" type="line"/>
-      <point x="242" y="1242" type="line"/>
-      <point x="1681" y="1242" type="line"/>
-      <point x="1641" y="988" type="line"/>
+      <point x="93" y="988" type="line"/>
+      <point x="133" y="1242" type="line"/>
+      <point x="1572" y="1242" type="line"/>
+      <point x="1532" y="988" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=45</string>
-  </dict>
-  </lib>
 </glyph>

@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi" format="2">
-  <advance width="1367"/>
+  <advance width="1267"/>
   <unicode hex="03C0"/>
   <outline>
     <contour>
-      <point x="322" y="0" type="line"/>
-      <point x="480" y="996" type="line"/>
-      <point x="252" y="996" type="line"/>
-      <point x="265" y="1080" type="line"/>
-      <point x="1404" y="1080" type="line"/>
-      <point x="1390" y="996" type="line"/>
-      <point x="1162" y="996" type="line"/>
-      <point x="1005" y="0" type="line"/>
-      <point x="926" y="0" type="line"/>
-      <point x="1083" y="996" type="line"/>
-      <point x="559" y="996" type="line"/>
-      <point x="401" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="380" y="996" type="line"/>
+      <point x="152" y="996" type="line"/>
+      <point x="165" y="1080" type="line"/>
+      <point x="1304" y="1080" type="line"/>
+      <point x="1290" y="996" type="line"/>
+      <point x="1062" y="996" type="line"/>
+      <point x="905" y="0" type="line"/>
+      <point x="826" y="0" type="line"/>
+      <point x="983" y="996" type="line"/>
+      <point x="459" y="996" type="line"/>
+      <point x="301" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=93</string>
-  </dict>
-  </lib>
 </glyph>

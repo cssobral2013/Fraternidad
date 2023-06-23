@@ -3,12 +3,6 @@
   <advance width="1119"/>
   <unicode hex="03A7"/>
   <outline>
-    <component base="X" xOffset="80"/>
+    <component base="X"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=-2</string>
-  </dict>
-  </lib>
 </glyph>

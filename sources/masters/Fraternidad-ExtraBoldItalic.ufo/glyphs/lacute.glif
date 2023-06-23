@@ -3,20 +3,34 @@
   <advance width="619"/>
   <unicode hex="013A"/>
   <outline>
-    <component base="l"/>
     <contour>
       <point x="518" y="1980" type="line"/>
       <point x="381" y="1590" type="line"/>
       <point x="543" y="1590" type="line"/>
       <point x="762" y="1980" type="line"/>
     </contour>
+    <contour>
+      <point x="513" y="240" type="line"/>
+      <point x="484" y="240"/>
+      <point x="423" y="240"/>
+      <point x="374" y="256"/>
+      <point x="342" y="295"/>
+      <point x="342" y="335" type="qcurve" smooth="yes"/>
+      <point x="342" y="369"/>
+      <point x="355" y="434"/>
+      <point x="360" y="467" type="qcurve" smooth="yes"/>
+      <point x="515" y="1440" type="line"/>
+      <point x="259" y="1440" type="line"/>
+      <point x="81" y="318" type="line"/>
+      <point x="79" y="301"/>
+      <point x="76" y="268"/>
+      <point x="76" y="251" type="qcurve" smooth="yes"/>
+      <point x="76" y="184"/>
+      <point x="118" y="89"/>
+      <point x="193" y="28"/>
+      <point x="297" y="0"/>
+      <point x="359" y="0" type="qcurve" smooth="yes"/>
+      <point x="475" y="0" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>l</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>l</string>
-  </dict>
-  </lib>
 </glyph>

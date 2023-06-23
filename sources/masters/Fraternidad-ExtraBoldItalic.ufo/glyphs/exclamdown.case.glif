@@ -2,6 +2,6 @@
 <glyph name="exclamdown.case" format="2">
   <advance width="752"/>
   <outline>
-    <component base="exclam" yxScale="-0.3101" yScale="-1" xOffset="208" yOffset="1440"/>
+    <component base="exclam" yxScale="-0.3101" yScale="-1" xOffset="268" yOffset="1440"/>
   </outline>
 </glyph>

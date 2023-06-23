@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Yacyr" format="2">
-  <advance width="1284"/>
-  <unicode hex="042F"/>
-  <outline>
-    <component base="R" xScale="-1" xOffset="1284"/>
-  </outline>
-</glyph>

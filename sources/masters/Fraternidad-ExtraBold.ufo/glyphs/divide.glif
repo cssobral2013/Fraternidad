@@ -4,7 +4,7 @@
   <unicode hex="00F7"/>
   <outline>
     <component base="minus"/>
-    <component base="period" xScale="0.9091" yScale="0.9091" xOffset="250" yOffset="928"/>
-    <component base="period" xScale="0.9091" yScale="0.9091" xOffset="250" yOffset="268"/>
+    <component base="period" xScale="0.9522" yScale="0.9522" xOffset="250" yOffset="928"/>
+    <component base="period" xScale="0.9522" yScale="0.9522" xOffset="250" yOffset="268"/>
   </outline>
 </glyph>

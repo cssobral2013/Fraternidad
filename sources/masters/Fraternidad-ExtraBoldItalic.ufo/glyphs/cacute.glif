@@ -3,20 +3,51 @@
   <advance width="1095"/>
   <unicode hex="0107"/>
   <outline>
-    <component base="c"/>
     <contour>
       <point x="664" y="1620" type="line"/>
       <point x="527" y="1230" type="line"/>
       <point x="688" y="1230" type="line"/>
       <point x="908" y="1620" type="line"/>
     </contour>
+    <contour>
+      <point x="503" y="-30" type="qcurve" smooth="yes"/>
+      <point x="685" y="-30"/>
+      <point x="940" y="157"/>
+      <point x="999" y="328" type="qcurve"/>
+      <point x="740" y="386" type="line"/>
+      <point x="714" y="308"/>
+      <point x="607" y="224"/>
+      <point x="524" y="224" type="qcurve" smooth="yes"/>
+      <point x="465" y="224"/>
+      <point x="385" y="268"/>
+      <point x="336" y="341"/>
+      <point x="315" y="437"/>
+      <point x="315" y="488" type="qcurve" smooth="yes"/>
+      <point x="315" y="550"/>
+      <point x="342" y="681"/>
+      <point x="404" y="788"/>
+      <point x="505" y="856"/>
+      <point x="580" y="856" type="qcurve" smooth="yes"/>
+      <point x="620" y="856"/>
+      <point x="685" y="829"/>
+      <point x="733" y="781"/>
+      <point x="764" y="716"/>
+      <point x="771" y="678" type="qcurve"/>
+      <point x="1036" y="750" type="line"/>
+      <point x="1026" y="838"/>
+      <point x="954" y="973"/>
+      <point x="842" y="1064"/>
+      <point x="694" y="1110"/>
+      <point x="608" y="1110" type="qcurve" smooth="yes"/>
+      <point x="473" y="1110"/>
+      <point x="263" y="1003"/>
+      <point x="118" y="824"/>
+      <point x="43" y="592"/>
+      <point x="43" y="466" type="qcurve" smooth="yes"/>
+      <point x="43" y="360"/>
+      <point x="104" y="178"/>
+      <point x="221" y="45"/>
+      <point x="392" y="-30"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>c</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>c</string>
-  </dict>
-  </lib>
 </glyph>

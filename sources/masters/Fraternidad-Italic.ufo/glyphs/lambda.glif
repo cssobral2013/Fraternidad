@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lambda" format="2">
-  <advance width="1027"/>
+  <advance width="922"/>
   <unicode hex="03BB"/>
   <outline>
     <contour>
-      <point x="-35" y="0" type="line"/>
-      <point x="509" y="1080" type="line"/>
-      <point x="495" y="1141"/>
-      <point x="478" y="1232"/>
-      <point x="443" y="1269" type="curve" smooth="yes"/>
-      <point x="401" y="1312"/>
-      <point x="334" y="1309"/>
-      <point x="261" y="1309" type="curve"/>
-      <point x="287" y="1470" type="line"/>
-      <point x="353" y="1470" type="line" smooth="yes"/>
-      <point x="452" y="1470"/>
-      <point x="525" y="1455"/>
-      <point x="574" y="1401" type="curve"/>
-      <point x="641" y="1328"/>
-      <point x="661" y="1212"/>
-      <point x="686" y="1080" type="curve" smooth="yes"/>
-      <point x="888" y="0" type="line"/>
-      <point x="711" y="0" type="line"/>
-      <point x="560" y="848" type="line"/>
-      <point x="141" y="0" type="line"/>
+      <point x="-140" y="0" type="line"/>
+      <point x="404" y="1080" type="line"/>
+      <point x="399" y="1103"/>
+      <point x="387" y="1157"/>
+      <point x="371" y="1210"/>
+      <point x="351" y="1255"/>
+      <point x="338" y="1269" type="qcurve"/>
+      <point x="322" y="1285"/>
+      <point x="282" y="1302"/>
+      <point x="235" y="1309"/>
+      <point x="183" y="1309"/>
+      <point x="156" y="1309" type="qcurve"/>
+      <point x="182" y="1470" type="line"/>
+      <point x="248" y="1470" type="line" smooth="yes"/>
+      <point x="285" y="1470"/>
+      <point x="350" y="1464"/>
+      <point x="405" y="1448"/>
+      <point x="451" y="1421"/>
+      <point x="469" y="1401" type="qcurve" smooth="yes"/>
+      <point x="494" y="1374"/>
+      <point x="528" y="1304"/>
+      <point x="553" y="1222"/>
+      <point x="572" y="1130"/>
+      <point x="581" y="1080" type="qcurve" smooth="yes"/>
+      <point x="783" y="0" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="455" y="848" type="line"/>
+      <point x="36" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=-35</string>
-  </dict>
-  </lib>
 </glyph>

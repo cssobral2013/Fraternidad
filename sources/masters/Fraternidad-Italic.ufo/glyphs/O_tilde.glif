@@ -6,14 +6,4 @@
     <component base="O"/>
     <component base="tilde" xOffset="142" yOffset="-19"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>O</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>O</string>
-  <key>com.fontlab.recipe</key>
-  <string>O+tilde</string>
-  </dict>
-  </lib>
 </glyph>

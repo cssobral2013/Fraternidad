@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Icyr" format="2">
-  <advance width="1324"/>
-  <unicode hex="0418"/>
-  <outline>
-    <component base="N" xScale="-1" xOffset="1324"/>
-  </outline>
-</glyph>

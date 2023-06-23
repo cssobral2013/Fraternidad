@@ -19,10 +19,4 @@
       <point x="223" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>i</string>
-  </dict>
-  </lib>
 </glyph>

@@ -10,44 +10,44 @@
       <point x="924" y="1590" type="line"/>
     </contour>
     <contour>
-      <point x="583" y="-30" type="curve" smooth="yes"/>
-      <point x="302" y="-30"/>
-      <point x="89" y="129"/>
-      <point x="89" y="425" type="curve" smooth="yes"/>
-      <point x="89" y="464"/>
-      <point x="93" y="502"/>
-      <point x="99" y="540" type="curve" smooth="yes"/>
+      <point x="583" y="-30" type="qcurve" smooth="yes"/>
+      <point x="478" y="-30"/>
+      <point x="297" y="29"/>
+      <point x="164" y="144"/>
+      <point x="89" y="314"/>
+      <point x="89" y="425" type="qcurve" smooth="yes"/>
+      <point x="89" y="454"/>
+      <point x="94" y="511"/>
+      <point x="99" y="540" type="qcurve" smooth="yes"/>
       <point x="241" y="1438" type="line"/>
       <point x="512" y="1440" type="line"/>
       <point x="370" y="542" type="line" smooth="yes"/>
-      <point x="367" y="522"/>
-      <point x="365" y="502"/>
-      <point x="365" y="482" type="curve" smooth="yes"/>
-      <point x="365" y="329"/>
-      <point x="471" y="226"/>
-      <point x="623" y="226" type="curve" smooth="yes"/>
-      <point x="776" y="226"/>
-      <point x="900" y="323"/>
-      <point x="954" y="457" type="curve"/>
-      <point x="964" y="484"/>
-      <point x="972" y="513"/>
-      <point x="977" y="542" type="curve"/>
+      <point x="368" y="527"/>
+      <point x="365" y="497"/>
+      <point x="365" y="482" type="qcurve" smooth="yes"/>
+      <point x="365" y="425"/>
+      <point x="403" y="330"/>
+      <point x="471" y="263"/>
+      <point x="566" y="226"/>
+      <point x="623" y="226" type="qcurve" smooth="yes"/>
+      <point x="680" y="226"/>
+      <point x="783" y="261"/>
+      <point x="868" y="322"/>
+      <point x="934" y="407"/>
+      <point x="954" y="457" type="qcurve" smooth="yes"/>
+      <point x="962" y="477"/>
+      <point x="973" y="520"/>
+      <point x="977" y="542" type="qcurve"/>
       <point x="977" y="542"/>
       <point x="977" y="542"/>
-      <point x="977" y="542" type="curve"/>
+      <point x="977" y="542" type="qcurve"/>
       <point x="1119" y="1440" type="line"/>
       <point x="1390" y="1440" type="line"/>
       <point x="1247" y="540" type="line" smooth="yes"/>
-      <point x="1193" y="199"/>
-      <point x="930" y="-30"/>
+      <point x="1227" y="412"/>
+      <point x="1112" y="202"/>
+      <point x="938" y="52"/>
+      <point x="713" y="-30"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>U</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>U</string>
-  </dict>
-  </lib>
 </glyph>

@@ -44,7 +44,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2020/08/02 07:40:34</string>
+  <string>2023/06/23 16:59:04</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -189,7 +189,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>postscriptWeightName</key>
   <string>ExtraBold</string>
   <key>styleMapFamilyName</key>
-  <string>Fraternidad ExtraBold</string>
+  <string>Fraternidad</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>

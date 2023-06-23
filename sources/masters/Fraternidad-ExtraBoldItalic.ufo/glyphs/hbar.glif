@@ -1,20 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="2">
-  <advance width="1261"/>
+  <advance width="1152"/>
   <unicode hex="0127"/>
   <outline>
-    <component base="h" xOffset="50"/>
     <contour>
-      <point x="175" y="1160" type="line"/>
-      <point x="208" y="1368" type="line"/>
-      <point x="722" y="1368" type="line"/>
-      <point x="689" y="1160" type="line"/>
+      <point x="66" y="1160" type="line"/>
+      <point x="99" y="1368" type="line"/>
+      <point x="613" y="1368" type="line"/>
+      <point x="580" y="1160" type="line"/>
+    </contour>
+    <contour>
+      <point x="651" y="0" type="line"/>
+      <point x="732" y="510" type="line" smooth="yes"/>
+      <point x="737" y="543"/>
+      <point x="745" y="609"/>
+      <point x="745" y="642" type="qcurve" smooth="yes"/>
+      <point x="745" y="689"/>
+      <point x="728" y="767"/>
+      <point x="687" y="824"/>
+      <point x="618" y="856"/>
+      <point x="566" y="856" type="qcurve" smooth="yes"/>
+      <point x="500" y="856"/>
+      <point x="406" y="802"/>
+      <point x="344" y="715"/>
+      <point x="308" y="604"/>
+      <point x="299" y="548" type="qcurve"/>
+      <point x="164" y="622" type="line"/>
+      <point x="180" y="724"/>
+      <point x="266" y="903"/>
+      <point x="401" y="1035"/>
+      <point x="579" y="1112"/>
+      <point x="687" y="1112" type="qcurve" smooth="yes"/>
+      <point x="775" y="1112"/>
+      <point x="901" y="1061"/>
+      <point x="981" y="967"/>
+      <point x="1019" y="833"/>
+      <point x="1019" y="749" type="qcurve" smooth="yes"/>
+      <point x="1019" y="713"/>
+      <point x="1011" y="641"/>
+      <point x="1006" y="606" type="qcurve" smooth="yes"/>
+      <point x="910" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-48" y="0" type="line"/>
+      <point x="181" y="1440" type="line"/>
+      <point x="408" y="1440" type="line"/>
+      <point x="291" y="700" type="line"/>
+      <point x="323" y="700" type="line"/>
+      <point x="212" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=-9</string>
-  </dict>
-  </lib>
 </glyph>

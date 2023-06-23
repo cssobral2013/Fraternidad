@@ -3,7 +3,22 @@
   <advance width="1185"/>
   <unicode hex="00C0"/>
   <outline>
-    <component base="A"/>
+    <contour>
+      <point x="-65" y="0" type="line"/>
+      <point x="677" y="1440" type="line"/>
+      <point x="765" y="1440" type="line"/>
+      <point x="1050" y="0" type="line"/>
+      <point x="962" y="0" type="line"/>
+      <point x="684" y="1402" type="line"/>
+      <point x="743" y="1402" type="line"/>
+      <point x="23" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="374" type="line"/>
+      <point x="203" y="454" type="line"/>
+      <point x="924" y="454" type="line"/>
+      <point x="912" y="374" type="line"/>
+    </contour>
     <contour>
       <point x="691" y="1620" type="line"/>
       <point x="638" y="1890" type="line"/>
@@ -11,14 +26,4 @@
       <point x="755" y="1620" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>A</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>A</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

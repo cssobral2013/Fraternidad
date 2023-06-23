@@ -6,13 +6,4 @@
     <component base="E"/>
     <component base="breve" xOffset="92" yOffset="-40"/>
   </outline>
-  <guideline angle="0" x="0" y="4138"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>E+breve</string>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
-  </dict>
-  </lib>
 </glyph>

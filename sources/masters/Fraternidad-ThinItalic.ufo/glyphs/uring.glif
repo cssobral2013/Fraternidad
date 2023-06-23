@@ -1,42 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="2">
-  <advance width="1134"/>
+  <advance width="1034"/>
   <unicode hex="016F"/>
   <outline>
-    <component base="u" xOffset="147"/>
     <contour>
-      <point x="683" y="1200" type="curve" smooth="yes"/>
-      <point x="593" y="1200"/>
-      <point x="527" y="1271"/>
-      <point x="527" y="1360" type="curve" smooth="yes"/>
-      <point x="527" y="1474"/>
-      <point x="627" y="1588"/>
-      <point x="744" y="1588" type="curve" smooth="yes"/>
-      <point x="836" y="1588"/>
-      <point x="900" y="1516"/>
-      <point x="900" y="1426" type="curve" smooth="yes"/>
-      <point x="900" y="1311"/>
-      <point x="801" y="1200"/>
+      <point x="583" y="1200" type="qcurve" smooth="yes"/>
+      <point x="549" y="1200"/>
+      <point x="492" y="1225"/>
+      <point x="450" y="1268"/>
+      <point x="427" y="1327"/>
+      <point x="427" y="1360" type="qcurve" smooth="yes"/>
+      <point x="427" y="1403"/>
+      <point x="462" y="1485"/>
+      <point x="521" y="1549"/>
+      <point x="600" y="1588"/>
+      <point x="644" y="1588" type="qcurve" smooth="yes"/>
+      <point x="679" y="1588"/>
+      <point x="736" y="1563"/>
+      <point x="777" y="1519"/>
+      <point x="800" y="1460"/>
+      <point x="800" y="1426" type="qcurve" smooth="yes"/>
+      <point x="800" y="1383"/>
+      <point x="765" y="1301"/>
+      <point x="706" y="1238"/>
+      <point x="628" y="1200"/>
     </contour>
     <contour>
-      <point x="696" y="1284" type="curve" smooth="yes"/>
-      <point x="765" y="1284"/>
-      <point x="820" y="1347"/>
-      <point x="820" y="1414" type="curve" smooth="yes"/>
-      <point x="820" y="1466"/>
-      <point x="784" y="1504"/>
-      <point x="731" y="1504" type="curve" smooth="yes"/>
-      <point x="663" y="1504"/>
-      <point x="607" y="1441"/>
-      <point x="607" y="1375" type="curve" smooth="yes"/>
-      <point x="607" y="1324"/>
-      <point x="644" y="1284"/>
+      <point x="596" y="1284" type="qcurve" smooth="yes"/>
+      <point x="622" y="1284"/>
+      <point x="667" y="1306"/>
+      <point x="701" y="1342"/>
+      <point x="720" y="1389"/>
+      <point x="720" y="1414" type="qcurve" smooth="yes"/>
+      <point x="720" y="1453"/>
+      <point x="671" y="1504"/>
+      <point x="631" y="1504" type="qcurve" smooth="yes"/>
+      <point x="606" y="1504"/>
+      <point x="560" y="1482"/>
+      <point x="527" y="1446"/>
+      <point x="507" y="1400"/>
+      <point x="507" y="1375" type="qcurve" smooth="yes"/>
+      <point x="507" y="1337"/>
+      <point x="557" y="1284"/>
+    </contour>
+    <contour>
+      <point x="464" y="-24" type="qcurve" smooth="yes"/>
+      <point x="376" y="-24"/>
+      <point x="246" y="33"/>
+      <point x="161" y="135"/>
+      <point x="119" y="275"/>
+      <point x="119" y="358" type="qcurve" smooth="yes"/>
+      <point x="119" y="392"/>
+      <point x="126" y="459"/>
+      <point x="131" y="492" type="qcurve" smooth="yes"/>
+      <point x="224" y="1080" type="line"/>
+      <point x="303" y="1080" type="line"/>
+      <point x="212" y="508" type="line" smooth="yes"/>
+      <point x="207" y="473"/>
+      <point x="200" y="403"/>
+      <point x="200" y="368" type="qcurve" smooth="yes"/>
+      <point x="200" y="298"/>
+      <point x="231" y="184"/>
+      <point x="297" y="103"/>
+      <point x="402" y="58"/>
+      <point x="477" y="58" type="qcurve" smooth="yes"/>
+      <point x="573" y="58"/>
+      <point x="716" y="129"/>
+      <point x="816" y="249"/>
+      <point x="877" y="405"/>
+      <point x="891" y="490" type="qcurve"/>
+      <point x="965" y="492" type="line"/>
+      <point x="949" y="390"/>
+      <point x="874" y="203"/>
+      <point x="750" y="61"/>
+      <point x="577" y="-24"/>
+    </contour>
+    <contour>
+      <point x="819" y="0" type="line"/>
+      <point x="854" y="220" type="line"/>
+      <point x="849" y="220" type="line"/>
+      <point x="985" y="1080" type="line"/>
+      <point x="1064" y="1080" type="line"/>
+      <point x="893" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=152</string>
-  </dict>
-  </lib>
 </glyph>

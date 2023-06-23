@@ -6,7 +6,7 @@
     <contour>
       <point x="220" y="-6" type="qcurve" smooth="yes"/>
       <point x="189" y="-6"/>
-      <point x="146" y="36"/>
+      <point x="146" y="37"/>
       <point x="146" y="67" type="qcurve" smooth="yes"/>
       <point x="146" y="99"/>
       <point x="189" y="141"/>
