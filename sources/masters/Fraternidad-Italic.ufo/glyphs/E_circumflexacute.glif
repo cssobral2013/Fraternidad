@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexacute" format="2">
+  <advance width="1104"/>
+  <unicode hex="1EBE"/>
+  <outline>
+    <contour>
+      <point x="393" y="1604" type="line"/>
+      <point x="680" y="1892" type="line"/>
+      <point x="838" y="1892" type="line"/>
+      <point x="1034" y="1604" type="line"/>
+      <point x="859" y="1604" type="line"/>
+      <point x="741" y="1779" type="line"/>
+      <point x="568" y="1604" type="line"/>
+    </contour>
+    <contour>
+      <point x="1180" y="2147" type="line"/>
+      <point x="1056" y="1814" type="line"/>
+      <point x="1175" y="1814" type="line"/>
+      <point x="1357" y="2147" type="line"/>
+    </contour>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="245" y="1440" type="line"/>
+      <point x="1138" y="1440" type="line"/>
+      <point x="1111" y="1267" type="line"/>
+      <point x="397" y="1267" type="line"/>
+      <point x="326" y="823" type="line"/>
+      <point x="923" y="823" type="line"/>
+      <point x="896" y="650" type="line"/>
+      <point x="299" y="650" type="line"/>
+      <point x="224" y="173" type="line"/>
+      <point x="938" y="173" type="line"/>
+      <point x="910" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>E</string>
+  </dict>
+  </lib>
+</glyph>

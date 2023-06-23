@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scommaaccent" format="2">
+  <advance width="1088"/>
+  <unicode hex="0219"/>
+  <outline>
+    <component base="s" xOffset="133"/>
+    <contour>
+      <point x="406" y="-193" type="line"/>
+      <point x="285" y="-526" type="line"/>
+      <point x="399" y="-526" type="line"/>
+      <point x="577" y="-193" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=112</string>
+  </dict>
+  </lib>
+</glyph>

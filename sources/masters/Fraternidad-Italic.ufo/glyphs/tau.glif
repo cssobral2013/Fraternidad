@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="2">
+  <advance width="1145"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="481" y="219" type="curve" smooth="yes"/>
+      <point x="481" y="277"/>
+      <point x="497" y="353"/>
+      <point x="506" y="411" type="curve" smooth="yes"/>
+      <point x="585" y="914" type="line"/>
+      <point x="229" y="914" type="line"/>
+      <point x="256" y="1080" type="line"/>
+      <point x="1139" y="1080" type="line"/>
+      <point x="1113" y="914" type="line"/>
+      <point x="757" y="914" type="line"/>
+      <point x="679" y="419" type="line" smooth="yes"/>
+      <point x="672" y="374"/>
+      <point x="660" y="323"/>
+      <point x="660" y="277" type="curve" smooth="yes"/>
+      <point x="660" y="219"/>
+      <point x="699" y="199"/>
+      <point x="744" y="190" type="curve"/>
+      <point x="779" y="150"/>
+      <point x="835" y="148"/>
+      <point x="894" y="152" type="curve"/>
+      <point x="909" y="132"/>
+      <point x="914" y="54"/>
+      <point x="928" y="38" type="curve"/>
+      <point x="899" y="24"/>
+      <point x="864" y="-3"/>
+      <point x="834" y="-9" type="curve"/>
+      <point x="747" y="-14"/>
+      <point x="657" y="-8"/>
+      <point x="607" y="61" type="curve"/>
+      <point x="532" y="79"/>
+      <point x="481" y="128"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=84</string>
+  </dict>
+  </lib>
+</glyph>

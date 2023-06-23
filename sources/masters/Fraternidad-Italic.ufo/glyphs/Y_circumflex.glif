@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="1131"/>
+  <unicode hex="0176"/>
+  <outline>
+    <contour>
+      <point x="391" y="1604" type="line"/>
+      <point x="679" y="1892" type="line"/>
+      <point x="836" y="1892" type="line"/>
+      <point x="1032" y="1604" type="line"/>
+      <point x="857" y="1604" type="line"/>
+      <point x="740" y="1779" type="line"/>
+      <point x="567" y="1604" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="0" type="line"/>
+      <point x="464" y="598" type="line"/>
+      <point x="122" y="1440" type="line"/>
+      <point x="330" y="1440" type="line"/>
+      <point x="588" y="808" type="line"/>
+      <point x="1045" y="1440" type="line"/>
+      <point x="1253" y="1440" type="line"/>
+      <point x="645" y="598" type="line"/>
+      <point x="551" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Y</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Y</string>
+  </dict>
+  </lib>
+</glyph>

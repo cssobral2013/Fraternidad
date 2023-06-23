@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pecyr" format="2">
+  <advance width="1407"/>
+  <unicode hex="041F"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="1440" type="line"/>
+      <point x="1267" y="1440" type="line"/>
+      <point x="1267" y="0" type="line"/>
+      <point x="1084" y="0" type="line"/>
+      <point x="1084" y="1267" type="line"/>
+      <point x="323" y="1267" type="line"/>
+      <point x="323" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

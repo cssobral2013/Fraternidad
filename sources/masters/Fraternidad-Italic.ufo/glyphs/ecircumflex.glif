@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex" format="2">
+  <advance width="1110"/>
+  <unicode hex="00EA"/>
+  <outline>
+    <component base="e"/>
+    <contour>
+      <point x="317" y="1244" type="line"/>
+      <point x="596" y="1532" type="line"/>
+      <point x="750" y="1532" type="line"/>
+      <point x="938" y="1244" type="line"/>
+      <point x="768" y="1244" type="line"/>
+      <point x="655" y="1419" type="line"/>
+      <point x="487" y="1244" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>e</string>
+  </dict>
+  </lib>
+</glyph>

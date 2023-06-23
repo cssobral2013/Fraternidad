@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="2">
+  <advance width="1006"/>
+  <unicode hex="017A"/>
+  <outline>
+    <contour>
+      <point x="702" y="1577" type="line"/>
+      <point x="580" y="1244" type="line"/>
+      <point x="695" y="1244" type="line"/>
+      <point x="873" y="1577" type="line"/>
+    </contour>
+    <contour>
+      <point x="-64" y="0" type="line"/>
+      <point x="-59" y="32" type="line"/>
+      <point x="696" y="914" type="line"/>
+      <point x="132" y="914" type="line"/>
+      <point x="159" y="1080" type="line"/>
+      <point x="1002" y="1080" type="line"/>
+      <point x="996" y="1046" type="line"/>
+      <point x="242" y="166" type="line"/>
+      <point x="825" y="166" type="line"/>
+      <point x="799" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-65</string>
+  </dict>
+  </lib>
+</glyph>

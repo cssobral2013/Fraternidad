@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="2">
+  <advance width="1232"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <component base="u" xOffset="141"/>
+    <component base="dieresis" xOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=152</string>
+  </dict>
+  </lib>
+</glyph>

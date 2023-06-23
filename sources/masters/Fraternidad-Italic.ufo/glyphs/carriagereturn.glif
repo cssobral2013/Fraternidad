@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carriagereturn" format="2">
+  <advance width="1581"/>
+  <unicode hex="21B5"/>
+  <outline>
+    <contour>
+      <point x="668" y="156" type="line"/>
+      <point x="200" y="630" type="line"/>
+      <point x="668" y="1104" type="line"/>
+      <point x="760" y="1011" type="line"/>
+      <point x="457" y="706" type="line"/>
+      <point x="1258" y="706" type="line"/>
+      <point x="1258" y="1440" type="line"/>
+      <point x="1406" y="1440" type="line"/>
+      <point x="1406" y="554" type="line"/>
+      <point x="457" y="554" type="line"/>
+      <point x="760" y="249" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron" format="2">
+  <advance width="1089"/>
+  <unicode hex="0161"/>
+  <outline>
+    <component base="s" xOffset="133"/>
+    <contour>
+      <point x="447" y="1532" type="line"/>
+      <point x="616" y="1532" type="line"/>
+      <point x="729" y="1356" type="line"/>
+      <point x="897" y="1532" type="line"/>
+      <point x="1066" y="1532" type="line"/>
+      <point x="788" y="1244" type="line"/>
+      <point x="635" y="1244" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=112</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ihoi" format="2">
+  <advance width="460"/>
+  <unicode hex="1EC8"/>
+  <outline>
+    <contour>
+      <point x="379" y="1850" type="curve"/>
+      <point x="342" y="1944" type="line"/>
+      <point x="388" y="1984"/>
+      <point x="449" y="2011"/>
+      <point x="511" y="2011" type="curve" smooth="yes"/>
+      <point x="610" y="2011"/>
+      <point x="666" y="1941"/>
+      <point x="666" y="1846" type="curve" smooth="yes"/>
+      <point x="666" y="1729"/>
+      <point x="561" y="1632"/>
+      <point x="455" y="1609" type="curve"/>
+      <point x="422" y="1689" type="line"/>
+      <point x="474" y="1709"/>
+      <point x="542" y="1752"/>
+      <point x="542" y="1815" type="curve" smooth="yes"/>
+      <point x="542" y="1857"/>
+      <point x="521" y="1889"/>
+      <point x="477" y="1889" type="curve" smooth="yes"/>
+      <point x="443" y="1889"/>
+      <point x="406" y="1870"/>
+    </contour>
+    <contour>
+      <point x="133" y="0" type="line"/>
+      <point x="361" y="1440" type="line"/>
+      <point x="539" y="1440" type="line"/>
+      <point x="311" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>I</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="2">
+  <advance width="1352"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="220" y="1267" type="line"/>
+      <point x="247" y="1440" type="line"/>
+      <point x="1352" y="1440" type="line"/>
+      <point x="1324" y="1267" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="0" type="line"/>
+      <point x="46" y="173" type="line"/>
+      <point x="1151" y="173" type="line"/>
+      <point x="1123" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="634" type="line"/>
+      <point x="245" y="807" type="line"/>
+      <point x="1154" y="807" type="line"/>
+      <point x="1126" y="634" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=18</string>
+  </dict>
+  </lib>
+</glyph>

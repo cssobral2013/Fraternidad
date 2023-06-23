@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="2">
+  <advance width="452"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <contour>
+      <point x="389" y="1577" type="line"/>
+      <point x="353" y="1372" type="line"/>
+      <point x="292" y="1244" type="line"/>
+      <point x="271" y="1449" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="252" y="1080" type="line"/>
+      <point x="424" y="1080" type="line"/>
+      <point x="253" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>i</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>i</string>
+  </dict>
+  </lib>
+</glyph>

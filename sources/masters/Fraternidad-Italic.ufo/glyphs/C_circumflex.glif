@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccircumflex" format="2">
+  <advance width="1405"/>
+  <unicode hex="0108"/>
+  <outline>
+    <component base="C"/>
+    <contour>
+      <point x="512" y="1604" type="line"/>
+      <point x="799" y="1892" type="line"/>
+      <point x="957" y="1892" type="line"/>
+      <point x="1153" y="1604" type="line"/>
+      <point x="978" y="1604" type="line"/>
+      <point x="860" y="1779" type="line"/>
+      <point x="687" y="1604" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>C</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>C</string>
+  </dict>
+  </lib>
+</glyph>

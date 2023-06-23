@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racute" format="2">
+  <advance width="704"/>
+  <unicode hex="0155"/>
+  <outline>
+    <contour>
+      <point x="501" y="1577" type="line"/>
+      <point x="380" y="1244" type="line"/>
+      <point x="494" y="1244" type="line"/>
+      <point x="673" y="1577" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="195" y="1080" type="line"/>
+      <point x="349" y="1080" type="line"/>
+      <point x="308" y="819" type="line"/>
+      <point x="289" y="853" type="line"/>
+      <point x="359" y="988"/>
+      <point x="475" y="1076"/>
+      <point x="625" y="1086" type="curve"/>
+      <point x="636" y="1087"/>
+      <point x="646" y="1088"/>
+      <point x="657" y="1088" type="curve" smooth="yes"/>
+      <point x="681" y="1088"/>
+      <point x="704" y="1086"/>
+      <point x="726" y="1080" type="curve"/>
+      <point x="699" y="909" type="line"/>
+      <point x="675" y="916"/>
+      <point x="650" y="919"/>
+      <point x="624" y="919" type="curve" smooth="yes"/>
+      <point x="552" y="919"/>
+      <point x="495" y="900"/>
+      <point x="441" y="859" type="curve" smooth="yes"/>
+      <point x="358" y="798"/>
+      <point x="312" y="701"/>
+      <point x="292" y="595" type="curve" smooth="yes"/>
+      <point x="285" y="556"/>
+      <point x="279" y="516"/>
+      <point x="273" y="478" type="curve" smooth="yes"/>
+      <point x="197" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=23</string>
+  </dict>
+  </lib>
+</glyph>

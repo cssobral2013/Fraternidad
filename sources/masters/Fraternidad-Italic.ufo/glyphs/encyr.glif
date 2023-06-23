@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="encyr" format="2">
+  <advance width="1123"/>
+  <unicode hex="043D"/>
+  <outline>
+    <contour>
+      <point x="18" y="0" type="line"/>
+      <point x="189" y="1080" type="line"/>
+      <point x="361" y="1080" type="line"/>
+      <point x="290" y="627" type="line"/>
+      <point x="824" y="627" type="line"/>
+      <point x="895" y="1080" type="line"/>
+      <point x="1067" y="1080" type="line"/>
+      <point x="896" y="0" type="line"/>
+      <point x="724" y="0" type="line"/>
+      <point x="795" y="454" type="line"/>
+      <point x="262" y="454" type="line"/>
+      <point x="190" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=17</string>
+  </dict>
+  </lib>
+</glyph>

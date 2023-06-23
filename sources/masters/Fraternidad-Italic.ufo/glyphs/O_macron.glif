@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="2">
+  <advance width="1425"/>
+  <unicode hex="014C"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="667" y="1680" type="line"/>
+      <point x="691" y="1829" type="line"/>
+      <point x="1194" y="1829" type="line"/>
+      <point x="1170" y="1680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

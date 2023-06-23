@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexgrave" format="2">
+  <advance width="1261"/>
+  <unicode hex="1EA6"/>
+  <outline>
+    <contour>
+      <point x="456" y="1604" type="line"/>
+      <point x="743" y="1892" type="line"/>
+      <point x="901" y="1892" type="line"/>
+      <point x="1097" y="1604" type="line"/>
+      <point x="921" y="1604" type="line"/>
+      <point x="804" y="1779" type="line"/>
+      <point x="631" y="1604" type="line"/>
+    </contour>
+    <contour>
+      <point x="1196" y="2147" type="line"/>
+      <point x="1019" y="2147" type="line"/>
+      <point x="1097" y="1814" type="line"/>
+      <point x="1215" y="1814" type="line"/>
+    </contour>
+    <contour>
+      <point x="-71" y="0" type="line"/>
+      <point x="627" y="1440" type="line"/>
+      <point x="878" y="1440" type="line"/>
+      <point x="1120" y="0" type="line"/>
+      <point x="934" y="0" type="line"/>
+      <point x="706" y="1333" type="line"/>
+      <point x="761" y="1333" type="line"/>
+      <point x="115" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="335" type="line"/>
+      <point x="238" y="507" type="line"/>
+      <point x="971" y="507" type="line"/>
+      <point x="945" y="335" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>A</string>
+  </dict>
+  </lib>
+</glyph>

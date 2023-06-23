@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohungarumlaut" format="2">
+  <advance width="1425"/>
+  <unicode hex="0150"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="1118" y="1937" type="line"/>
+      <point x="994" y="1604" type="line"/>
+      <point x="1113" y="1604" type="line"/>
+      <point x="1296" y="1937" type="line"/>
+    </contour>
+    <contour>
+      <point x="738" y="1937" type="line"/>
+      <point x="613" y="1604" type="line"/>
+      <point x="731" y="1604" type="line"/>
+      <point x="915" y="1937" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

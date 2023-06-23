@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yukrcyr" format="2">
+  <advance width="535"/>
+  <unicode hex="0407"/>
+  <outline>
+    <component base="Idieresis" xOffset="57"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=91</string>
+  </dict>
+  </lib>
+</glyph>

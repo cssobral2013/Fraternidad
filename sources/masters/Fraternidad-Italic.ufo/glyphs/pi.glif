@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="2">
+  <advance width="1391"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="282" y="0" type="line"/>
+      <point x="427" y="914" type="line"/>
+      <point x="239" y="914" type="line"/>
+      <point x="265" y="1080" type="line"/>
+      <point x="1404" y="1080" type="line"/>
+      <point x="1377" y="914" type="line"/>
+      <point x="1189" y="914" type="line"/>
+      <point x="1045" y="0" type="line"/>
+      <point x="873" y="0" type="line"/>
+      <point x="1017" y="914" type="line"/>
+      <point x="599" y="914" type="line"/>
+      <point x="454" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=93</string>
+  </dict>
+  </lib>
+</glyph>

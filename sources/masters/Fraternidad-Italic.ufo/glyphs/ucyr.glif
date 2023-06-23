@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucyr" format="2">
+  <advance width="1062"/>
+  <unicode hex="0443"/>
+  <outline>
+    <component base="y" xOffset="68"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=4</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decyr.loclBGR" format="2">
+  <advance width="1123"/>
+  <outline>
+    <component base="g"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>g</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>g</string>
+  </dict>
+  </lib>
+</glyph>

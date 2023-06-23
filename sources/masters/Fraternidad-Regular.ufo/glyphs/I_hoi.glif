@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ihoi" format="2">
+  <advance width="503"/>
+  <unicode hex="1EC8"/>
+  <outline>
+    <contour>
+      <point x="113" y="1850" type="qcurve"/>
+      <point x="60" y="1944" type="line"/>
+      <point x="106" y="1989"/>
+      <point x="233" y="2019"/>
+      <point x="351" y="1976"/>
+      <point x="385" y="1907" type="qcurve" smooth="yes"/>
+      <point x="411" y="1853"/>
+      <point x="403" y="1756"/>
+      <point x="352" y="1675"/>
+      <point x="273" y="1621"/>
+      <point x="229" y="1609" type="qcurve"/>
+      <point x="182" y="1689" type="line"/>
+      <point x="241" y="1713"/>
+      <point x="299" y="1798"/>
+      <point x="273" y="1847" type="qcurve" smooth="yes"/>
+      <point x="256" y="1880"/>
+      <point x="200" y="1892"/>
+      <point x="138" y="1871"/>
+    </contour>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="1440" type="line"/>
+      <point x="343" y="1440" type="line"/>
+      <point x="343" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

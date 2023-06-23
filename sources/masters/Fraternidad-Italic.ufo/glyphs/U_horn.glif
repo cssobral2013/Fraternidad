@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="2">
+  <advance width="1371"/>
+  <outline>
+    <component base="U"/>
+    <contour>
+      <point x="1476" y="1619" type="curve"/>
+      <point x="1619" y="1620" type="line"/>
+      <point x="1618" y="1611"/>
+      <point x="1618" y="1602"/>
+      <point x="1617" y="1594" type="curve"/>
+      <point x="1607" y="1440"/>
+      <point x="1528" y="1325"/>
+      <point x="1356" y="1325" type="curve" smooth="yes"/>
+      <point x="1321" y="1325"/>
+      <point x="1286" y="1327"/>
+      <point x="1252" y="1331" type="curve"/>
+      <point x="1269" y="1440" type="line"/>
+      <point x="1285" y="1440"/>
+      <point x="1300" y="1440"/>
+      <point x="1314" y="1441" type="curve"/>
+      <point x="1429" y="1445"/>
+      <point x="1464" y="1502"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>U+10</string>
+  </dict>
+  </lib>
+</glyph>

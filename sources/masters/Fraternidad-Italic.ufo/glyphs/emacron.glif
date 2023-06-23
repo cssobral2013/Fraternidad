@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacron" format="2">
+  <advance width="1110"/>
+  <unicode hex="0113"/>
+  <outline>
+    <component base="e"/>
+    <contour>
+      <point x="416" y="1320" type="line"/>
+      <point x="440" y="1469" type="line"/>
+      <point x="928" y="1469" type="line"/>
+      <point x="904" y="1320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>e</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="2">
+  <advance width="453"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="126" y="1244" type="line"/>
+      <point x="406" y="1532" type="line"/>
+      <point x="557" y="1532" type="line"/>
+      <point x="746" y="1244" type="line"/>
+      <point x="576" y="1244" type="line"/>
+      <point x="464" y="1419" type="line"/>
+      <point x="297" y="1244" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="0" type="line"/>
+      <point x="316" y="1080" type="line"/>
+      <point x="488" y="1080" type="line"/>
+      <point x="317" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>i</string>
+  </dict>
+  </lib>
+</glyph>

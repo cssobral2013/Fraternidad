@@ -4,6 +4,11 @@
   <unicode hex="0021"/>
   <outline>
     <component base="period" xOffset="36"/>
-    <component base="dotlessi" yScale="0.9449" xOffset="127" yOffset="420"/>
+    <contour>
+      <point x="179" y="420" type="line"/>
+      <point x="310" y="1440.49" type="line"/>
+      <point x="606" y="1440.49" type="line"/>
+      <point x="394" y="420" type="line"/>
+    </contour>
   </outline>
 </glyph>

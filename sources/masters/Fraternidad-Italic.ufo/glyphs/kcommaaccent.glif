@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcommaaccent" format="2">
+  <advance width="961"/>
+  <unicode hex="0137"/>
+  <outline>
+    <contour>
+      <point x="318" y="-193" type="line"/>
+      <point x="196" y="-526" type="line"/>
+      <point x="311" y="-526" type="line"/>
+      <point x="489" y="-193" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="245" y="1440" type="line"/>
+      <point x="409" y="1440" type="line"/>
+      <point x="181" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="795" y="1080" type="line"/>
+      <point x="1005" y="1080" type="line"/>
+      <point x="147" y="318" type="line"/>
+      <point x="184" y="546" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="591" type="line"/>
+      <point x="448" y="697" type="line"/>
+      <point x="861" y="0" type="line"/>
+      <point x="663" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>k</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>k</string>
+  </dict>
+  </lib>
+</glyph>

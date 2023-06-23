@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyr" format="2">
+  <advance width="1087"/>
+  <unicode hex="043F"/>
+  <outline>
+    <contour>
+      <point x="18" y="0" type="line"/>
+      <point x="189" y="1080" type="line"/>
+      <point x="1030" y="1080" type="line"/>
+      <point x="859" y="0" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="831" y="907" type="line"/>
+      <point x="334" y="907" type="line"/>
+      <point x="190" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=17</string>
+  </dict>
+  </lib>
+</glyph>

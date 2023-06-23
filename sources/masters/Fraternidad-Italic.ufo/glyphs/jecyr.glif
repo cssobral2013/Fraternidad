@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jecyr" format="2">
+  <advance width="418"/>
+  <unicode hex="0458"/>
+  <outline>
+    <component base="j" xOffset="-48"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-172</string>
+  </dict>
+  </lib>
+</glyph>

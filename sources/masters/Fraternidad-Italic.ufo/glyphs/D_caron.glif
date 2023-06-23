@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="2">
+  <advance width="1363"/>
+  <unicode hex="010E"/>
+  <outline>
+    <component base="D" xOffset="87"/>
+    <contour>
+      <point x="509" y="1892" type="line"/>
+      <point x="684" y="1892" type="line"/>
+      <point x="802" y="1716" type="line"/>
+      <point x="975" y="1892" type="line"/>
+      <point x="1150" y="1892" type="line"/>
+      <point x="863" y="1604" type="line"/>
+      <point x="705" y="1604" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=103</string>
+  </dict>
+  </lib>
+</glyph>

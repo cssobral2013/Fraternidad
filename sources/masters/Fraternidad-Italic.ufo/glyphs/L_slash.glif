@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="997"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="95" y="383" type="line"/>
+      <point x="127" y="584" type="line"/>
+      <point x="800" y="945" type="line"/>
+      <point x="768" y="743" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="365" y="1440" type="line"/>
+      <point x="545" y="1440" type="line"/>
+      <point x="344" y="173" type="line"/>
+      <point x="996" y="173" type="line"/>
+      <point x="969" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>L</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>L</string>
+  </dict>
+  </lib>
+</glyph>
