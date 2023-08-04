@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccaron" format="2">
+  <advance width="1448"/>
+  <unicode hex="010C"/>
+  <outline>
+    <contour>
+      <point x="547" y="1920" type="line"/>
+      <point x="792" y="1920" type="line"/>
+      <point x="911" y="1740" type="line"/>
+      <point x="1086" y="1920" type="line"/>
+      <point x="1331" y="1920" type="line"/>
+      <point x="997" y="1590" type="line"/>
+      <point x="777" y="1590" type="line"/>
+    </contour>
+    <contour>
+      <point x="675" y="-30" type="qcurve" smooth="yes"/>
+      <point x="539" y="-30"/>
+      <point x="319" y="51"/>
+      <point x="159" y="202"/>
+      <point x="65" y="418"/>
+      <point x="55" y="553" type="qcurve" smooth="yes"/>
+      <point x="47" y="673"/>
+      <point x="81" y="902"/>
+      <point x="163" y="1106"/>
+      <point x="291" y="1277"/>
+      <point x="464" y="1401"/>
+      <point x="680" y="1470"/>
+      <point x="808" y="1470" type="qcurve" smooth="yes"/>
+      <point x="919" y="1470"/>
+      <point x="1115" y="1412"/>
+      <point x="1272" y="1298"/>
+      <point x="1383" y="1127"/>
+      <point x="1408" y="1014" type="qcurve"/>
+      <point x="1133" y="938" type="line"/>
+      <point x="1121" y="1007"/>
+      <point x="1059" y="1111"/>
+      <point x="968" y="1180"/>
+      <point x="852" y="1214"/>
+      <point x="785" y="1214" type="qcurve" smooth="yes"/>
+      <point x="700" y="1214"/>
+      <point x="564" y="1163"/>
+      <point x="460" y="1074"/>
+      <point x="388" y="954"/>
+      <point x="346" y="815"/>
+      <point x="331" y="664"/>
+      <point x="336" y="589" type="qcurve" smooth="yes"/>
+      <point x="342" y="506"/>
+      <point x="391" y="372"/>
+      <point x="481" y="277"/>
+      <point x="611" y="226"/>
+      <point x="698" y="226" type="qcurve" smooth="yes"/>
+      <point x="770" y="226"/>
+      <point x="893" y="263"/>
+      <point x="994" y="334"/>
+      <point x="1071" y="437"/>
+      <point x="1095" y="502" type="qcurve"/>
+      <point x="1356" y="426" type="line"/>
+      <point x="1312" y="319"/>
+      <point x="1178" y="149"/>
+      <point x="1004" y="32"/>
+      <point x="795" y="-30"/>
+    </contour>
+  </outline>
+</glyph>

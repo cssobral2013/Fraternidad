@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0437.loclBGR" format="2">
+  <advance width="1334"/>
+  <outline>
+    <component base="uni0417" yOffset="-360"/>
+  </outline>
+</glyph>
