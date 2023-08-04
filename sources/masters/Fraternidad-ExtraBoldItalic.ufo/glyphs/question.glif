@@ -48,10 +48,10 @@
       <point x="631" y="1470"/>
     </contour>
     <contour>
-      <point x="732" y="353" type="line"/>
-      <point x="485" y="353" type="line"/>
+      <point x="492" y="394" type="line"/>
       <point x="554" y="788" type="line"/>
       <point x="801" y="788" type="line"/>
+      <point x="739" y="394" type="line"/>
     </contour>
     <contour>
       <point x="542" y="-22" type="qcurve" smooth="yes"/>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0455" format="2">
-  <advance width="984"/>
+  <advance width="1022"/>
   <unicode hex="0455"/>
   <outline>
-    <component base="s" xOffset="-56"/>
+    <component base="s"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>s</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>s</string>
+  </dict>
+  </lib>
 </glyph>

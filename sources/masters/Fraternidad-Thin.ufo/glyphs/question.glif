@@ -38,10 +38,10 @@
       <point x="1105" y="1118"/>
     </contour>
     <contour>
-      <point x="578" y="360" type="line"/>
+      <point x="578" y="380" type="line"/>
       <point x="578" y="689" type="line"/>
       <point x="662" y="689" type="line"/>
-      <point x="662" y="360" type="line"/>
+      <point x="662" y="380" type="line"/>
     </contour>
     <contour>
       <point x="621" y="-6" type="qcurve" smooth="yes"/>

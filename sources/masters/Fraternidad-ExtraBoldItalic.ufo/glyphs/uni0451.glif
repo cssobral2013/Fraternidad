@@ -3,7 +3,15 @@
   <advance width="1141"/>
   <unicode hex="0451"/>
   <outline>
-    <component base="uni0435" xOffset="-20"/>
-    <component base="dieresis" xOffset="21"/>
+    <component base="uni0435"/>
+    <component base="dieresis" xOffset="87"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>e</string>
+  </dict>
+  </lib>
 </glyph>
