@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorn" format="2">
   <advance width="1454"/>
+  <unicode hex="01AF"/>
   <outline>
     <contour>
       <point x="1493" y="1619" type="qcurve"/>

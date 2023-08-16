@@ -2,6 +2,6 @@
 <glyph name="uni0431.loclSRB" format="2">
   <advance width="1103"/>
   <outline>
-    <component base="uni0431" xOffset="27"/>
+    <component base="delta"/>
   </outline>
 </glyph>

@@ -3,5 +3,6 @@
   <advance width="1152"/>
   <outline>
     <component base="uni0431" xOffset="3"/>
+    <component base="delta"/>
   </outline>
 </glyph>
