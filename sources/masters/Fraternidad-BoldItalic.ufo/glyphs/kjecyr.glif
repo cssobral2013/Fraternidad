@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kjecyr" format="2">
+  <advance width="930"/>
+  <unicode hex="045C"/>
+  <outline>
+    <contour>
+      <point x="531" y="1620" type="line"/>
+      <point x="776" y="1620" type="line"/>
+      <point x="556" y="1230" type="line"/>
+      <point x="395" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="-98" y="0" type="line"/>
+      <point x="75" y="1080" type="line"/>
+      <point x="335" y="1080" type="line"/>
+      <point x="252" y="560" type="line"/>
+      <point x="683" y="1080" type="line"/>
+      <point x="1002" y="1080" type="line"/>
+      <point x="546" y="540" type="line"/>
+      <point x="855" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="246" y="520" type="line"/>
+      <point x="164" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

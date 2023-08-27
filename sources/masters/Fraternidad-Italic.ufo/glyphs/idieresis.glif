@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="2">
-  <advance width="453"/>
+  <advance width="575"/>
   <unicode hex="00EF"/>
   <outline>
-    <component base="uni0457" xOffset="108"/>
+    <component base="yukrcyr"/>
   </outline>
 </glyph>

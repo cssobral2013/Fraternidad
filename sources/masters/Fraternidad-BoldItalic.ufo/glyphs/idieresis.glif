@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="2">
-  <advance width="538"/>
+  <advance width="537"/>
   <unicode hex="00EF"/>
   <outline>
-    <component base="uni0457" xOffset="97"/>
+    <component base="yukrcyr"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>yukrcyr</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexgrave" format="2">
+  <advance width="1141"/>
+  <unicode hex="1EC1"/>
+  <outline>
+    <component base="e"/>
+    <contour>
+      <point x="290" y="1230" type="line"/>
+      <point x="615" y="1560" type="line"/>
+      <point x="828" y="1560" type="line"/>
+      <point x="1048" y="1230" type="line"/>
+      <point x="812" y="1230" type="line"/>
+      <point x="698" y="1410" type="line"/>
+      <point x="527" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="1201" y="1830" type="line"/>
+      <point x="958" y="1830" type="line"/>
+      <point x="1053" y="1440" type="line"/>
+      <point x="1214" y="1440" type="line"/>
+    </contour>
+  </outline>
+</glyph>

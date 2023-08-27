@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexacute" format="2">
+  <advance width="1296"/>
+  <unicode hex="1EA4"/>
+  <outline>
+    <contour>
+      <point x="319" y="1604" type="line"/>
+      <point x="565" y="1892" type="line"/>
+      <point x="726" y="1892" type="line"/>
+      <point x="973" y="1604" type="line"/>
+      <point x="794" y="1604" type="line"/>
+      <point x="646" y="1779" type="line"/>
+      <point x="498" y="1604" type="line"/>
+    </contour>
+    <contour>
+      <point x="1035" y="2147" type="line"/>
+      <point x="962" y="1814" type="line"/>
+      <point x="1083" y="1814" type="line"/>
+      <point x="1215" y="2147" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="520" y="1440" type="line"/>
+      <point x="776" y="1440" type="line"/>
+      <point x="1256" y="0" type="line"/>
+      <point x="1066" y="0" type="line"/>
+      <point x="618" y="1333" type="line"/>
+      <point x="674" y="1333" type="line"/>
+      <point x="230" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="335" type="line"/>
+      <point x="274" y="507" type="line"/>
+      <point x="1022" y="507" type="line"/>
+      <point x="1022" y="335" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tugrik.tf" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="260" y="110" type="line"/>
+      <point x="260" y="373" type="line"/>
+      <point x="980" y="666" type="line"/>
+      <point x="980" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="524" type="line"/>
+      <point x="260" y="787" type="line"/>
+      <point x="980" y="1080" type="line"/>
+      <point x="980" y="816" type="line"/>
+    </contour>
+    <contour>
+      <point x="484" y="0" type="line"/>
+      <point x="484" y="1186" type="line"/>
+      <point x="30" y="1186" type="line"/>
+      <point x="30" y="1440" type="line"/>
+      <point x="1210" y="1440" type="line"/>
+      <point x="1210" y="1186" type="line"/>
+      <point x="756" y="1186" type="line"/>
+      <point x="756" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

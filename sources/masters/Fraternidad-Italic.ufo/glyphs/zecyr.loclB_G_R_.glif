@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zecyr.loclBGR" format="2">
+  <advance width="1230"/>
+  <outline>
+    <component base="Zecyr" xOffset="-99" yOffset="-360"/>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflexacute" format="2">
+  <advance width="1088"/>
+  <unicode hex="1EA5"/>
+  <outline>
+    <component base="a"/>
+    <contour>
+      <point x="227" y="1230" type="line"/>
+      <point x="551" y="1560" type="line"/>
+      <point x="764" y="1560" type="line"/>
+      <point x="983" y="1230" type="line"/>
+      <point x="748" y="1230" type="line"/>
+      <point x="634" y="1410" type="line"/>
+      <point x="463" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="1136" y="1830" type="line"/>
+      <point x="1000" y="1440" type="line"/>
+      <point x="1161" y="1440" type="line"/>
+      <point x="1381" y="1830" type="line"/>
+    </contour>
+  </outline>
+</glyph>

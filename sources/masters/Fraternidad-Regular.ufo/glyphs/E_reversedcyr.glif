@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ereversedcyr" format="2">
+  <advance width="1419"/>
+  <unicode hex="042D"/>
+  <outline>
+    <contour>
+      <point x="695" y="-30" type="qcurve" smooth="yes"/>
+      <point x="537" y="-30"/>
+      <point x="284" y="75"/>
+      <point x="110" y="280"/>
+      <point x="70" y="428" type="qcurve"/>
+      <point x="250" y="474" type="line"/>
+      <point x="295" y="322"/>
+      <point x="525" y="142"/>
+      <point x="685" y="144" type="qcurve" smooth="yes"/>
+      <point x="795" y="146"/>
+      <point x="989" y="227"/>
+      <point x="1052" y="312" type="qcurve" smooth="yes"/>
+      <point x="1108" y="386"/>
+      <point x="1154" y="548"/>
+      <point x="1160" y="634" type="qcurve"/>
+      <point x="639" y="634" type="line"/>
+      <point x="639" y="807" type="line"/>
+      <point x="1161" y="807" type="line"/>
+      <point x="1149" y="952"/>
+      <point x="1033" y="1173"/>
+      <point x="829" y="1297"/>
+      <point x="685" y="1295" type="qcurve" smooth="yes"/>
+      <point x="515" y="1293"/>
+      <point x="284" y="1107"/>
+      <point x="245" y="947" type="qcurve"/>
+      <point x="60" y="974" type="line"/>
+      <point x="114" y="1211"/>
+      <point x="448" y="1470"/>
+      <point x="695" y="1470" type="qcurve" smooth="yes"/>
+      <point x="904" y="1470"/>
+      <point x="1199" y="1281"/>
+      <point x="1356" y="944"/>
+      <point x="1359" y="720" type="qcurve" smooth="yes"/>
+      <point x="1361" y="510"/>
+      <point x="1207" y="170"/>
+      <point x="908" y="-30"/>
+    </contour>
+  </outline>
+</glyph>

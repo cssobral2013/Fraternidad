@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ehoi" format="2">
+  <advance width="1104"/>
+  <unicode hex="1EBA"/>
+  <outline>
+    <contour>
+      <point x="649" y="1850" type="qcurve"/>
+      <point x="611" y="1944" type="line"/>
+      <point x="646" y="1974"/>
+      <point x="734" y="2011"/>
+      <point x="781" y="2011" type="qcurve" smooth="yes"/>
+      <point x="818" y="2011"/>
+      <point x="876" y="1986"/>
+      <point x="915" y="1942"/>
+      <point x="936" y="1882"/>
+      <point x="936" y="1846" type="qcurve" smooth="yes"/>
+      <point x="936" y="1802"/>
+      <point x="900" y="1724"/>
+      <point x="840" y="1661"/>
+      <point x="764" y="1618"/>
+      <point x="724" y="1609" type="qcurve"/>
+      <point x="691" y="1689" type="line"/>
+      <point x="711" y="1697"/>
+      <point x="753" y="1720"/>
+      <point x="788" y="1752"/>
+      <point x="811" y="1791"/>
+      <point x="811" y="1815" type="qcurve" smooth="yes"/>
+      <point x="811" y="1847"/>
+      <point x="779" y="1889"/>
+      <point x="746" y="1889" type="qcurve" smooth="yes"/>
+      <point x="720" y="1889"/>
+      <point x="669" y="1865"/>
+    </contour>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="245" y="1440" type="line"/>
+      <point x="1138" y="1440" type="line"/>
+      <point x="1111" y="1267" type="line"/>
+      <point x="397" y="1267" type="line"/>
+      <point x="326" y="823" type="line"/>
+      <point x="923" y="823" type="line"/>
+      <point x="896" y="650" type="line"/>
+      <point x="299" y="650" type="line"/>
+      <point x="224" y="173" type="line"/>
+      <point x="938" y="173" type="line"/>
+      <point x="910" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

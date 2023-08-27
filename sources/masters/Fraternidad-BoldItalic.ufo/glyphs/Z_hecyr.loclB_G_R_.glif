@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr.loclBGR" format="2">
+  <advance width="2073"/>
+  <outline>
+    <contour>
+      <point x="1829" y="1440" type="line"/>
+      <point x="2154" y="1440" type="line"/>
+      <point x="977" y="323" type="line"/>
+      <point x="1038" y="696" type="line"/>
+    </contour>
+    <contour>
+      <point x="1633" y="0" type="line"/>
+      <point x="1185" y="696" type="line"/>
+      <point x="1449" y="799" type="line"/>
+      <point x="1963" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="797" y="0" type="line"/>
+      <point x="1025" y="1440" type="line"/>
+      <point x="1282" y="1440" type="line"/>
+      <point x="1054" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="1440" type="line"/>
+      <point x="1036" y="696" type="line"/>
+      <point x="979" y="323" type="line"/>
+      <point x="158" y="1440" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="-9" type="line"/>
+      <point x="-109" y="-9" type="line"/>
+      <point x="657" y="790" type="line"/>
+      <point x="888" y="687" type="line"/>
+    </contour>
+  </outline>
+</glyph>
