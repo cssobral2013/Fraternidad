@@ -516,6 +516,10 @@
   <string>Y_ucyr.glif</string>
   <key>Yukrcyr</key>
   <string>Y_ukrcyr.glif</string>
+  <key>Yukrcyr.calt</key>
+  <string>Y_ukrcyr.calt.glif</string>
+  <key>Yukrcyr.calt2</key>
+  <string>Y_ukrcyr.calt2.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
   <key>Zacute</key>
@@ -562,6 +566,8 @@
   <string>acircumflextilde.glif</string>
   <key>acute</key>
   <string>acute.glif</string>
+  <key>acutecomb</key>
+  <string>acutecomb.glif</string>
   <key>acyr</key>
   <string>acyr.glif</string>
   <key>adieresis</key>
@@ -1512,6 +1518,10 @@
   <string>yucyr.loclB_G_R_.glif</string>
   <key>yukrcyr</key>
   <string>yukrcyr.glif</string>
+  <key>yukrcyr.calt</key>
+  <string>yukrcyr.calt.glif</string>
+  <key>yukrcyr.calt2</key>
+  <string>yukrcyr.calt2.glif</string>
   <key>z</key>
   <string>z.glif</string>
   <key>zacute</key>

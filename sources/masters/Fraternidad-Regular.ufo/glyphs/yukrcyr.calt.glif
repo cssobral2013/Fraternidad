@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yukrcyr.calt" format="2">
+  <advance width="503"/>
+  <anchor x="252" y="1440" name="top"/>
+  <outline>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="1080" type="line"/>
+      <point x="343" y="1080" type="line"/>
+      <point x="343" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="1245" type="qcurve" smooth="yes"/>
+      <point x="18" y="1245"/>
+      <point x="-50" y="1313"/>
+      <point x="-50" y="1363" type="qcurve" smooth="yes"/>
+      <point x="-50" y="1413"/>
+      <point x="18" y="1481"/>
+      <point x="69" y="1481" type="qcurve" smooth="yes"/>
+      <point x="120" y="1481"/>
+      <point x="188" y="1413"/>
+      <point x="188" y="1363" type="qcurve" smooth="yes"/>
+      <point x="188" y="1313"/>
+      <point x="120" y="1245"/>
+    </contour>
+    <contour>
+      <point x="515" y="1245" type="qcurve" smooth="yes"/>
+      <point x="464" y="1245"/>
+      <point x="396" y="1313"/>
+      <point x="396" y="1363" type="qcurve" smooth="yes"/>
+      <point x="396" y="1413"/>
+      <point x="464" y="1481"/>
+      <point x="515" y="1481" type="qcurve" smooth="yes"/>
+      <point x="566" y="1481"/>
+      <point x="633" y="1413"/>
+      <point x="633" y="1363" type="qcurve" smooth="yes"/>
+      <point x="633" y="1313"/>
+      <point x="566" y="1245"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>yukrcyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocyr" format="2">
-  <advance width="1474"/>
+  <advance width="1473"/>
   <unicode hex="041E"/>
+  <anchor x="826" y="1440" name="top"/>
   <outline>
-    <component base="O" xOffset="-17"/>
+    <component base="O"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
 </glyph>

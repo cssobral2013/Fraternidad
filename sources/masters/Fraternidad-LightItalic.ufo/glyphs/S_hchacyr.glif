@@ -4,26 +4,34 @@
   <unicode hex="0429"/>
   <outline>
     <contour>
-      <point x="1412" y="-160" type="line"/>
-      <point x="1437" y="0" type="line"/>
-      <point x="1300" y="0" type="line"/>
-      <point x="1313" y="84" type="line"/>
-      <point x="1533" y="84" type="line"/>
-      <point x="1494" y="-160" type="line"/>
+      <point x="1447" y="-160" type="line"/>
+      <point x="1472" y="0" type="line"/>
+      <point x="1335" y="0" type="line"/>
+      <point x="1348" y="84" type="line"/>
+      <point x="1568" y="84" type="line"/>
+      <point x="1529" y="-160" type="line"/>
     </contour>
     <contour>
-      <point x="-76" y="0" type="line"/>
-      <point x="152" y="1440" type="line"/>
-      <point x="235" y="1440" type="line"/>
-      <point x="20" y="84" type="line"/>
-      <point x="622" y="84" type="line"/>
-      <point x="836" y="1440" type="line"/>
-      <point x="919" y="1440" type="line"/>
-      <point x="704" y="84" type="line"/>
-      <point x="1306" y="84" type="line"/>
-      <point x="1520" y="1440" type="line"/>
-      <point x="1603" y="1440" type="line"/>
-      <point x="1375" y="0" type="line"/>
+      <point x="-41" y="0" type="line"/>
+      <point x="187" y="1440" type="line"/>
+      <point x="270" y="1440" type="line"/>
+      <point x="55" y="84" type="line"/>
+      <point x="657" y="84" type="line"/>
+      <point x="871" y="1440" type="line"/>
+      <point x="954" y="1440" type="line"/>
+      <point x="739" y="84" type="line"/>
+      <point x="1341" y="84" type="line"/>
+      <point x="1555" y="1440" type="line"/>
+      <point x="1638" y="1440" type="line"/>
+      <point x="1410" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Shacyr</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=1637</string>
+  </dict>
+  </lib>
 </glyph>

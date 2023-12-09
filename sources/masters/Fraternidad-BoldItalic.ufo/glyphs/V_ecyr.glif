@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Vecyr" format="2">
-  <advance width="1120"/>
+  <advance width="1228"/>
   <unicode hex="0412"/>
   <outline>
-    <component base="B" xOffset="-128"/>
+    <component base="B"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>B</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>B</string>
+  </dict>
+  </lib>
 </glyph>

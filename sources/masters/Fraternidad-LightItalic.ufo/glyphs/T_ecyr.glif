@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tecyr" format="2">
-  <advance width="1267"/>
+  <advance width="1152"/>
   <unicode hex="0422"/>
   <outline>
-    <component base="T" xOffset="195"/>
+    <component base="T"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>T</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>T</string>
+  </dict>
+  </lib>
 </glyph>

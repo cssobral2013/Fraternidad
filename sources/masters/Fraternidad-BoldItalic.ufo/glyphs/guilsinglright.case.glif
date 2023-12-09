@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright.case" format="2">
-  <advance width="1290"/>
+  <advance width="1200"/>
   <outline>
-    <component base="guilsinglright" xOffset="-6" yOffset="90"/>
+    <component base="guilsinglright" xOffset="-140" yOffset="90"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=1200</string>
+  </dict>
+  </lib>
 </glyph>

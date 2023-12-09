@@ -128,6 +128,7 @@
     <string>periodcentered</string>
     <string>cedilla</string>
     <string>onesuperior</string>
+    <string>ordmasculine</string>
     <string>guillemotright</string>
     <string>onequarter</string>
     <string>onehalf</string>
@@ -217,6 +218,8 @@
     <string>dcroat</string>
     <string>Emacron</string>
     <string>emacron</string>
+    <string>Ebreve</string>
+    <string>ebreve</string>
     <string>Edotaccent</string>
     <string>edotaccent</string>
     <string>Eogonek</string>
@@ -239,20 +242,27 @@
     <string>itilde</string>
     <string>Imacron</string>
     <string>imacron</string>
+    <string>Ibreve</string>
+    <string>ibreve</string>
     <string>Iogonek</string>
     <string>iogonek</string>
     <string>Idotaccent</string>
     <string>dotlessi</string>
+    <string>IJ</string>
+    <string>ij</string>
     <string>Jcircumflex</string>
     <string>jcircumflex</string>
     <string>Kcommaaccent</string>
     <string>kcommaaccent</string>
+    <string>kgreenlandic</string>
     <string>Lacute</string>
     <string>lacute</string>
     <string>Lcommaaccent</string>
     <string>lcommaaccent</string>
     <string>Lcaron</string>
     <string>lcaron</string>
+    <string>Ldot</string>
+    <string>ldot</string>
     <string>Lslash</string>
     <string>lslash</string>
     <string>Nacute</string>
@@ -261,10 +271,13 @@
     <string>ncommaaccent</string>
     <string>Ncaron</string>
     <string>ncaron</string>
+    <string>napostrophe</string>
     <string>Eng</string>
     <string>eng</string>
     <string>Omacron</string>
     <string>omacron</string>
+    <string>Obreve</string>
+    <string>obreve</string>
     <string>Ohungarumlaut</string>
     <string>ohungarumlaut</string>
     <string>OE</string>
@@ -330,6 +343,7 @@
     <string>ogonek</string>
     <string>tilde</string>
     <string>hungarumlaut</string>
+    <string>acutecomb</string>
     <string>numeralsign</string>
     <string>lownumeralsign</string>
     <string>questiongreek</string>
@@ -677,36 +691,21 @@
     <string>parenleft_c_parenright.liga</string>
     <string>space_less_three_space.liga</string>
     <string>prnleft_grtr_prnright.liga</string>
-    <string>f_f</string>
-    <string>f_f_l</string>
     <string>t_t.liga</string>
+    <string>colon.case</string>
+    <string>f_f</string>
     <string>fi</string>
     <string>fl</string>
-    <string>i.loclTRK</string>
-    <string>Decyr.loclBGR</string>
-    <string>Zhecyr.loclBGR</string>
-    <string>Kacyr.loclBGR</string>
-    <string>Elcyr.loclBGR</string>
-    <string>vecyr.loclBGR</string>
-    <string>gecyr.loclBGR</string>
-    <string>decyr.loclBGR</string>
-    <string>zhecyr.loclBGR</string>
-    <string>zecyr.loclBGR</string>
-    <string>icyr.loclBGR</string>
-    <string>ishortcyr.loclBGR</string>
-    <string>igravecyr.loclBGR</string>
-    <string>kacyr.loclBGR</string>
-    <string>elcyr.loclBGR</string>
-    <string>encyr.loclBGR</string>
-    <string>pecyr.loclBGR</string>
-    <string>tecyr.loclBGR</string>
-    <string>checyr.loclBGR</string>
-    <string>tsecyr.loclBGR</string>
-    <string>shacyr.loclBGR</string>
-    <string>shchacyr.loclBGR</string>
-    <string>softcyr.loclBGR</string>
-    <string>yucyr.loclBGR</string>
-    <string>becyr.loclSRB</string>
+    <string>f_f_i</string>
+    <string>f_f_l</string>
+    <string>dollar.tf</string>
+    <string>parenleft.case</string>
+    <string>parenright.case</string>
+    <string>comma.tf</string>
+    <string>hyphen.case</string>
+    <string>hyphen_greater.liga</string>
+    <string>hyphen_hyphen.liga</string>
+    <string>period.tf</string>
     <string>zero.tf</string>
     <string>one.tf</string>
     <string>two.tf</string>
@@ -717,41 +716,59 @@
     <string>seven.tf</string>
     <string>eight.tf</string>
     <string>nine.tf</string>
-    <string>colon.case</string>
-    <string>exclamdown.case</string>
-    <string>questiondown.case</string>
-    <string>periodcentered.case</string>
-    <string>parenleft.case</string>
-    <string>parenright.case</string>
-    <string>braceleft.case</string>
-    <string>braceright.case</string>
-    <string>bracketleft.case</string>
-    <string>bracketright.case</string>
-    <string>hyphen.case</string>
-    <string>endash.case</string>
-    <string>emdash.case</string>
-    <string>guillemotleft.case</string>
-    <string>guillemotright.case</string>
-    <string>guilsinglleft.case</string>
-    <string>guilsinglright.case</string>
-    <string>hyphen_hyphen.liga</string>
-    <string>hyphen_greater.liga</string>
-    <string>greater.case</string>
-    <string>less.case</string>
-    <string>arrowright.case</string>
-    <string>arrowleft.case</string>
-    <string>at.case</string>
-    <string>copyright.case</string>
-    <string>less_hyphen.liga</string>
-    <string>comma.tf</string>
-    <string>period.tf</string>
     <string>colon.tf</string>
     <string>semicolon.tf</string>
-    <string>dollar.tf</string>
+    <string>less.case</string>
+    <string>less_hyphen.liga</string>
+    <string>greater.case</string>
+    <string>at.case</string>
+    <string>bracketleft.case</string>
+    <string>bracketright.case</string>
+    <string>i.loclTRK</string>
+    <string>braceleft.case</string>
+    <string>braceright.case</string>
+    <string>exclamdown.case</string>
     <string>cent.tf</string>
     <string>sterling.tf</string>
     <string>currency.tf</string>
     <string>yen.tf</string>
+    <string>copyright.case</string>
+    <string>guillemotleft.case</string>
+    <string>periodcentered.case</string>
+    <string>guillemotright.case</string>
+    <string>questiondown.case</string>
+    <string>Yukrcyr.calt</string>
+    <string>Yukrcyr.calt2</string>
+    <string>Decyr.loclBGR</string>
+    <string>Zhecyr.loclBGR</string>
+    <string>Kacyr.loclBGR</string>
+    <string>Elcyr.loclBGR</string>
+    <string>becyr.loclSRB</string>
+    <string>vecyr.loclBGR</string>
+    <string>gecyr.loclBGR</string>
+    <string>decyr.loclBGR</string>
+    <string>zhecyr.loclBGR</string>
+    <string>zecyr.loclBGR</string>
+    <string>icyr.loclBGR</string>
+    <string>ishortcyr.loclBGR</string>
+    <string>kacyr.loclBGR</string>
+    <string>elcyr.loclBGR</string>
+    <string>encyr.loclBGR</string>
+    <string>pecyr.loclBGR</string>
+    <string>tecyr.loclBGR</string>
+    <string>tsecyr.loclBGR</string>
+    <string>checyr.loclBGR</string>
+    <string>shacyr.loclBGR</string>
+    <string>shchacyr.loclBGR</string>
+    <string>softcyr.loclBGR</string>
+    <string>yucyr.loclBGR</string>
+    <string>yukrcyr.calt</string>
+    <string>yukrcyr.calt2</string>
+    <string>igravecyr.loclBGR</string>
+    <string>endash.case</string>
+    <string>emdash.case</string>
+    <string>guilsinglleft.case</string>
+    <string>guilsinglright.case</string>
     <string>franc.tf</string>
     <string>Euro.tf</string>
     <string>tugrik.tf</string>
@@ -761,20 +778,8 @@
     <string>turkishlira.tf</string>
     <string>ruble.tf</string>
     <string>bitcoin.tf</string>
-    <string>ibreve</string>
-    <string>Ebreve</string>
-    <string>Ibreve</string>
-    <string>IJ</string>
-    <string>Ldot</string>
-    <string>Obreve</string>
-    <string>ebreve</string>
-    <string>ij</string>
-    <string>kgreenlandic</string>
-    <string>ldot</string>
-    <string>napostrophe</string>
-    <string>obreve</string>
-    <string>ordmasculine</string>
-    <string>f_f_i</string>
+    <string>arrowleft.case</string>
+    <string>arrowright.case</string>
   </array>
 </dict>
 </plist>

@@ -2,6 +2,14 @@
 <glyph name="Kacyr.loclBGR" format="2">
   <advance width="1189"/>
   <outline>
-    <component base="K" xOffset="27"/>
+    <component base="K"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>K</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>K</string>
+  </dict>
+  </lib>
 </glyph>

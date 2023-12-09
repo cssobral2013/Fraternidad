@@ -2,7 +2,16 @@
 <glyph name="Iecyr" format="2">
   <advance width="1104"/>
   <unicode hex="0415"/>
+  <anchor x="682" y="1440" name="top"/>
   <outline>
-    <component base="E" xOffset="27"/>
+    <component base="E"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>E</string>
+  </dict>
+  </lib>
 </glyph>

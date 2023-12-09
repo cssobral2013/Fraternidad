@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yukrcyr.calt2" format="2">
+  <advance width="367"/>
+  <anchor x="285" y="1440" name="top"/>
+  <outline>
+    <contour>
+      <point x="-7" y="0" type="line"/>
+      <point x="164" y="1080" type="line"/>
+      <point x="336" y="1080" type="line"/>
+      <point x="165" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="1245" type="qcurve" smooth="yes"/>
+      <point x="409" y="1245"/>
+      <point x="346" y="1313"/>
+      <point x="351" y="1363" type="qcurve" smooth="yes"/>
+      <point x="355" y="1413"/>
+      <point x="429" y="1481"/>
+      <point x="480" y="1481" type="qcurve" smooth="yes"/>
+      <point x="531" y="1481"/>
+      <point x="593" y="1413"/>
+      <point x="588" y="1363" type="qcurve" smooth="yes"/>
+      <point x="584" y="1313"/>
+      <point x="510" y="1245"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>yukrcyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -2,6 +2,7 @@
 <glyph name="Ereversedcyr" format="2">
   <advance width="1417"/>
   <unicode hex="042D"/>
+  <anchor x="769" y="1440" name="top"/>
   <outline>
     <contour>
       <point x="635" y="-30" type="qcurve" smooth="yes"/>

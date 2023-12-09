@@ -2,6 +2,7 @@
 <glyph name="Iocyr" format="2">
   <advance width="1132"/>
   <unicode hex="0401"/>
+  <anchor x="762" y="1801" name="top"/>
   <outline>
     <contour>
       <point x="510" y="1554" type="qcurve" smooth="yes"/>

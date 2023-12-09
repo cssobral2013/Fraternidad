@@ -1,3 +1,9 @@
+#> classes
+#/> otclasses
+@calt8 = [zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf];
+#/< otclasses
+#< classes
+
 #/> classes
 #/> otclasses
 @aalt = [quotesingle parenleft parenright hyphen colon less greater at A O bracketleft bracketright a i o braceleft braceright exclamdown copyright guillemotleft periodcentered guillemotright questiondown Scedilla scedilla Tcedilla tcedilla Decyr Zhecyr Kacyr Elcyr becyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr encyr pecyr tecyr tsecyr checyr shacyr shchacyr softcyr yucyr igravecyr endash emdash guilsinglleft guilsinglright arrowleft arrowright];
@@ -326,5 +332,9 @@ feature calt {
   sub @calt7 space arrowleft' lookup calt_3 space @calt7;
   sub @calt7 arrowright' lookup calt_2 @calt7;
   sub @calt7 space arrowright' lookup calt_3 space @calt7;
-
+  sub @calt8 colon' @calt8 by colon.case;
+  sub yukrcyr' yukrcyr by yukrcyr.calt;
+  sub yukrcyr.calt yukrcyr' by yukrcyr.calt2;
+  sub Yukrcyr' Yukrcyr by Yukrcyr.calt;
+  sub Yukrcyr.calt Yukrcyr' by Yukrcyr.calt2;
 } calt;

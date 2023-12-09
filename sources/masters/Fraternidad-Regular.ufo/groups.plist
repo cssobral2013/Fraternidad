@@ -435,6 +435,29 @@
     <string>Kacyr.loclBGR</string>
     <string>Elcyr.loclBGR</string>
   </array>
+  <key>calt8</key>
+  <array>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
+    <string>zero.tf</string>
+    <string>one.tf</string>
+    <string>two.tf</string>
+    <string>three.tf</string>
+    <string>four.tf</string>
+    <string>five.tf</string>
+    <string>six.tf</string>
+    <string>seven.tf</string>
+    <string>eight.tf</string>
+    <string>nine.tf</string>
+  </array>
   <key>calt_dnom_numr_ordn_sinf_subs_sups</key>
   <array>
     <string>zero</string>

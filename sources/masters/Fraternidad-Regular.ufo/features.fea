@@ -1,5 +1,11 @@
 #> classes
 #/> otclasses
+@calt8 = [zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf];
+#/< otclasses
+#< classes
+
+#/> classes
+#/> otclasses
 @aalt = [quotesingle parenleft parenright hyphen colon less greater at A O bracketleft bracketright a i o braceleft braceright exclamdown copyright guillemotleft periodcentered guillemotright questiondown Scedilla scedilla Tcedilla tcedilla Decyr Zhecyr Kacyr Elcyr becyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr encyr pecyr tecyr tsecyr checyr shacyr shchacyr softcyr yucyr igravecyr endash emdash guilsinglleft guilsinglright arrowleft arrowright];
 @aalt2 = [quoteright parenleft.case parenright.case hyphen.case colon.case less.case greater.case at.case ordfeminine ordmasculine bracketleft.case bracketright.case ordfeminine i.loclTRK ordmasculine braceleft.case braceright.case exclamdown.case copyright.case guillemotleft.case periodcentered.case guillemotright.case questiondown.case Scommaaccent scommaaccent Tcommaaccent tcommaaccent Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR becyr.loclSRB vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR encyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR checyr.loclBGR shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR endash.case emdash.case guilsinglleft.case guilsinglright.case arrowleft.case arrowright.case];
 @calt = [quotesingle parenleft parenright hyphen colon less greater at bracketleft bracketright braceleft braceright exclamdown guillemotleft periodcentered guillemotright questiondown endash emdash arrowleft arrowright];
@@ -21,7 +27,32 @@
 @tnum = [dollar comma period zero one two three four five six seven eight nine colon semicolon cent sterling currency yen franc Euro tugrik peso hryvnia indianrupee turkishlira ruble bitcoin];
 @tnum2 = [dollar.tf comma.tf period.tf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf colon.tf semicolon.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf];
 #/< otclasses
-#< classes
+#/< classes
+
+#/> classes
+#/> otclasses
+@aalt = [quotesingle parenleft parenright hyphen colon less greater at A O bracketleft bracketright a i o braceleft braceright exclamdown copyright guillemotleft periodcentered guillemotright questiondown Scedilla scedilla Tcedilla tcedilla Decyr Zhecyr Kacyr Elcyr becyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr encyr pecyr tecyr tsecyr checyr shacyr shchacyr softcyr yucyr igravecyr endash emdash guilsinglleft guilsinglright arrowleft arrowright];
+@aalt2 = [quoteright parenleft.case parenright.case hyphen.case colon.case less.case greater.case at.case ordfeminine ordmasculine bracketleft.case bracketright.case ordfeminine i.loclTRK ordmasculine braceleft.case braceright.case exclamdown.case copyright.case guillemotleft.case periodcentered.case guillemotright.case questiondown.case Scommaaccent scommaaccent Tcommaaccent tcommaaccent Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR becyr.loclSRB vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR encyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR checyr.loclBGR shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR endash.case emdash.case guilsinglleft.case guilsinglright.case arrowleft.case arrowright.case];
+@calt = [quotesingle parenleft parenright hyphen colon less greater at bracketleft bracketright braceleft braceright exclamdown guillemotleft periodcentered guillemotright questiondown endash emdash arrowleft arrowright];
+@calt2 = [quoteright parenleft.case parenright.case hyphen.case colon.case less.case greater.case at.case bracketleft.case bracketright.case braceleft.case braceright.case exclamdown.case guillemotleft.case periodcentered.case guillemotright.case questiondown.case endash.case emdash.case arrowleft.case arrowright.case];
+@calt3 = [quotesingle parenleft parenright hyphen less greater at bracketleft bracketright braceleft braceright guillemotleft guillemotright arrowleft arrowright];
+@calt4 = [quoteright parenleft.case parenright.case hyphen.case less.case greater.case at.case bracketleft.case bracketright.case braceleft.case braceright.case guillemotleft.case guillemotright.case arrowleft.case arrowright.case];
+@calt5 = [quotesingle parenleft parenright bracketleft bracketright braceleft braceright guillemotleft guillemotright];
+@calt6 = [quoteright parenleft.case parenright.case bracketleft.case bracketright.case braceleft.case braceright.case guillemotleft.case guillemotright.case];
+@calt7 = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Alpha Beta Chi Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon Xi Psi Zeta Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Kcommaaccent Lcommaaccent Lcaron Lacute Ncommaaccent Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Gcommaaccent Omega Dcroat Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Geupcyr Iukrcyr Djecyr Gjecyr Jecyr Eukrcyr Yukrcyr Ljecyr Njecyr Dzecyr Tshecyr Kjecyr Ushortcyr Dzhecyr Iocyr Delta Iotadieresis Upsilondieresis Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Abreve Scommaaccent Tcommaaccent Gbreve Idotaccent Scedilla Cdotaccent Gdotaccent Hbar Eng Tcedilla Tbar Wcircumflex Ycircumflex Iegravecyr Igravecyr Wgrave Wacute Wdieresis Ygrave Ustraightcyr Shhacyr Obarcyr Germandbls Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR];
+@calt_dnom_numr_ordn_sinf_subs_sups = [zero one two three four five six seven eight nine];
+@case = [parenleft parenright hyphen colon less greater at bracketleft bracketright braceleft braceright exclamdown copyright guillemotleft periodcentered guillemotright questiondown endash emdash guilsinglleft guilsinglright arrowleft arrowright];
+@case2 = [parenleft.case parenright.case hyphen.case colon.case less.case greater.case at.case bracketleft.case bracketright.case braceleft.case braceright.case exclamdown.case copyright.case guillemotleft.case periodcentered.case guillemotright.case questiondown.case endash.case emdash.case guilsinglleft.case guilsinglright.case arrowleft.case arrowright.case];
+@dnom_sinf_subs = [zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior];
+@locl = [Decyr Zhecyr Kacyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr encyr pecyr tecyr tsecyr checyr shacyr shchacyr softcyr yucyr igravecyr];
+@locl2 = [Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR encyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR checyr.loclBGR shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
+@numr_sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
+@pnum = [zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf comma.tf period.tf colon.tf semicolon.tf dollar.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf];
+@pnum2 = [zero one two three four five six seven eight nine comma period colon semicolon dollar cent sterling currency yen franc Euro tugrik peso hryvnia indianrupee turkishlira ruble bitcoin];
+@tnum = [dollar comma period zero one two three four five six seven eight nine colon semicolon cent sterling currency yen franc Euro tugrik peso hryvnia indianrupee turkishlira ruble bitcoin];
+@tnum2 = [dollar.tf comma.tf period.tf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf colon.tf semicolon.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf];
+#/< otclasses
+#/< classes
 
 ###
 # OpenType Layout feature definitions
@@ -301,5 +332,9 @@ feature calt {
   sub @calt7 space arrowleft' lookup calt_3 space @calt7;
   sub @calt7 arrowright' lookup calt_2 @calt7;
   sub @calt7 space arrowright' lookup calt_3 space @calt7;
-
+  sub @calt8 colon' @calt8 by colon.case;
+  sub yukrcyr' yukrcyr by yukrcyr.calt;
+  sub yukrcyr.calt yukrcyr' by yukrcyr.calt2;
+  sub Yukrcyr' Yukrcyr by Yukrcyr.calt;
+  sub Yukrcyr.calt Yukrcyr' by Yukrcyr.calt2;
 } calt;

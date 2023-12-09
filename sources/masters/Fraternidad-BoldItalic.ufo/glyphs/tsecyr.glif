@@ -4,18 +4,26 @@
   <unicode hex="0446"/>
   <outline>
     <contour>
-      <point x="714" y="-240" type="line"/>
-      <point x="752" y="0" type="line"/>
-      <point x="-97" y="0" type="line"/>
-      <point x="74" y="1080" type="line"/>
-      <point x="330" y="1080" type="line"/>
-      <point x="199" y="254" type="line"/>
-      <point x="598" y="254" type="line"/>
-      <point x="729" y="1080" type="line"/>
-      <point x="985" y="1080" type="line"/>
-      <point x="852" y="240" type="line"/>
-      <point x="1045" y="240" type="line"/>
-      <point x="969" y="-240" type="line"/>
+      <point x="793" y="-240" type="line"/>
+      <point x="831" y="0" type="line"/>
+      <point x="-18" y="0" type="line"/>
+      <point x="153" y="1080" type="line"/>
+      <point x="409" y="1080" type="line"/>
+      <point x="278" y="254" type="line"/>
+      <point x="677" y="254" type="line"/>
+      <point x="808" y="1080" type="line"/>
+      <point x="1064" y="1080" type="line"/>
+      <point x="931" y="240" type="line"/>
+      <point x="1124" y="240" type="line"/>
+      <point x="1048" y="-240" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>shacyr</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=1135</string>
+  </dict>
+  </lib>
 </glyph>
