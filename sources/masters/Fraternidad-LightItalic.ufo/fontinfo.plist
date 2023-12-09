@@ -75,7 +75,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 5.009</string>
+  <string>Version 5.010</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -200,7 +200,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>versionMajor</key>
   <integer>5</integer>
   <key>versionMinor</key>
-  <integer>9</integer>
+  <integer>10</integer>
   <key>xHeight</key>
   <integer>1080</integer>
 </dict>

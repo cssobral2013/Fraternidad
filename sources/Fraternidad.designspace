@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis default="400" minimum="100" maximum="800" tag="wght" name="weight">
+  <axis maximum="800" tag="wght" minimum="100" name="weight" default="400">
    <labelname xml:lang="en">Weight</labelname>
    <map output="100" input="100"/>
+   <map output="200" input="200"/>
+   <map output="300" input="300"/>
    <map output="400" input="400"/>
+   <map output="500" input="500"/>
+   <map output="600" input="600"/>
+   <map output="700" input="700"/>
    <map output="800" input="800"/>
   </axis>
  </axes>
  <sources>
-  <source familyname="Fraternidad" stylename="ExtraBold" name="Bold" filename="masters/Fraternidad-Bold.ufo">
-   <location>
-    <dimension xvalue="800" name="weight"/>
-   </location>
-  </source>
-  <source familyname="Fraternidad" stylename="Thin" name="Light" filename="masters/Fraternidad-Light.ufo">
+  <source stylename="Thin" familyname="Fraternidad" filename="masters/Fraternidad-Light.ufo" name="Light">
    <location>
     <dimension xvalue="100" name="weight"/>
    </location>
   </source>
-  <source familyname="Fraternidad" stylename="Regular" name="Regular" filename="masters/Fraternidad-Regular.ufo">
+  <source stylename="Regular" familyname="Fraternidad" filename="masters/Fraternidad-Regular.ufo" name="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -28,44 +28,49 @@
     <dimension xvalue="400" name="weight"/>
    </location>
   </source>
+  <source stylename="ExtraBold" familyname="Fraternidad" filename="masters/Fraternidad-Bold.ufo" name="Bold">
+   <location>
+    <dimension xvalue="800" name="weight"/>
+   </location>
+  </source>
  </sources>
  <instances>
-  <instance familyname="Fraternidad" stylename="Thin" name="Thin" filename="instances/Fraternidad-Thin.ufo">
+  <instance stylename="Thin" familyname="Fraternidad" filename="instances/Fraternidad-Thin.ufo" name="Thin">
    <location>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Fraternidad" stylename="ExtraLight" name="ExtraLight" filename="instances/Fraternidad-ExtraLight.ufo">
+  <instance stylename="ExtraLight" familyname="Fraternidad" filename="instances/Fraternidad-ExtraLight.ufo" name="ExtraLight">
    <location>
     <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Fraternidad" stylename="Light" name="Light" filename="instances/Fraternidad-Light.ufo">
+  <instance stylename="Light" familyname="Fraternidad" filename="instances/Fraternidad-Light.ufo" name="Light">
    <location>
     <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Fraternidad" stylename="Regular" name="Regular" filename="instances/Fraternidad-Regular.ufo">
+  <instance stylename="Regular" familyname="Fraternidad" filename="instances/Fraternidad-Regular.ufo" name="Regular">
    <location>
     <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Fraternidad" stylename="Medium" name="Medium" filename="instances/Fraternidad-Medium.ufo">
+  <instance stylename="Medium" familyname="Fraternidad" filename="instances/Fraternidad-Medium.ufo" name="Medium">
    <location>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Fraternidad" stylename="SemiBold" name="SemiBold" filename="instances/Fraternidad-SemiBold.ufo">
+  <instance stylename="SemiBold" familyname="Fraternidad" filename="instances/Fraternidad-SemiBold.ufo" name="SemiBold">
    <location>
     <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Fraternidad" stylename="Bold" name="Bold" filename="instances/Fraternidad-Bold.ufo">
+  <instance stylename="Bold" familyname="Fraternidad" filename="instances/Fraternidad-Bold.ufo" name="Bold">
    <location>
     <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Fraternidad" stylename="ExtraBold" name="ExtraBold" filename="instances/Fraternidad-ExtraBold.ufo">
+  <instance stylename="ExtraBold" familyname="Fraternidad" filename="instances/Fraternidad-ExtraBold.ufo" name="ExtraBold">
    <location>
     <dimension xvalue="800" name="weight"/>
    </location>

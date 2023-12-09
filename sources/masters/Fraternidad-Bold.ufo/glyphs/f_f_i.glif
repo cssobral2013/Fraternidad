@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_i" format="2">
+  <advance width="2006"/>
+  <unicode hex="FB03"/>
+  <outline>
+    <component base="fi" xOffset="612"/>
+    <contour>
+      <point x="230" y="0" type="line"/>
+      <point x="230" y="1076" type="line" smooth="yes"/>
+      <point x="230" y="1117"/>
+      <point x="234" y="1221"/>
+      <point x="263" y="1327"/>
+      <point x="302" y="1370" type="qcurve" smooth="yes"/>
+      <point x="352" y="1426"/>
+      <point x="469" y="1467"/>
+      <point x="579" y="1470"/>
+      <point x="618" y="1470" type="qcurve" smooth="yes"/>
+      <point x="752" y="1470" type="line"/>
+      <point x="752" y="1250" type="line"/>
+      <point x="628" y="1250" type="line" smooth="yes"/>
+      <point x="564" y="1250"/>
+      <point x="502" y="1185"/>
+      <point x="502" y="1140" type="qcurve" smooth="yes"/>
+      <point x="502" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="870" type="line"/>
+      <point x="60" y="1080" type="line"/>
+      <point x="752" y="1080" type="line"/>
+      <point x="752" y="870" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=f</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=fi</string>
+  <key>com.fontlab.recipe</key>
+  <string>f_f_i</string>
+  </dict>
+  </lib>
+</glyph>
