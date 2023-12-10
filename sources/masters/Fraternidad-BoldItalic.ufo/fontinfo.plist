@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>2132</integer>
+  <integer>2000</integer>
   <key>capHeight</key>
   <integer>1440</integer>
   <key>copyright</key>
@@ -11,7 +11,7 @@
 Copyright (c) 2021 Ravid Balaliev
 Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/cssobral2013/fraternidad)</string>
   <key>descender</key>
-  <integer>-600</integer>
+  <integer>-560</integer>
   <key>familyName</key>
   <string>Fraternidad</string>
   <key>guidelines</key>
@@ -75,7 +75,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>ExtraBold Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 5.011</string>
+  <string>Version 5.012</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -128,11 +128,11 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>2132</integer>
+  <integer>2000</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-600</integer>
+  <integer>-560</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>-0</integer>
+  <integer>240</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -161,9 +161,9 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>2132</integer>
+  <integer>2120</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>600</integer>
+  <integer>680</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
@@ -200,7 +200,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>versionMajor</key>
   <integer>5</integer>
   <key>versionMinor</key>
-  <integer>11</integer>
+  <integer>12</integer>
   <key>xHeight</key>
   <integer>1080</integer>
 </dict>

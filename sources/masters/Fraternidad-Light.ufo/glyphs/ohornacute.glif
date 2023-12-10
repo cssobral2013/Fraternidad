@@ -54,9 +54,9 @@
     </contour>
     <contour>
       <point x="615" y="1530" type="line"/>
-      <point x="549" y="1260" type="line"/>
-      <point x="615" y="1260" type="line"/>
       <point x="711" y="1530" type="line"/>
+      <point x="615" y="1260" type="line"/>
+      <point x="549" y="1260" type="line"/>
     </contour>
   </outline>
 </glyph>

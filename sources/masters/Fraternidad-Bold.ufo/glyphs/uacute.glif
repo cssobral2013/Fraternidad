@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="624" y="1620" type="line"/>
-      <point x="545" y="1230" type="line"/>
-      <point x="715" y="1230" type="line"/>
       <point x="881" y="1620" type="line"/>
+      <point x="715" y="1230" type="line"/>
+      <point x="545" y="1230" type="line"/>
     </contour>
     <contour>
       <point x="542" y="-32" type="qcurve" smooth="yes"/>

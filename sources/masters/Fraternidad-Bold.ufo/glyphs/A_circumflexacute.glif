@@ -14,9 +14,9 @@
     </contour>
     <contour>
       <point x="1141" y="2190" type="line"/>
-      <point x="1062" y="1800" type="line"/>
-      <point x="1232" y="1800" type="line"/>
       <point x="1398" y="2190" type="line"/>
+      <point x="1232" y="1800" type="line"/>
+      <point x="1062" y="1800" type="line"/>
     </contour>
     <contour>
       <point x="40" y="0" type="line"/>
