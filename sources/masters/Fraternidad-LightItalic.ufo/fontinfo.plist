@@ -13,7 +13,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>descender</key>
   <integer>-560</integer>
   <key>familyName</key>
-  <string>Fraternidad</string>
+  <string>Fraternidad VF</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -24,11 +24,13 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>500</integer>
+    <integer>512</integer>
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>-9</integer>
+  <integer>0</integer>
+  <key>macintoshFONDName</key>
+  <string>Fraternidad</string>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -44,18 +46,27 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/06/23 17:07:13</string>
+  <string>2023/06/23 16:59:04</string>
   <key>openTypeHeadFlags</key>
   <array>
+    <integer>0</integer>
+    <integer>1</integer>
+    <integer>3</integer>
   </array>
+  <key>openTypeHeadLowestRecPPEM</key>
+  <integer>8</integer>
   <key>openTypeHheaAscender</key>
-  <integer>2132</integer>
+  <integer>2000</integer>
   <key>openTypeHheaCaretOffset</key>
-  <integer>-105</integer>
-  <key>openTypeHheaDescender</key>
-  <integer>-600</integer>
-  <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
+  <key>openTypeHheaCaretSlopeRise</key>
+  <integer>1</integer>
+  <key>openTypeHheaCaretSlopeRun</key>
+  <integer>-0</integer>
+  <key>openTypeHheaDescender</key>
+  <integer>-560</integer>
+  <key>openTypeHheaLineGap</key>
+  <integer>240</integer>
   <key>openTypeNameDescription</key>
   <string>Hauora and Vela Sans are derived from Manrope (https://manropefont.com/) — designed by Mikhail Sharanda (https://gent.media/).</string>
   <key>openTypeNameDesigner</key>
@@ -71,11 +82,13 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>openTypeNameManufacturerURL</key>
   <string>https://github.com/wayne-shih</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Fraternidad</string>
+  <string>Fraternidad VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Thin Italic</string>
+  <string>Italic</string>
+  <key>openTypeNameUniqueID</key>
+  <string>Version 5.013;WCYS;Fraternidad-Regular;2023;FL830</string>
   <key>openTypeNameVersion</key>
-  <string>Version 5.012</string>
+  <string>Version 5.013</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -84,8 +97,12 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
     <integer>3</integer>
     <integer>4</integer>
     <integer>7</integer>
-    <integer>8</integer>
     <integer>29</integer>
+  </array>
+  <key>openTypeOS2FamilyClass</key>
+  <array>
+    <integer>0</integer>
+    <integer>0</integer>
   </array>
   <key>openTypeOS2Panose</key>
   <array>
@@ -176,11 +193,11 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>Fraternidad-ThinItalic</string>
+  <string>FraternidadVF-Italic</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Fraternidad Thin Italic</string>
+  <string>Fraternidad VF Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -190,17 +207,17 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>postscriptWeightName</key>
   <string>Thin</string>
   <key>styleMapFamilyName</key>
-  <string>Fraternidad Thin</string>
+  <string>Fraternidad VF</string>
   <key>styleMapStyleName</key>
   <string>italic</string>
   <key>styleName</key>
-  <string>Thin Italic</string>
+  <string>Italic</string>
   <key>unitsPerEm</key>
-  <integer>2000</integer>
+  <integer>2048</integer>
   <key>versionMajor</key>
   <integer>5</integer>
   <key>versionMinor</key>
-  <integer>12</integer>
+  <integer>13</integer>
   <key>xHeight</key>
   <integer>1080</integer>
 </dict>

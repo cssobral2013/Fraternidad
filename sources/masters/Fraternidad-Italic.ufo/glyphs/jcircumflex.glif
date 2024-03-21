@@ -1,44 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex" format="2">
-  <advance width="493"/>
+  <advance width="513"/>
   <unicode hex="0135"/>
   <outline>
     <contour>
-      <point x="-234" y="-480" type="line"/>
-      <point x="-207" y="-306" type="line"/>
-      <point x="-181" y="-306"/>
-      <point x="-137" y="-304"/>
-      <point x="-117" y="-300" type="qcurve"/>
-      <point x="-56" y="-294"/>
-      <point x="14" y="-216"/>
-      <point x="26" y="-143" type="qcurve" smooth="yes"/>
-      <point x="219" y="1080" type="line"/>
-      <point x="391" y="1080" type="line"/>
-      <point x="196" y="-156" type="line" smooth="yes"/>
-      <point x="191" y="-186"/>
-      <point x="177" y="-242"/>
-      <point x="167" y="-269" type="qcurve"/>
-      <point x="139" y="-355"/>
-      <point x="27" y="-460"/>
-      <point x="-59" y="-472" type="qcurve"/>
-      <point x="-82" y="-476"/>
-      <point x="-132" y="-480"/>
-      <point x="-159" y="-480" type="qcurve" smooth="yes"/>
+      <point x="-191" y="-480" type="line"/>
+      <point x="-162" y="-306" type="line"/>
+      <point x="-107" y="-306" type="line" smooth="yes"/>
+      <point x="-69" y="-306"/>
+      <point x="-8" y="-287"/>
+      <point x="15" y="-267" type="qcurve" smooth="yes"/>
+      <point x="38" y="-247"/>
+      <point x="67" y="-186"/>
+      <point x="74" y="-143" type="qcurve" smooth="yes"/>
+      <point x="277" y="1080" type="line"/>
+      <point x="450" y="1080" type="line"/>
+      <point x="237" y="-207" type="line" smooth="yes"/>
+      <point x="226" y="-274"/>
+      <point x="176" y="-376"/>
+      <point x="137" y="-411" type="qcurve" smooth="yes"/>
+      <point x="98" y="-446"/>
+      <point x="-4" y="-480"/>
+      <point x="-68" y="-480" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="19" y="1244" type="line"/>
-      <point x="299" y="1532" type="line"/>
-      <point x="450" y="1532" type="line"/>
-      <point x="639" y="1244" type="line"/>
-      <point x="468" y="1244" type="line"/>
-      <point x="356" y="1419" type="line"/>
-      <point x="189" y="1244" type="line"/>
+      <point x="75" y="1244" type="line"/>
+      <point x="359" y="1532" type="line"/>
+      <point x="512" y="1532" type="line"/>
+      <point x="701" y="1244" type="line"/>
+      <point x="529" y="1244" type="line"/>
+      <point x="417" y="1419" type="line"/>
+      <point x="246" y="1244" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>j</string>
-  </dict>
-  </lib>
 </glyph>

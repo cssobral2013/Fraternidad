@@ -3,6 +3,14 @@
   <advance width="1306"/>
   <unicode hex="039B"/>
   <outline>
-    <component base="V" yScale="-1" yOffset="1440"/>
+    <contour>
+      <point x="856" y="1440" type="line"/>
+      <point x="1296" y="0" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="650" y="1184" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="450" y="1440" type="line"/>
+    </contour>
   </outline>
 </glyph>

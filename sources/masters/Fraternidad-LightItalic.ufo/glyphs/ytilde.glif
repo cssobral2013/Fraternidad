@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ytilde" format="2">
-  <advance width="1086"/>
+  <advance width="1146"/>
   <unicode hex="1EF9"/>
   <outline>
     <component base="y"/>
-    <component base="tilde" xOffset="-82" yOffset="-360"/>
+    <component base="tilde" xOffset="-55" yOffset="-360"/>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="semicolon.tf" format="2">
   <advance width="600"/>
   <outline>
-    <component base="comma" xOffset="71"/>
-    <component base="period" xOffset="184" yOffset="880"/>
+    <component base="comma" xOffset="53"/>
+    <component base="period" xOffset="173" yOffset="880"/>
   </outline>
 </glyph>

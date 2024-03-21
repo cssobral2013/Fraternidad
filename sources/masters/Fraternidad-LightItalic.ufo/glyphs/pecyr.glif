@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pecyr" format="2">
-  <advance width="911"/>
+  <advance width="1026"/>
   <unicode hex="043F"/>
   <outline>
     <contour>
-      <point x="-12" y="0" type="line"/>
-      <point x="159" y="1080" type="line"/>
-      <point x="923" y="1080" type="line"/>
-      <point x="752" y="0" type="line"/>
-      <point x="673" y="0" type="line"/>
-      <point x="831" y="996" type="line"/>
-      <point x="225" y="996" type="line"/>
-      <point x="67" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="212" y="1080" type="line"/>
+      <point x="984" y="1080" type="line"/>
+      <point x="805" y="0" type="line"/>
+      <point x="726" y="0" type="line"/>
+      <point x="891" y="996" type="line"/>
+      <point x="278" y="996" type="line"/>
+      <point x="113" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

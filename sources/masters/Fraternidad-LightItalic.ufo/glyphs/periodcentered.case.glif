@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered.case" format="2">
-  <advance width="368"/>
+  <advance width="400"/>
   <outline>
-    <component base="periodcentered" xOffset="94" yOffset="90"/>
+    <component base="periodcentered" xOffset="15" yOffset="90"/>
   </outline>
 </glyph>

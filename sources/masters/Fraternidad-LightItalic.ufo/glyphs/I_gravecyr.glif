@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Igravecyr" format="2">
-  <advance width="1170"/>
+  <advance width="1277"/>
   <unicode hex="040D"/>
   <outline>
     <contour>
-      <point x="-76" y="0" type="line"/>
-      <point x="152" y="1440" type="line"/>
-      <point x="235" y="1440" type="line"/>
-      <point x="30" y="150" type="line"/>
-      <point x="1093" y="1440" type="line"/>
-      <point x="1175" y="1440" type="line"/>
-      <point x="947" y="0" type="line"/>
-      <point x="865" y="0" type="line"/>
-      <point x="1070" y="1292" type="line"/>
-      <point x="7" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="272" y="1440" type="line"/>
+      <point x="354" y="1440" type="line"/>
+      <point x="141" y="150" type="line"/>
+      <point x="1213" y="1440" type="line"/>
+      <point x="1295" y="1440" type="line"/>
+      <point x="1057" y="0" type="line"/>
+      <point x="974" y="0" type="line"/>
+      <point x="1188" y="1292" type="line"/>
+      <point x="116" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="716" y="1890" type="line"/>
-      <point x="737" y="1620" type="line"/>
-      <point x="673" y="1620" type="line"/>
-      <point x="621" y="1890" type="line"/>
+      <point x="838" y="1890" type="line"/>
+      <point x="858" y="1620" type="line"/>
+      <point x="794" y="1620" type="line"/>
+      <point x="744" y="1890" type="line"/>
     </contour>
   </outline>
 </glyph>

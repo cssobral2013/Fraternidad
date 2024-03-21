@@ -4,5 +4,5 @@ Is developed from Manrope (https://github.com/sharanda/manrope), Hauora Sans (ht
 - Added oblique italics;
 - Thickened weight of Regular;
 - Imported G from Vela Sans;
-- Changed 'Q' to touching crossbar;
+- Changed 'Q' to horizontal touching;
 - Other changes from Hauora (such as K/k, punctuation, and some diacritics).

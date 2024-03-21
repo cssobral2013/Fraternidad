@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="2">
-  <advance width="1013"/>
+  <advance width="1093"/>
   <unicode hex="00E1"/>
   <outline>
     <component base="a"/>
     <contour>
-      <point x="619" y="1530" type="line"/>
-      <point x="709" y="1530" type="line"/>
-      <point x="576" y="1260" type="line"/>
-      <point x="513" y="1260" type="line"/>
+      <point x="724" y="1530" type="line"/>
+      <point x="815" y="1530" type="line"/>
+      <point x="679" y="1260" type="line"/>
+      <point x="616" y="1260" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  </dict>
+  </lib>
 </glyph>

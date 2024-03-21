@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iocyr" format="2">
-  <advance width="1141"/>
+  <advance width="1216"/>
   <unicode hex="0451"/>
-  <anchor x="647" y="1440" name="top"/>
   <outline>
     <component base="iecyr"/>
-    <component base="dieresis" xOffset="87"/>
+    <component base="dieresis" xOffset="4"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>e</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>e</string>
-  </dict>
-  </lib>
 </glyph>

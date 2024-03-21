@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kacyr.loclBGR" format="2">
-  <advance width="876"/>
+  <advance width="936"/>
   <outline>
     <component base="k"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>k</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>k</string>
-  </dict>
-  </lib>
 </glyph>

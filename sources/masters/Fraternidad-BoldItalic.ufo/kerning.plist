@@ -2038,18 +2038,54 @@
   <dict>
     <key>Decyr.loclBGR</key>
     <integer>-40</integer>
+    <key>chi</key>
+    <integer>-40</integer>
+    <key>hacyr</key>
+    <integer>-40</integer>
     <key>lambda</key>
     <integer>-80</integer>
+    <key>lownumeralsign</key>
+    <integer>-40</integer>
     <key>nine</key>
     <integer>-60</integer>
+    <key>numeralsign</key>
+    <integer>-40</integer>
     <key>quotedbl</key>
     <integer>-40</integer>
     <key>quotedblleft</key>
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
+    <key>quotesingle</key>
+    <integer>-40</integer>
+    <key>ucyr</key>
+    <integer>-80</integer>
+    <key>ushortcyr</key>
+    <integer>-80</integer>
+    <key>x</key>
+    <integer>-40</integer>
+    <key>y</key>
+    <integer>-80</integer>
+    <key>yacute</key>
+    <integer>-80</integer>
+    <key>ycircumflex</key>
+    <integer>-80</integer>
+    <key>ydieresis</key>
+    <integer>-80</integer>
+    <key>ydotbelow</key>
+    <integer>-80</integer>
+    <key>ygrave</key>
+    <integer>-80</integer>
+    <key>yhoi</key>
+    <integer>-80</integer>
+    <key>ytilde</key>
+    <integer>-80</integer>
+    <key>zecyr</key>
+    <integer>-40</integer>
+    <key>zhecyr</key>
+    <integer>-40</integer>
+    <key>zhecyr.loclBGR</key>
+    <integer>-40</integer>
   </dict>
   <key>becyr</key>
   <dict>
@@ -2065,6 +2101,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>becyr.loclSRB</key>
   <dict>
@@ -2080,6 +2118,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>braceleft</key>
   <dict>
@@ -2229,6 +2269,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>djecyr</key>
   <dict>
@@ -2313,6 +2355,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>egrave</key>
   <dict>
@@ -2355,6 +2399,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>epsilontonos</key>
   <dict>
@@ -2375,6 +2421,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>escyr</key>
   <dict>
@@ -2454,6 +2502,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>g</key>
   <dict>
@@ -2927,6 +2977,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>oacute</key>
   <dict>
@@ -2942,6 +2994,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>obarcyr</key>
   <dict>
@@ -2957,6 +3011,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ocircumflex</key>
   <dict>
@@ -2972,6 +3028,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ocircumflexacute</key>
   <dict>
@@ -2987,6 +3045,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ocircumflexdotbelow</key>
   <dict>
@@ -3002,6 +3062,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ocircumflexgrave</key>
   <dict>
@@ -3017,6 +3079,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ocircumflexhoi</key>
   <dict>
@@ -3032,6 +3096,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ocircumflextilde</key>
   <dict>
@@ -3047,6 +3113,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ocyr</key>
   <dict>
@@ -3062,6 +3130,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>odieresis</key>
   <dict>
@@ -3077,6 +3147,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>odotbelow</key>
   <dict>
@@ -3092,6 +3164,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>oe</key>
   <dict>
@@ -3112,6 +3186,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ohoi</key>
   <dict>
@@ -3127,6 +3203,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ohorn</key>
   <dict>
@@ -3142,6 +3220,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ohornacute</key>
   <dict>
@@ -3157,6 +3237,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ohorndotbelow</key>
   <dict>
@@ -3172,6 +3254,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ohorngrave</key>
   <dict>
@@ -3187,6 +3271,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ohornhoi</key>
   <dict>
@@ -3202,6 +3288,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ohorntilde</key>
   <dict>
@@ -3217,6 +3305,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ohungarumlaut</key>
   <dict>
@@ -3232,6 +3322,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>omacron</key>
   <dict>
@@ -3247,6 +3339,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>omega</key>
   <dict>
@@ -3262,6 +3356,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>omegatonos</key>
   <dict>
@@ -3277,6 +3373,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>omicron</key>
   <dict>
@@ -3292,6 +3390,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>omicrontonos</key>
   <dict>
@@ -3307,6 +3407,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>one</key>
   <dict>
@@ -3329,6 +3431,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>otilde</key>
   <dict>
@@ -3344,6 +3448,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>p</key>
   <dict>
@@ -3359,6 +3465,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>parenleft</key>
   <dict>
@@ -3391,6 +3499,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>pi</key>
   <dict>
@@ -4461,6 +4571,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>ruble</key>
   <dict>
@@ -4579,6 +4691,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>scircumflex</key>
   <dict>
@@ -5644,6 +5758,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>z</key>
   <dict>
@@ -5679,6 +5795,8 @@
     <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-60</integer>
+    <key>quoteright</key>
+    <integer>-40</integer>
   </dict>
   <key>zeta</key>
   <dict>
@@ -5800,10 +5918,10 @@
     <key>public.kern2.Y2</key>
     <integer>-80</integer>
   </dict>
-  <key>public.kern1.I1</key>
+  <key>public.kern1.Itilde</key>
   <dict>
-    <key>public.kern2.I1</key>
-    <integer>265</integer>
+    <key>public.kern2.Itilde2</key>
+    <integer>189</integer>
   </dict>
   <key>public.kern1.J</key>
   <dict>
@@ -5814,6 +5932,8 @@
   </dict>
   <key>public.kern1.K</key>
   <dict>
+    <key>space_less_three_space.liga</key>
+    <integer>-40</integer>
     <key>public.kern2.C2</key>
     <integer>-60</integer>
     <key>public.kern2.G2</key>
@@ -5830,8 +5950,6 @@
     <integer>-60</integer>
     <key>public.kern2.s2</key>
     <integer>-40</integer>
-    <key>public.kern2.space</key>
-    <integer>-40</integer>
     <key>public.kern2.t2</key>
     <integer>-62</integer>
     <key>public.kern2.u</key>
@@ -5845,6 +5963,8 @@
   </dict>
   <key>public.kern1.L</key>
   <dict>
+    <key>space_less_three_space.liga</key>
+    <integer>-100</integer>
     <key>public.kern2.G2</key>
     <integer>-40</integer>
     <key>public.kern2.T2</key>
@@ -5857,8 +5977,6 @@
     <integer>-40</integer>
     <key>public.kern2.parenright2</key>
     <integer>-60</integer>
-    <key>public.kern2.space</key>
-    <integer>-100</integer>
     <key>public.kern2.t2</key>
     <integer>-50</integer>
     <key>public.kern2.uni0374</key>
@@ -5915,6 +6033,8 @@
   </dict>
   <key>public.kern1.T</key>
   <dict>
+    <key>space_less_three_space.liga</key>
+    <integer>-60</integer>
     <key>public.kern2.A2</key>
     <integer>-40</integer>
     <key>public.kern2.J2</key>
@@ -5943,8 +6063,6 @@
     <integer>-100</integer>
     <key>public.kern2.s2</key>
     <integer>-120</integer>
-    <key>public.kern2.space</key>
-    <integer>-60</integer>
     <key>public.kern2.tau</key>
     <integer>-60</integer>
     <key>public.kern2.thorn2</key>
@@ -6033,6 +6151,8 @@
   </dict>
   <key>public.kern1.Y</key>
   <dict>
+    <key>space_less_three_space.liga</key>
+    <integer>-80</integer>
     <key>public.kern2.A2</key>
     <integer>-140</integer>
     <key>public.kern2.C2</key>
@@ -6067,8 +6187,6 @@
     <integer>-80</integer>
     <key>public.kern2.s2</key>
     <integer>-160</integer>
-    <key>public.kern2.space</key>
-    <integer>-80</integer>
     <key>public.kern2.thorn2</key>
     <integer>-80</integer>
     <key>public.kern2.u</key>
@@ -6131,13 +6249,13 @@
     <key>public.kern2.tau</key>
     <integer>-20</integer>
     <key>public.kern2.uni0374</key>
-    <integer>-40</integer>
+    <integer>-60</integer>
     <key>public.kern2.v2</key>
     <integer>-40</integer>
     <key>public.kern2.x2</key>
     <integer>-40</integer>
     <key>public.kern2.y2</key>
-    <integer>-80</integer>
+    <integer>-40</integer>
     <key>public.kern2.z2</key>
     <integer>-40</integer>
   </dict>
@@ -6265,11 +6383,6 @@
     <key>public.kern2.uni0374</key>
     <integer>-120</integer>
   </dict>
-  <key>public.kern1.i1</key>
-  <dict>
-    <key>public.kern2.i1</key>
-    <integer>270</integer>
-  </dict>
   <key>public.kern1.iota</key>
   <dict>
     <key>public.kern2.c2</key>
@@ -6280,6 +6393,11 @@
     <integer>-120</integer>
     <key>public.kern2.v2</key>
     <integer>-120</integer>
+  </dict>
+  <key>public.kern1.itilde</key>
+  <dict>
+    <key>public.kern2.itilde2</key>
+    <integer>198</integer>
   </dict>
   <key>public.kern1.k</key>
   <dict>

@@ -2,6 +2,6 @@
 <glyph name="arrowleft.case" format="2">
   <advance width="2030"/>
   <outline>
-    <component base="arrowleft" xOffset="-20"/>
+    <component base="arrowleft"/>
   </outline>
 </glyph>

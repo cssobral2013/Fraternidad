@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emcyr" format="2">
-  <advance width="1152"/>
+  <advance width="1232"/>
   <unicode hex="043C"/>
   <outline>
     <contour>
-      <point x="-13" y="0" type="line"/>
-      <point x="158" y="1080" type="line"/>
-      <point x="239" y="1080" type="line"/>
-      <point x="506" y="104" type="line"/>
-      <point x="1083" y="1080" type="line"/>
-      <point x="1164" y="1080" type="line"/>
-      <point x="993" y="0" type="line"/>
-      <point x="914" y="0" type="line"/>
-      <point x="1053" y="880" type="line"/>
-      <point x="534" y="0" type="line"/>
-      <point x="446" y="0" type="line"/>
-      <point x="206" y="880" type="line"/>
-      <point x="66" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="212" y="1080" type="line"/>
+      <point x="292" y="1080" type="line"/>
+      <point x="560" y="228" type="line"/>
+      <point x="1110" y="1080" type="line"/>
+      <point x="1190" y="1080" type="line"/>
+      <point x="1011" y="0" type="line"/>
+      <point x="931" y="0" type="line"/>
+      <point x="1079" y="895" type="line"/>
+      <point x="588" y="132" type="line"/>
+      <point x="500" y="132" type="line"/>
+      <point x="261" y="895" type="line"/>
+      <point x="113" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

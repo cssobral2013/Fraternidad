@@ -4,6 +4,17 @@
   <unicode hex="0418"/>
   <anchor x="662" y="1440" name="top"/>
   <outline>
-    <component base="N" xScale="-1" xOffset="1324"/>
+    <contour>
+      <point x="1100" y="0" type="line"/>
+      <point x="1100" y="1292" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="1440" type="line"/>
+      <point x="224" y="1440" type="line"/>
+      <point x="224" y="150" type="line"/>
+      <point x="1100" y="1440" type="line"/>
+      <point x="1184" y="1440" type="line"/>
+      <point x="1184" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

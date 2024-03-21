@@ -13,30 +13,36 @@
       <point x="559" y="1604" type="line"/>
     </contour>
     <contour>
-      <point x="709" y="-30" type="qcurve" smooth="yes"/>
-      <point x="542" y="-30"/>
-      <point x="285" y="108"/>
-      <point x="140" y="358"/>
-      <point x="140" y="526" type="qcurve" smooth="yes"/>
+      <point x="709" y="-30" type="curve" smooth="yes"/>
+      <point x="598" y="-30"/>
+      <point x="499" y="-7"/>
+      <point x="414" y="39" type="curve" smooth="yes"/>
+      <point x="242" y="131"/>
+      <point x="140" y="302"/>
+      <point x="140" y="526" type="curve" smooth="yes"/>
       <point x="140" y="1439" type="line"/>
       <point x="325" y="1440" type="line"/>
       <point x="325" y="540" type="line" smooth="yes"/>
-      <point x="325" y="440"/>
-      <point x="393" y="290"/>
-      <point x="505" y="191"/>
-      <point x="641" y="143"/>
-      <point x="709" y="143" type="qcurve" smooth="yes"/>
-      <point x="778" y="143"/>
-      <point x="914" y="192"/>
-      <point x="1026" y="291"/>
-      <point x="1093" y="440"/>
-      <point x="1093" y="540" type="qcurve" smooth="yes"/>
+      <point x="325" y="407"/>
+      <point x="374" y="307"/>
+      <point x="449" y="241" type="curve" smooth="yes"/>
+      <point x="524" y="175"/>
+      <point x="618" y="143"/>
+      <point x="709" y="143" type="curve" smooth="yes"/>
+      <point x="801" y="143"/>
+      <point x="895" y="176"/>
+      <point x="970" y="242" type="curve" smooth="yes"/>
+      <point x="1045" y="308"/>
+      <point x="1093" y="407"/>
+      <point x="1093" y="540" type="curve" smooth="yes"/>
       <point x="1093" y="1440" type="line"/>
       <point x="1278" y="1440" type="line"/>
       <point x="1278" y="526" type="line" smooth="yes"/>
-      <point x="1278" y="358"/>
-      <point x="1133" y="108"/>
-      <point x="876" y="-30"/>
+      <point x="1278" y="414"/>
+      <point x="1254" y="316"/>
+      <point x="1206" y="233" type="curve" smooth="yes"/>
+      <point x="1109" y="66"/>
+      <point x="932" y="-30"/>
     </contour>
   </outline>
 </glyph>

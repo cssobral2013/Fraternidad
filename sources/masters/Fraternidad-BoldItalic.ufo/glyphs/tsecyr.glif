@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tsecyr" format="2">
-  <advance width="1135"/>
+  <advance width="1259"/>
   <unicode hex="0446"/>
   <outline>
     <contour>
-      <point x="793" y="-240" type="line"/>
-      <point x="831" y="0" type="line"/>
-      <point x="-18" y="0" type="line"/>
-      <point x="153" y="1080" type="line"/>
-      <point x="409" y="1080" type="line"/>
-      <point x="278" y="254" type="line"/>
-      <point x="677" y="254" type="line"/>
-      <point x="808" y="1080" type="line"/>
-      <point x="1064" y="1080" type="line"/>
-      <point x="931" y="240" type="line"/>
-      <point x="1124" y="240" type="line"/>
-      <point x="1048" y="-240" type="line"/>
+      <point x="849" y="-240" type="line"/>
+      <point x="889" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="210" y="1080" type="line"/>
+      <point x="469" y="1080" type="line"/>
+      <point x="332" y="254" type="line"/>
+      <point x="735" y="254" type="line"/>
+      <point x="872" y="1080" type="line"/>
+      <point x="1130" y="1080" type="line"/>
+      <point x="991" y="240" type="line"/>
+      <point x="1187" y="240" type="line"/>
+      <point x="1108" y="-240" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>shacyr</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>=1135</string>
-  </dict>
-  </lib>
 </glyph>

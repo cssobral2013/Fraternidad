@@ -3,8 +3,8 @@
   <advance width="2233"/>
   <unicode hex="2116"/>
   <outline>
-    <component base="N" xOffset="27"/>
-    <component base="degree" xOffset="1380"/>
-    <component base="hyphen" xOffset="1374" yOffset="-40"/>
+    <component base="N"/>
+    <component base="degree" xOffset="1353"/>
+    <component base="hyphen" xOffset="1346" yOffset="-40"/>
   </outline>
 </glyph>

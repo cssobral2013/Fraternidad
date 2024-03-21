@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright.case" format="2">
-  <advance width="797"/>
+  <advance width="780"/>
   <outline>
-    <component base="bracketleft.case" xScale="-1" yxScale="0.31" xOffset="672"/>
+    <contour>
+      <point x="368" y="-387" type="line"/>
+      <point x="734" y="1827" type="line"/>
+      <point x="344" y="1827" type="line"/>
+      <point x="317" y="1661" type="line"/>
+      <point x="544" y="1661" type="line"/>
+      <point x="232" y="-221" type="line"/>
+      <point x="5" y="-221" type="line"/>
+      <point x="-22" y="-387" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,47 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yukrcyr.calt" format="2">
-  <advance width="548"/>
-  <anchor x="397" y="1440" name="top"/>
+  <advance width="596"/>
   <outline>
     <contour>
-      <point x="26" y="0" type="line"/>
-      <point x="254" y="1440" type="line"/>
-      <point x="520" y="1440" type="line"/>
-      <point x="292" y="0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="307" y="1440" type="line"/>
+      <point x="573" y="1440" type="line"/>
+      <point x="335" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="202" y="1553" type="qcurve" smooth="yes"/>
-      <point x="134" y="1553"/>
-      <point x="51" y="1645"/>
-      <point x="57" y="1711" type="qcurve" smooth="yes"/>
-      <point x="63" y="1778"/>
-      <point x="162" y="1869"/>
-      <point x="230" y="1869" type="qcurve" smooth="yes"/>
-      <point x="299" y="1869"/>
-      <point x="381" y="1778"/>
-      <point x="375" y="1711" type="qcurve" smooth="yes"/>
-      <point x="369" y="1645"/>
-      <point x="271" y="1553"/>
+      <point x="250" y="1553" type="qcurve" smooth="yes"/>
+      <point x="216" y="1553"/>
+      <point x="163" y="1576"/>
+      <point x="145" y="1599" type="qcurve" smooth="yes"/>
+      <point x="126" y="1622"/>
+      <point x="114" y="1678"/>
+      <point x="119" y="1712" type="qcurve" smooth="yes"/>
+      <point x="124" y="1745"/>
+      <point x="156" y="1801"/>
+      <point x="182" y="1824" type="qcurve" smooth="yes"/>
+      <point x="208" y="1847"/>
+      <point x="268" y="1869"/>
+      <point x="302" y="1869" type="qcurve" smooth="yes"/>
+      <point x="335" y="1869"/>
+      <point x="387" y="1847"/>
+      <point x="405" y="1824" type="qcurve" smooth="yes"/>
+      <point x="424" y="1801"/>
+      <point x="436" y="1745"/>
+      <point x="431" y="1711" type="qcurve" smooth="yes"/>
+      <point x="426" y="1678"/>
+      <point x="395" y="1622"/>
+      <point x="368" y="1599" type="qcurve" smooth="yes"/>
+      <point x="342" y="1576"/>
+      <point x="283" y="1553"/>
     </contour>
     <contour>
-      <point x="689" y="1553" type="qcurve" smooth="yes"/>
-      <point x="621" y="1553"/>
-      <point x="538" y="1645"/>
-      <point x="544" y="1711" type="qcurve" smooth="yes"/>
-      <point x="550" y="1778"/>
-      <point x="649" y="1869"/>
-      <point x="717" y="1869" type="qcurve" smooth="yes"/>
-      <point x="786" y="1869"/>
-      <point x="868" y="1778"/>
-      <point x="862" y="1711" type="qcurve" smooth="yes"/>
-      <point x="856" y="1645"/>
-      <point x="758" y="1553"/>
+      <point x="748" y="1553" type="qcurve" smooth="yes"/>
+      <point x="715" y="1553"/>
+      <point x="663" y="1576"/>
+      <point x="645" y="1599" type="qcurve" smooth="yes"/>
+      <point x="626" y="1622"/>
+      <point x="613" y="1678"/>
+      <point x="618" y="1712" type="qcurve" smooth="yes"/>
+      <point x="623" y="1745"/>
+      <point x="655" y="1801"/>
+      <point x="682" y="1824" type="qcurve" smooth="yes"/>
+      <point x="708" y="1847"/>
+      <point x="767" y="1869"/>
+      <point x="800" y="1869" type="qcurve" smooth="yes"/>
+      <point x="834" y="1869"/>
+      <point x="886" y="1847"/>
+      <point x="904" y="1824" type="qcurve" smooth="yes"/>
+      <point x="923" y="1801"/>
+      <point x="935" y="1745"/>
+      <point x="930" y="1711" type="qcurve" smooth="yes"/>
+      <point x="925" y="1678"/>
+      <point x="893" y="1622"/>
+      <point x="867" y="1599" type="qcurve" smooth="yes"/>
+      <point x="841" y="1576"/>
+      <point x="782" y="1553"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Yukrcyr</string>
-  </dict>
-  </lib>
 </glyph>

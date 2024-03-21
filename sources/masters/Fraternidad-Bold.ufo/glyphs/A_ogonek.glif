@@ -4,29 +4,35 @@
   <unicode hex="0104"/>
   <outline>
     <contour>
-      <point x="1120" y="-478" type="qcurve" smooth="yes"/>
-      <point x="1054" y="-478"/>
-      <point x="954" y="-414"/>
-      <point x="898" y="-311"/>
-      <point x="898" y="-252" type="qcurve" smooth="yes"/>
-      <point x="898" y="-178"/>
-      <point x="981" y="-30"/>
-      <point x="1123" y="94"/>
-      <point x="1212" y="132" type="qcurve"/>
+      <point x="1120" y="-478" type="curve" smooth="yes"/>
+      <point x="1076" y="-478"/>
+      <point x="1037" y="-467"/>
+      <point x="1004" y="-446" type="curve" smooth="yes"/>
+      <point x="937" y="-403"/>
+      <point x="898" y="-331"/>
+      <point x="898" y="-252" type="curve" smooth="yes"/>
+      <point x="898" y="-203"/>
+      <point x="912" y="-153"/>
+      <point x="940" y="-104" type="curve" smooth="yes"/>
+      <point x="995" y="-5"/>
+      <point x="1093" y="81"/>
+      <point x="1212" y="132" type="curve"/>
       <point x="1326" y="0" type="line"/>
-      <point x="1265" y="-31"/>
-      <point x="1165" y="-115"/>
-      <point x="1106" y="-199"/>
-      <point x="1106" y="-230" type="qcurve" smooth="yes"/>
-      <point x="1106" y="-251"/>
-      <point x="1136" y="-280"/>
-      <point x="1158" y="-280" type="qcurve" smooth="yes"/>
-      <point x="1173" y="-280"/>
-      <point x="1208" y="-265"/>
-      <point x="1226" y="-250" type="qcurve"/>
+      <point x="1285" y="-21"/>
+      <point x="1248" y="-45"/>
+      <point x="1215" y="-73" type="curve" smooth="yes"/>
+      <point x="1148" y="-129"/>
+      <point x="1106" y="-189"/>
+      <point x="1106" y="-230" type="curve" smooth="yes"/>
+      <point x="1106" y="-258"/>
+      <point x="1129" y="-280"/>
+      <point x="1158" y="-280" type="curve" smooth="yes"/>
+      <point x="1178" y="-280"/>
+      <point x="1202" y="-270"/>
+      <point x="1226" y="-250" type="curve"/>
       <point x="1320" y="-374" type="line"/>
-      <point x="1284" y="-423"/>
-      <point x="1177" y="-478"/>
+      <point x="1272" y="-439"/>
+      <point x="1196" y="-478"/>
     </contour>
     <contour>
       <point x="40" y="0" type="line"/>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcedilla" format="2">
-  <advance width="1152"/>
+  <advance width="1180"/>
   <unicode hex="0162"/>
   <outline>
     <component base="T"/>
-    <component base="cedilla" xOffset="180"/>
+    <component base="cedilla" xOffset="156" yOffset="-14"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>T+cedilla</string>
-  </dict>
-  </lib>
 </glyph>

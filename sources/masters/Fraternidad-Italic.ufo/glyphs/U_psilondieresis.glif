@@ -3,52 +3,15 @@
   <advance width="1131"/>
   <unicode hex="03AB"/>
   <outline>
-    <contour>
-      <point x="523" y="1608" type="qcurve" smooth="yes"/>
-      <point x="480" y="1608"/>
-      <point x="423" y="1661"/>
-      <point x="423" y="1705" type="qcurve" smooth="yes"/>
-      <point x="423" y="1733"/>
-      <point x="445" y="1783"/>
-      <point x="483" y="1821"/>
-      <point x="532" y="1843"/>
-      <point x="560" y="1843" type="qcurve" smooth="yes"/>
-      <point x="604" y="1843"/>
-      <point x="659" y="1791"/>
-      <point x="659" y="1747" type="qcurve" smooth="yes"/>
-      <point x="659" y="1719"/>
-      <point x="638" y="1668"/>
-      <point x="601" y="1630"/>
-      <point x="551" y="1608"/>
-    </contour>
-    <contour>
-      <point x="907" y="1608" type="qcurve" smooth="yes"/>
-      <point x="865" y="1608"/>
-      <point x="808" y="1661"/>
-      <point x="808" y="1704" type="qcurve" smooth="yes"/>
-      <point x="808" y="1732"/>
-      <point x="829" y="1782"/>
-      <point x="866" y="1820"/>
-      <point x="916" y="1843"/>
-      <point x="944" y="1843" type="qcurve" smooth="yes"/>
-      <point x="987" y="1843"/>
-      <point x="1044" y="1791"/>
-      <point x="1044" y="1747" type="qcurve" smooth="yes"/>
-      <point x="1044" y="1719"/>
-      <point x="1023" y="1668"/>
-      <point x="985" y="1630"/>
-      <point x="936" y="1608"/>
-    </contour>
-    <contour>
-      <point x="370" y="0" type="line"/>
-      <point x="465" y="598" type="line"/>
-      <point x="123" y="1440" type="line"/>
-      <point x="331" y="1440" type="line"/>
-      <point x="589" y="808" type="line"/>
-      <point x="1046" y="1440" type="line"/>
-      <point x="1254" y="1440" type="line"/>
-      <point x="646" y="598" type="line"/>
-      <point x="552" y="0" type="line"/>
-    </contour>
+    <component base="Upsilon"/>
+    <component base="dieresis" xOffset="10" yOffset="360"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Y</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Y</string>
+  </dict>
+  </lib>
 </glyph>

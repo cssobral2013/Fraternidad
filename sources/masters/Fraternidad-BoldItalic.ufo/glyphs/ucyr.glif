@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ucyr" format="2">
-  <advance width="1112"/>
+  <advance width="1140"/>
   <unicode hex="0443"/>
-  <anchor x="613" y="1080" name="top"/>
   <outline>
     <component base="y"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>y</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>y</string>
-  </dict>
-  </lib>
 </glyph>

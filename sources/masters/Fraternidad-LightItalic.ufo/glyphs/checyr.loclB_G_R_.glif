@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="checyr.loclBGR" format="2">
-  <advance width="978"/>
+  <advance width="1046"/>
   <outline>
-    <component base="checyr" xOffset="81"/>
+    <component base="checyr"/>
   </outline>
 </glyph>

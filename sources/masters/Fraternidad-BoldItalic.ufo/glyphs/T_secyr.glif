@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tsecyr" format="2">
-  <advance width="1367"/>
+  <advance width="1480"/>
   <unicode hex="0426"/>
   <outline>
     <contour>
-      <point x="935" y="-240" type="line"/>
-      <point x="973" y="0" type="line"/>
-      <point x="-95" y="0" type="line"/>
-      <point x="133" y="1440" type="line"/>
-      <point x="400" y="1440" type="line"/>
-      <point x="210" y="240" type="line"/>
-      <point x="853" y="240" type="line"/>
-      <point x="1036" y="1400" type="line"/>
-      <point x="1303" y="1400" type="line"/>
-      <point x="1119" y="240" type="line"/>
-      <point x="1278" y="240" type="line"/>
-      <point x="1202" y="-240" type="line"/>
+      <point x="1062" y="-240" type="line"/>
+      <point x="1102" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="272" y="1440" type="line"/>
+      <point x="538" y="1440" type="line"/>
+      <point x="340" y="240" type="line"/>
+      <point x="983" y="240" type="line"/>
+      <point x="1175" y="1400" type="line"/>
+      <point x="1441" y="1400" type="line"/>
+      <point x="1249" y="240" type="line"/>
+      <point x="1408" y="240" type="line"/>
+      <point x="1328" y="-240" type="line"/>
     </contour>
   </outline>
 </glyph>

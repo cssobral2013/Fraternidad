@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="copyright.case" format="2">
-  <advance width="1454"/>
+  <advance width="1496"/>
   <outline>
-    <component base="copyright" xOffset="109" yOffset="182"/>
+    <component base="copyright" xOffset="30" yOffset="182"/>
   </outline>
 </glyph>

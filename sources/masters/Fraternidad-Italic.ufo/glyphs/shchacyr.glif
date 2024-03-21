@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shchacyr" format="2">
-  <advance width="1460"/>
+  <advance width="1470"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
-      <point x="1086" y="-202" type="line"/>
-      <point x="1119" y="0" type="line"/>
-      <point x="-22" y="0" type="line"/>
-      <point x="149" y="1080" type="line"/>
-      <point x="315" y="1080" type="line"/>
-      <point x="170" y="166" type="line"/>
-      <point x="519" y="166" type="line"/>
-      <point x="664" y="1080" type="line"/>
-      <point x="830" y="1080" type="line"/>
-      <point x="685" y="166" type="line"/>
-      <point x="1032" y="166" type="line"/>
-      <point x="1177" y="1080" type="line"/>
-      <point x="1343" y="1080" type="line"/>
-      <point x="1198" y="166" type="line"/>
-      <point x="1317" y="166" type="line"/>
-      <point x="1258" y="-202" type="line"/>
+      <point x="1151" y="-202" type="line"/>
+      <point x="1185" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="211" y="1080" type="line"/>
+      <point x="378" y="1080" type="line"/>
+      <point x="227" y="166" type="line"/>
+      <point x="579" y="166" type="line"/>
+      <point x="731" y="1080" type="line"/>
+      <point x="899" y="1080" type="line"/>
+      <point x="748" y="166" type="line"/>
+      <point x="1099" y="166" type="line"/>
+      <point x="1250" y="1080" type="line"/>
+      <point x="1418" y="1080" type="line"/>
+      <point x="1266" y="166" type="line"/>
+      <point x="1386" y="166" type="line"/>
+      <point x="1325" y="-202" type="line"/>
     </contour>
   </outline>
 </glyph>

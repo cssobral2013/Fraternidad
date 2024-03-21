@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gjecyr" format="2">
-  <advance width="797"/>
+  <advance width="918"/>
   <unicode hex="0453"/>
   <outline>
     <contour>
-      <point x="494" y="1620" type="line"/>
-      <point x="739" y="1620" type="line"/>
-      <point x="519" y="1230" type="line"/>
-      <point x="358" y="1230" type="line"/>
+      <point x="638" y="1620" type="line"/>
+      <point x="497" y="1230" type="line"/>
+      <point x="661" y="1230" type="line"/>
+      <point x="884" y="1620" type="line"/>
     </contour>
     <contour>
-      <point x="-95" y="0" type="line"/>
-      <point x="76" y="1080" type="line"/>
-      <point x="815" y="1080" type="line"/>
-      <point x="774" y="826" type="line"/>
-      <point x="292" y="826" type="line"/>
-      <point x="161" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="212" y="1080" type="line"/>
+      <point x="958" y="1080" type="line"/>
+      <point x="916" y="826" type="line"/>
+      <point x="429" y="826" type="line"/>
+      <point x="292" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

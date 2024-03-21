@@ -1,37 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shchacyr" format="2">
-  <advance width="1721"/>
+  <advance width="1830"/>
   <unicode hex="0429"/>
   <outline>
     <contour>
-      <point x="1431" y="-202" type="line"/>
-      <point x="1463" y="0" type="line"/>
-      <point x="1325" y="0" type="line"/>
-      <point x="1352" y="166" type="line"/>
-      <point x="1668" y="166" type="line"/>
-      <point x="1610" y="-202" type="line"/>
+      <point x="1506" y="-202" type="line"/>
+      <point x="1540" y="0" type="line"/>
+      <point x="1402" y="0" type="line"/>
+      <point x="1430" y="166" type="line"/>
+      <point x="1746" y="166" type="line"/>
+      <point x="1685" y="-202" type="line"/>
     </contour>
     <contour>
-      <point x="-43" y="0" type="line"/>
-      <point x="185" y="1440" type="line"/>
-      <point x="364" y="1440" type="line"/>
-      <point x="164" y="173" type="line"/>
-      <point x="662" y="173" type="line"/>
-      <point x="862" y="1440" type="line"/>
-      <point x="1041" y="1440" type="line"/>
-      <point x="840" y="173" type="line"/>
-      <point x="1338" y="173" type="line"/>
-      <point x="1539" y="1440" type="line"/>
-      <point x="1718" y="1440" type="line"/>
-      <point x="1490" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="272" y="1440" type="line"/>
+      <point x="451" y="1440" type="line"/>
+      <point x="241" y="173" type="line"/>
+      <point x="739" y="173" type="line"/>
+      <point x="949" y="1440" type="line"/>
+      <point x="1127" y="1440" type="line"/>
+      <point x="918" y="173" type="line"/>
+      <point x="1415" y="173" type="line"/>
+      <point x="1625" y="1440" type="line"/>
+      <point x="1805" y="1440" type="line"/>
+      <point x="1566" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>Shacyr</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>=1721</string>
-  </dict>
-  </lib>
 </glyph>

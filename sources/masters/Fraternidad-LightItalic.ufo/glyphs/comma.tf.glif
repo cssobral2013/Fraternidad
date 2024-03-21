@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma.tf" format="2">
-  <advance width="600"/>
+  <advance width="559"/>
   <outline>
     <contour>
-      <point x="236" y="180" type="line"/>
-      <point x="327" y="180" type="line"/>
-      <point x="140" y="-240" type="line"/>
-      <point x="75" y="-240" type="line"/>
+      <point x="161" y="180" type="line"/>
+      <point x="252" y="180" type="line"/>
+      <point x="62" y="-240" type="line"/>
+      <point x="-3" y="-240" type="line"/>
     </contour>
   </outline>
 </glyph>

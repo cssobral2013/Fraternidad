@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ygrave" format="2">
-  <advance width="1086"/>
+  <advance width="1092"/>
   <unicode hex="1EF3"/>
   <outline>
     <component base="y"/>
     <contour>
       <point x="617" y="1530" type="line"/>
+      <point x="636" y="1260" type="line"/>
+      <point x="572" y="1260" type="line"/>
       <point x="526" y="1530" type="line"/>
-      <point x="574" y="1260" type="line"/>
-      <point x="637" y="1260" type="line"/>
     </contour>
   </outline>
 </glyph>

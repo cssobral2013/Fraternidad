@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ustraightcyr" format="2">
-  <advance width="1256"/>
+  <advance width="1155"/>
   <unicode hex="04AE"/>
   <outline>
-    <component base="Y" xOffset="152"/>
+    <component base="Y"/>
   </outline>
 </glyph>

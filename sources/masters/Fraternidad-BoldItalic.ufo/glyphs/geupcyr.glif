@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="geupcyr" format="2">
-  <advance width="794"/>
+  <advance width="916"/>
   <unicode hex="0491"/>
   <outline>
     <contour>
-      <point x="-95" y="0" type="line"/>
-      <point x="76" y="1080" type="line"/>
-      <point x="556" y="1080" type="line"/>
-      <point x="594" y="1320" type="line"/>
-      <point x="850" y="1320" type="line"/>
-      <point x="772" y="826" type="line"/>
-      <point x="292" y="826" type="line"/>
-      <point x="161" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="212" y="1080" type="line"/>
+      <point x="697" y="1080" type="line"/>
+      <point x="737" y="1320" type="line"/>
+      <point x="995" y="1320" type="line"/>
+      <point x="914" y="826" type="line"/>
+      <point x="429" y="826" type="line"/>
+      <point x="292" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

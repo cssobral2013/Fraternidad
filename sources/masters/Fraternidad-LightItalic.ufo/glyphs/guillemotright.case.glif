@@ -2,6 +2,6 @@
 <glyph name="guillemotright.case" format="2">
   <advance width="1004"/>
   <outline>
-    <component base="guillemotright" xOffset="109" yOffset="180"/>
+    <component base="guillemotright" xOffset="30" yOffset="180"/>
   </outline>
 </glyph>

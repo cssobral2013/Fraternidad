@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilondieresistonos" format="2">
-  <advance width="1041"/>
+  <advance width="1116"/>
   <unicode hex="03B0"/>
   <outline>
-    <component base="upsilon" xOffset="80"/>
-    <component base="dieresistonos" xOffset="27"/>
+    <component base="upsilon"/>
+    <component base="dieresistonos" xOffset="-43"/>
   </outline>
 </glyph>

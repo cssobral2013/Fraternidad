@@ -2,9 +2,8 @@
 <glyph name="Ylongcyr" format="2">
   <advance width="1794"/>
   <unicode hex="042B"/>
-  <anchor x="875" y="1440" name="top"/>
   <outline>
-    <component base="Softcyr" xOffset="-20"/>
-    <component base="I" xOffset="1202"/>
+    <component base="Softcyr"/>
+    <component base="I" xOffset="1222"/>
   </outline>
 </glyph>

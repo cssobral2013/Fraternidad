@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="2">
-  <advance width="460"/>
+  <advance width="503"/>
   <unicode hex="00CF"/>
   <outline>
     <component base="I"/>
-    <component base="dieresis" xOffset="-171" yOffset="360"/>
+    <component base="dieresis" xOffset="-288" yOffset="360"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>I+dieresis</string>
-  </dict>
-  </lib>
 </glyph>

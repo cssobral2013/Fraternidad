@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wacute" format="2">
-  <advance width="1541"/>
+  <advance width="1558"/>
   <unicode hex="1E83"/>
   <outline>
     <contour>
-      <point x="939" y="1620" type="line"/>
-      <point x="1183" y="1620" type="line"/>
-      <point x="964" y="1230" type="line"/>
-      <point x="802" y="1230" type="line"/>
+      <point x="976" y="1620" type="line"/>
+      <point x="1222" y="1620" type="line"/>
+      <point x="999" y="1230" type="line"/>
+      <point x="835" y="1230" type="line"/>
     </contour>
     <contour>
-      <point x="239" y="0" type="line"/>
-      <point x="97" y="1082" type="line"/>
-      <point x="349" y="1080" type="line"/>
-      <point x="433" y="436" type="line"/>
-      <point x="724" y="1080" type="line"/>
-      <point x="939" y="1080" type="line"/>
-      <point x="1026" y="436" type="line"/>
-      <point x="1314" y="1080" type="line"/>
-      <point x="1567" y="1080" type="line"/>
-      <point x="1082" y="0" type="line"/>
-      <point x="885" y="0" type="line"/>
-      <point x="772" y="704" type="line"/>
-      <point x="436" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="122" y="1082" type="line"/>
+      <point x="377" y="1080" type="line"/>
+      <point x="458" y="436" type="line"/>
+      <point x="756" y="1080" type="line"/>
+      <point x="973" y="1080" type="line"/>
+      <point x="1057" y="436" type="line"/>
+      <point x="1352" y="1080" type="line"/>
+      <point x="1607" y="1080" type="line"/>
+      <point x="1112" y="0" type="line"/>
+      <point x="912" y="0" type="line"/>
+      <point x="802" y="704" type="line"/>
+      <point x="459" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
