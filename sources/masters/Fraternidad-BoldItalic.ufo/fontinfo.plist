@@ -29,8 +29,6 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
-  <key>macintoshFONDName</key>
-  <string>Fraternidad</string>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -53,8 +51,6 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
     <integer>1</integer>
     <integer>3</integer>
   </array>
-  <key>openTypeHeadLowestRecPPEM</key>
-  <integer>8</integer>
   <key>openTypeHheaAscender</key>
   <integer>2000</integer>
   <key>openTypeHheaCaretOffset</key>
@@ -85,10 +81,8 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <string>Fraternidad VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Italic</string>
-  <key>openTypeNameUniqueID</key>
-  <string>Version 5.013;WCYS;Fraternidad-Regular;2023;FL830</string>
   <key>openTypeNameVersion</key>
-  <string>Version 5.013</string>
+  <string>Version 5.014</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -98,11 +92,6 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
     <integer>4</integer>
     <integer>7</integer>
     <integer>29</integer>
-  </array>
-  <key>openTypeOS2FamilyClass</key>
-  <array>
-    <integer>0</integer>
-    <integer>0</integer>
   </array>
   <key>openTypeOS2Panose</key>
   <array>
@@ -217,7 +206,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>versionMajor</key>
   <integer>5</integer>
   <key>versionMinor</key>
-  <integer>13</integer>
+  <integer>14</integer>
   <key>xHeight</key>
   <integer>1080</integer>
 </dict>

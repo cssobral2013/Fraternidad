@@ -30,9 +30,11 @@
       <point x="303" y="-6"/>
     </contour>
     <contour>
-      <point x="250" y="360" type="line"/>
-      <point x="230" y="1440" type="line"/>
-      <point x="334" y="1440" type="line"/>
+      <point x="262" y="360" type="line"/>
+      <point x="240" y="800" type="line"/>
+      <point x="240" y="1440" type="line"/>
+      <point x="324" y="1440" type="line"/>
+      <point x="324" y="800" type="line"/>
       <point x="314" y="360" type="line"/>
     </contour>
   </outline>
