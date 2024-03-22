@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent.tf" format="2">
+  <advance width="1860"/>
+  <outline>
+    <component base="percent" xOffset="28"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=1860</string>
+  </dict>
+  </lib>
+</glyph>

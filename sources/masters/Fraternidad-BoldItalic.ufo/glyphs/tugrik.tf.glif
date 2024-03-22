@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tugrik.tf" format="2">
-  <advance width="1210"/>
+  <advance width="1240"/>
   <outline>
     <contour>
-      <point x="177" y="110" type="line"/>
-      <point x="220" y="373" type="line"/>
-      <point x="975" y="666" type="line"/>
-      <point x="931" y="402" type="line"/>
+      <point x="192" y="110" type="line"/>
+      <point x="235" y="373" type="line"/>
+      <point x="990" y="666" type="line"/>
+      <point x="946" y="402" type="line"/>
     </contour>
     <contour>
-      <point x="245" y="524" type="line"/>
-      <point x="289" y="787" type="line"/>
-      <point x="1043" y="1080" type="line"/>
-      <point x="999" y="816" type="line"/>
+      <point x="260" y="524" type="line"/>
+      <point x="304" y="787" type="line"/>
+      <point x="1058" y="1080" type="line"/>
+      <point x="1014" y="816" type="line"/>
     </contour>
     <contour>
-      <point x="378" y="0" type="line"/>
-      <point x="575" y="1186" type="line"/>
-      <point x="130" y="1186" type="line"/>
-      <point x="172" y="1440" type="line"/>
-      <point x="1328" y="1440" type="line"/>
-      <point x="1286" y="1186" type="line"/>
-      <point x="841" y="1186" type="line"/>
-      <point x="645" y="0" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="590" y="1186" type="line"/>
+      <point x="145" y="1186" type="line"/>
+      <point x="187" y="1440" type="line"/>
+      <point x="1343" y="1440" type="line"/>
+      <point x="1301" y="1186" type="line"/>
+      <point x="856" y="1186" type="line"/>
+      <point x="660" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

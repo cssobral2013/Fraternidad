@@ -601,7 +601,43 @@
     <string>eight.superior</string>
     <string>nine.superior</string>
   </array>
-  <key>pnum</key>
+  <key>pnum_tnum</key>
+  <array>
+    <string>dollar</string>
+    <string>comma</string>
+    <string>period</string>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
+    <string>colon</string>
+    <string>semicolon</string>
+    <string>cent</string>
+    <string>sterling</string>
+    <string>currency</string>
+    <string>yen</string>
+    <string>franc</string>
+    <string>Euro</string>
+    <string>tugrik</string>
+    <string>peso</string>
+    <string>hryvnia</string>
+    <string>indianrupee</string>
+    <string>turkishlira</string>
+    <string>ruble</string>
+    <string>bitcoin</string>
+    <string>won</string>
+    <string>newsheqel</string>
+    <string>percent</string>
+    <string>perthousand</string>
+    <string>colon.case</string>
+  </array>
+  <key>pnum_tnum2</key>
   <array>
     <string>zero.tf</string>
     <string>one.tf</string>
@@ -631,37 +667,11 @@
     <string>turkishlira.tf</string>
     <string>ruble.tf</string>
     <string>bitcoin.tf</string>
-  </array>
-  <key>pnum2</key>
-  <array>
-    <string>zero</string>
-    <string>one</string>
-    <string>two</string>
-    <string>three</string>
-    <string>four</string>
-    <string>five</string>
-    <string>six</string>
-    <string>seven</string>
-    <string>eight</string>
-    <string>nine</string>
-    <string>comma</string>
-    <string>period</string>
-    <string>colon</string>
-    <string>semicolon</string>
-    <string>dollar</string>
-    <string>cent</string>
-    <string>sterling</string>
-    <string>currency</string>
-    <string>yen</string>
-    <string>franc</string>
-    <string>Euro</string>
-    <string>tugrik</string>
-    <string>peso</string>
-    <string>hryvnia</string>
-    <string>indianrupee</string>
-    <string>turkishlira</string>
-    <string>ruble</string>
-    <string>bitcoin</string>
+    <string>won.tf</string>
+    <string>newsheqel.tf</string>
+    <string>percent.tf</string>
+    <string>perthousand.tf</string>
+    <string>colon.case.tf</string>
   </array>
   <key>public.kern1.A</key>
   <array>
@@ -2169,68 +2179,6 @@
     <string>zacute</string>
     <string>zcaron</string>
     <string>zdotaccent</string>
-  </array>
-  <key>tnum</key>
-  <array>
-    <string>dollar</string>
-    <string>comma</string>
-    <string>period</string>
-    <string>zero</string>
-    <string>one</string>
-    <string>two</string>
-    <string>three</string>
-    <string>four</string>
-    <string>five</string>
-    <string>six</string>
-    <string>seven</string>
-    <string>eight</string>
-    <string>nine</string>
-    <string>colon</string>
-    <string>semicolon</string>
-    <string>cent</string>
-    <string>sterling</string>
-    <string>currency</string>
-    <string>yen</string>
-    <string>franc</string>
-    <string>Euro</string>
-    <string>tugrik</string>
-    <string>peso</string>
-    <string>hryvnia</string>
-    <string>indianrupee</string>
-    <string>turkishlira</string>
-    <string>ruble</string>
-    <string>bitcoin</string>
-  </array>
-  <key>tnum2</key>
-  <array>
-    <string>dollar.tf</string>
-    <string>comma.tf</string>
-    <string>period.tf</string>
-    <string>zero.tf</string>
-    <string>one.tf</string>
-    <string>two.tf</string>
-    <string>three.tf</string>
-    <string>four.tf</string>
-    <string>five.tf</string>
-    <string>six.tf</string>
-    <string>seven.tf</string>
-    <string>eight.tf</string>
-    <string>nine.tf</string>
-    <string>colon.tf</string>
-    <string>semicolon.tf</string>
-    <string>cent.tf</string>
-    <string>sterling.tf</string>
-    <string>currency.tf</string>
-    <string>yen.tf</string>
-    <string>franc.tf</string>
-    <string>Euro.tf</string>
-    <string>tugrik.tf</string>
-    <string>peso.tf</string>
-    <string>hryvnia.tf</string>
-    <string>indianrupee.tf</string>
-    <string>turkishlira.tf</string>
-    <string>ruble.tf</string>
-    <string>bitcoin.tf</string>
   </array>
 </dict>
 </plist>

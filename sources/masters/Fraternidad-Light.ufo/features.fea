@@ -1,6 +1,8 @@
 #> classes
 #/> otclasses
 @calt8 = [zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf];
+@pnum_tnum = [dollar comma period zero one two three four five six seven eight nine colon semicolon cent sterling currency yen franc Euro tugrik peso hryvnia indianrupee turkishlira ruble bitcoin won newsheqel percent perthousand colon.case];
+@pnum_tnum2 = [zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf comma.tf period.tf colon.tf semicolon.tf dollar.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf won.tf newsheqel.tf percent.tf perthousand.tf colon.case.tf];
 #/< otclasses
 #< classes
 
@@ -238,14 +240,14 @@ feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
 
-  sub @pnum by @pnum2;
+  sub @pnum_tnum2 by @pnum_tnum;
 
 } pnum;
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
 
-  sub @tnum by @tnum2;
+  sub @pnum_tnum by @pnum_tnum2;
 
 } tnum;
 feature case {

@@ -17,8 +17,8 @@
 @locl = [Decyr Zhecyr Kacyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr encyr pecyr tecyr tsecyr checyr shacyr shchacyr softcyr yucyr igravecyr];
 @locl2 = [Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR encyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR checyr.loclBGR shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
 @numr_sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
-@pnum_tnum = [dollar.tf comma.tf period.tf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf colon.tf semicolon.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf];
-@pnum_tnum2 = [dollar comma period zero one two three four five six seven eight nine colon semicolon cent sterling currency yen franc Euro tugrik peso hryvnia indianrupee turkishlira ruble bitcoin];
+@pnum_tnum = [dollar.tf comma.tf period.tf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf colon.tf semicolon.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf won.tf newsheqel.tf percent.tf perthousand.tf colon.case.tf];
+@pnum_tnum2 = [dollar comma period zero one two three four five six seven eight nine colon semicolon cent sterling currency yen franc Euro tugrik peso hryvnia indianrupee turkishlira ruble bitcoin won newsheqel percent perthousand colon.case];
 #/< otclasses
 #< classes
 

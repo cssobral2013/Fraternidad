@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="newsheqel.tf" format="2">
+  <advance width="1240"/>
+  <outline>
+    <component base="newsheqel" xScale="0.75" xOffset="5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=1240</string>
+  </dict>
+  </lib>
+</glyph>

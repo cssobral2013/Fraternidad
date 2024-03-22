@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen.tf" format="2">
-  <advance width="1201"/>
+  <advance width="1240"/>
   <outline>
     <contour>
-      <point x="239" y="512" type="line"/>
-      <point x="253" y="596" type="line"/>
-      <point x="959" y="596" type="line"/>
-      <point x="945" y="512" type="line"/>
+      <point x="258" y="512" type="line"/>
+      <point x="272" y="596" type="line"/>
+      <point x="978" y="596" type="line"/>
+      <point x="964" y="512" type="line"/>
     </contour>
     <contour>
-      <point x="195" y="244" type="line"/>
-      <point x="209" y="328" type="line"/>
-      <point x="915" y="328" type="line"/>
-      <point x="901" y="244" type="line"/>
+      <point x="214" y="244" type="line"/>
+      <point x="228" y="328" type="line"/>
+      <point x="934" y="328" type="line"/>
+      <point x="920" y="244" type="line"/>
     </contour>
     <contour>
-      <point x="466" y="0" type="line"/>
-      <point x="568" y="612" type="line"/>
-      <point x="236" y="1440" type="line"/>
-      <point x="330" y="1440" type="line"/>
-      <point x="625" y="708" type="line"/>
-      <point x="1159" y="1440" type="line"/>
-      <point x="1254" y="1440" type="line"/>
-      <point x="650" y="612" type="line"/>
-      <point x="549" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="587" y="612" type="line"/>
+      <point x="255" y="1440" type="line"/>
+      <point x="349" y="1440" type="line"/>
+      <point x="644" y="708" type="line"/>
+      <point x="1178" y="1440" type="line"/>
+      <point x="1273" y="1440" type="line"/>
+      <point x="669" y="612" type="line"/>
+      <point x="568" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

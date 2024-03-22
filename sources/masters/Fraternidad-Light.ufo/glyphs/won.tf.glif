@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="won.tf" format="2">
+  <advance width="1240"/>
+  <outline>
+    <component base="won" xScale="0.6" xOffset="63"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=1240</string>
+  </dict>
+  </lib>
+</glyph>

@@ -780,6 +780,11 @@
     <string>bitcoin.tf</string>
     <string>arrowleft.case</string>
     <string>arrowright.case</string>
+    <string>percent.tf</string>
+    <string>perthousand.tf</string>
+    <string>won.tf</string>
+    <string>newsheqel.tf</string>
+    <string>colon.case.tf</string>
   </array>
 </dict>
 </plist>

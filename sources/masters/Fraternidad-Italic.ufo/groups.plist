@@ -631,6 +631,11 @@
     <string>turkishlira.tf</string>
     <string>ruble.tf</string>
     <string>bitcoin.tf</string>
+    <string>won.tf</string>
+    <string>newsheqel.tf</string>
+    <string>percent.tf</string>
+    <string>perthousand.tf</string>
+    <string>colon.case.tf</string>
   </array>
   <key>pnum_tnum2</key>
   <array>
@@ -662,6 +667,11 @@
     <string>turkishlira</string>
     <string>ruble</string>
     <string>bitcoin</string>
+    <string>won</string>
+    <string>newsheqel</string>
+    <string>percent</string>
+    <string>perthousand</string>
+    <string>colon.case</string>
   </array>
   <key>public.kern1.A</key>
   <array>

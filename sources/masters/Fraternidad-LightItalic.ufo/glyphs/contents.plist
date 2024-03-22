@@ -694,6 +694,8 @@
   <string>colon.glif</string>
   <key>colon.case</key>
   <string>colon.case.glif</string>
+  <key>colon.case.tf</key>
+  <string>colon.case.tf.glif</string>
   <key>colon.tf</key>
   <string>colon.tf.glif</string>
   <key>comma</key>
@@ -1088,6 +1090,8 @@
   <string>ncommaaccent.glif</string>
   <key>newsheqel</key>
   <string>newsheqel.glif</string>
+  <key>newsheqel.tf</key>
+  <string>newsheqel.tf.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.inferior</key>
@@ -1212,6 +1216,8 @@
   <string>pecyr.loclB_G_R_.glif</string>
   <key>percent</key>
   <string>percent.glif</string>
+  <key>percent.tf</key>
+  <string>percent.tf.glif</string>
   <key>period</key>
   <string>period.glif</string>
   <key>period.tf</key>
@@ -1222,6 +1228,8 @@
   <string>periodcentered.case.glif</string>
   <key>perthousand</key>
   <string>perthousand.glif</string>
+  <key>perthousand.tf</key>
+  <string>perthousand.tf.glif</string>
   <key>peso</key>
   <string>peso.glif</string>
   <key>peso.tf</key>
@@ -1488,6 +1496,8 @@
   <string>wgrave.glif</string>
   <key>won</key>
   <string>won.glif</string>
+  <key>won.tf</key>
+  <string>won.tf.glif</string>
   <key>wordjoiner</key>
   <string>wordjoiner.glif</string>
   <key>x</key>
