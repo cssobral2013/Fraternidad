@@ -2,6 +2,7 @@
 <glyph name="Ereversedcyr" format="2">
   <advance width="1412"/>
   <unicode hex="042D"/>
+  <anchor x="838" y="1440" name="top"/>
   <outline>
     <contour>
       <point x="593" y="-30" type="curve" smooth="yes"/>
@@ -20,7 +21,7 @@
       <point x="1116" y="848" type="line"/>
       <point x="1116" y="860"/>
       <point x="1116" y="871"/>
-      <point x="1115" y="882" type="curve"/>
+      <point x="1115" y="882" type="curve" smooth="yes"/>
       <point x="1105" y="1075"/>
       <point x="1003" y="1214"/>
       <point x="790" y="1214" type="curve" smooth="yes"/>

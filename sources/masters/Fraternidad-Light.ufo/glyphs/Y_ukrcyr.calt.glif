@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yukrcyr.calt" format="2">
   <advance width="404"/>
-  <anchor x="205" y="1440" name="top"/>
   <outline>
     <contour>
       <point x="160" y="0" type="line"/>

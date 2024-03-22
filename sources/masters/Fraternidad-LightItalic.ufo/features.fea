@@ -17,8 +17,8 @@
 @locl = [Decyr Zhecyr Kacyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr encyr pecyr tecyr tsecyr checyr shacyr shchacyr softcyr yucyr igravecyr];
 @locl2 = [Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR encyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR checyr.loclBGR shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
 @numr_sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
-@pnum_tnum = [dollar.tf comma.tf period.tf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf colon.tf semicolon.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf won.tf newsheqel.tf percent.tf perthousand.tf colon.case.tf];
-@pnum_tnum2 = [dollar comma period zero one two three four five six seven eight nine colon semicolon cent sterling currency yen franc Euro tugrik peso hryvnia indianrupee turkishlira ruble bitcoin won newsheqel percent perthousand colon.case];
+@pnum_tnum = [zero one two three four five six seven eight nine comma period colon semicolon dollar cent sterling currency yen franc Euro tugrik peso hryvnia indianrupee turkishlira ruble bitcoin won newsheqel percent perthousand colon.case];
+@pnum_tnum2 = [zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf comma.tf period.tf colon.tf semicolon.tf dollar.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf won.tf newsheqel.tf percent.tf perthousand.tf colon.case.tf];
 #/< otclasses
 #< classes
 
@@ -3211,3 +3211,62 @@ feature kern {
 
 
 } kern;
+feature mark {
+# Mark Positioning
+# GPOS feature : Mark Positioning
+#> feature
+# GPOS feature : Mark Positioning
+    markClass acutecomb <anchor 648 1440> @top;
+
+  lookup markLTR {
+      pos base Iocyr
+          <anchor 807 1796> mark @top;
+      pos base Iukrcyr
+          <anchor 435 1440> mark @top;
+      pos base Acyr
+          <anchor 805 1440> mark @top;
+      pos base Iecyr
+          <anchor 721 1440> mark @top;
+      pos base Icyr
+          <anchor 830 1440> mark @top;
+      pos base Ocyr
+          <anchor 888 1440> mark @top;
+      pos base Ucyr
+          <anchor 755 1440> mark @top;
+      pos base Ylongcyr
+          <anchor 996 1440> mark @top;
+      pos base Ereversedcyr
+          <anchor 838 1440> mark @top;
+      pos base Yucyr
+          <anchor 941 1440> mark @top;
+      pos base Yacyr
+          <anchor 736 1440> mark @top;
+      pos base acyr
+          <anchor 652 1080> mark @top;
+      pos base iecyr
+          <anchor 676 1080> mark @top;
+      pos base icyr
+          <anchor 686 1080> mark @top;
+      pos base ocyr
+          <anchor 684 1080> mark @top;
+      pos base ucyr
+          <anchor 644 1080> mark @top;
+      pos base ylongcyr
+          <anchor 784 1080> mark @top;
+      pos base ereversedcyr
+          <anchor 610 1080> mark @top;
+      pos base yucyr
+          <anchor 856 1080> mark @top;
+      pos base yacyr
+          <anchor 656 1080> mark @top;
+      pos base iocyr
+          <anchor 706 1440> mark @top;
+      pos base eukrcyr
+          <anchor 678 1080> mark @top;
+      pos base iukrcyr
+          <anchor 434 1441> mark @top;
+  } markLTR;
+
+  lookup markLTR;
+#< feature
+} mark;

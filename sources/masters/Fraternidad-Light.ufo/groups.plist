@@ -603,9 +603,6 @@
   </array>
   <key>pnum_tnum</key>
   <array>
-    <string>dollar</string>
-    <string>comma</string>
-    <string>period</string>
     <string>zero</string>
     <string>one</string>
     <string>two</string>
@@ -616,8 +613,11 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
+    <string>comma</string>
+    <string>period</string>
     <string>colon</string>
     <string>semicolon</string>
+    <string>dollar</string>
     <string>cent</string>
     <string>sterling</string>
     <string>currency</string>
