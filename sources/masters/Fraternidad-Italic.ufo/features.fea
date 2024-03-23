@@ -181,14 +181,14 @@ feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
 
-  sub @pnum_tnum by @pnum_tnum2;
+  sub @pnum_tnum2 by @pnum_tnum;
 
 } pnum;
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
 
-  sub @pnum_tnum2 by @pnum_tnum;
+  sub @pnum_tnum by @pnum_tnum2;
 
 } tnum;
 feature case {
@@ -202,8 +202,6 @@ feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
 
-
-  lookup liga {
   # GSUB lookup 28, type 14 (Ligature)
     lookupflag IgnoreMarks;
     sub space less three space by space_less_three_space.liga;
@@ -218,7 +216,6 @@ feature liga {
     sub f i by fi;
     sub f f by f_f;
     sub t t by t_t.liga;
-  } liga;
 
 
 } liga;
