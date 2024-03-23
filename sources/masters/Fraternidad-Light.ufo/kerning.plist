@@ -5711,6 +5711,8 @@
     <integer>-40</integer>
     <key>public.kern2.s2</key>
     <integer>-40</integer>
+    <key>public.kern2.t2</key>
+    <integer>20</integer>
   </dict>
   <key>public.kern1.s</key>
   <dict>

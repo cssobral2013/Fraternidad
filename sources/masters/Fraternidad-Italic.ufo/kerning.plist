@@ -6579,6 +6579,8 @@
     <integer>-40</integer>
     <key>public.kern2.s2</key>
     <integer>-40</integer>
+    <key>public.kern2.t2</key>
+    <integer>40</integer>
     <key>public.kern2.y2</key>
     <integer>-21</integer>
   </dict>
