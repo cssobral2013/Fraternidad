@@ -1,4 +1,4 @@
-#> classes
+#/> classes
 #/> otclasses
 @aalt = [quotesingle parenleft parenright hyphen colon less greater at A O bracketleft bracketright a i o braceleft braceright exclamdown copyright guillemotleft periodcentered guillemotright questiondown Scedilla scedilla Tcedilla tcedilla Decyr Zhecyr Kacyr Elcyr becyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr encyr pecyr tecyr tsecyr checyr shacyr shchacyr softcyr yucyr igravecyr endash emdash guilsinglleft guilsinglright arrowleft arrowright];
 @aalt2 = [quoteright parenleft.case parenright.case hyphen.case colon.case less.case greater.case at.case ordfeminine ordmasculine bracketleft.case bracketright.case ordfeminine i.loclTRK ordmasculine braceleft.case braceright.case exclamdown.case copyright.case guillemotleft.case periodcentered.case guillemotright.case questiondown.case Scommaaccent scommaaccent Tcommaaccent tcommaaccent Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR becyr.loclSRB vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR encyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR checyr.loclBGR shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR endash.case emdash.case guilsinglleft.case guilsinglright.case arrowleft.case arrowright.case];
@@ -20,7 +20,7 @@
 @pnum_tnum2 = [zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf comma.tf period.tf colon.tf semicolon.tf dollar.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf won.tf newsheqel.tf percent.tf perthousand.tf colon.case.tf];
 @calt8 = [zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf];
 #/< otclasses
-#< classes
+#/< classes
 
 
 ###
@@ -88,6 +88,7 @@ lookup calt_5 {
 #
 # Feature definitions
 #
+
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -114,6 +115,7 @@ feature aalt useExtension {
   sub eight.tf from [eight];
   sub nine.tf from [nine];
 } aalt;
+
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 9
@@ -150,6 +152,7 @@ feature locl {
 
 
 } locl;
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -157,6 +160,7 @@ feature subs {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @dnom_sinf_subs;
 
 } subs;
+
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -164,6 +168,7 @@ feature sinf {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @dnom_sinf_subs;
 
 } sinf;
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -171,6 +176,7 @@ feature sups {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @numr_sups;
 
 } sups;
+
 feature numr {
 # GSUB feature: Numerators
 # Lookups: 1
@@ -178,6 +184,7 @@ feature numr {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @numr_sups;
 
 } numr;
+
 feature dnom {
 # GSUB feature: Denominators
 # Lookups: 1
@@ -185,6 +192,7 @@ feature dnom {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @dnom_sinf_subs;
 
 } dnom;
+
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -194,6 +202,7 @@ feature frac {
   sub three slash four by threequarters;
 
 } frac;
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -203,6 +212,7 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
+
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -210,6 +220,7 @@ feature pnum {
   sub @pnum_tnum2 by @pnum_tnum;
 
 } pnum;
+
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -217,6 +228,7 @@ feature tnum {
   sub @pnum_tnum by @pnum_tnum2;
 
 } tnum;
+
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -224,6 +236,7 @@ feature case {
   sub @case by @case2;
 
 } case;
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -248,6 +261,7 @@ feature liga {
 
 
 } liga;
+
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -308,6 +322,7 @@ feature calt {
   sub Yukrcyr' Yukrcyr by Yukrcyr.calt;
   sub Yukrcyr.calt Yukrcyr' by Yukrcyr.calt2;
 } calt;
+
 feature mark {
 #> feature
 # GPOS feature : Mark Positioning
@@ -365,3 +380,4 @@ feature mark {
   lookup markLTR;
 #< feature
 } mark;
+

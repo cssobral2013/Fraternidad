@@ -1,73 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="2">
-  <advance width="1139"/>
+  <advance width="1172"/>
   <unicode hex="0070"/>
   <outline>
     <contour>
-      <point x="505" y="-30" type="qcurve" smooth="yes"/>
-      <point x="431" y="-30"/>
-      <point x="315" y="8"/>
-      <point x="271" y="46" type="qcurve" smooth="yes"/>
-      <point x="183" y="121"/>
-      <point x="125" y="378"/>
-      <point x="152" y="541" type="qcurve" smooth="yes"/>
-      <point x="166" y="623"/>
-      <point x="215" y="768"/>
-      <point x="251" y="833" type="qcurve" smooth="yes"/>
-      <point x="323" y="961"/>
-      <point x="547" y="1110"/>
-      <point x="693" y="1110" type="qcurve" smooth="yes"/>
-      <point x="765" y="1110"/>
-      <point x="882" y="1073"/>
-      <point x="929" y="1036" type="qcurve"/>
-      <point x="974" y="998"/>
-      <point x="1038" y="897"/>
-      <point x="1055" y="832" type="qcurve" smooth="yes"/>
-      <point x="1072" y="767"/>
-      <point x="1075" y="622"/>
-      <point x="1062" y="541" type="qcurve" smooth="yes"/>
-      <point x="1049" y="460"/>
-      <point x="997" y="315"/>
-      <point x="958" y="250" type="qcurve" smooth="yes"/>
-      <point x="919" y="184"/>
-      <point x="824" y="83"/>
-      <point x="766" y="45" type="qcurve" smooth="yes"/>
-      <point x="707" y="7"/>
-      <point x="578" y="-30"/>
+      <point x="116" y="-480" type="line"/>
+      <point x="223" y="171" type="line"/>
+      <point x="228" y="157"/>
+      <point x="234" y="144"/>
+      <point x="240" y="131" type="curve"/>
+      <point x="292" y="30"/>
+      <point x="386" y="-30"/>
+      <point x="535" y="-30" type="curve" smooth="yes"/>
+      <point x="817" y="-30"/>
+      <point x="1039" y="201"/>
+      <point x="1095" y="541" type="curve" smooth="yes"/>
+      <point x="1150" y="875"/>
+      <point x="1008" y="1110"/>
+      <point x="724" y="1110" type="curve" smooth="yes"/>
+      <point x="576" y="1110"/>
+      <point x="462" y="1051"/>
+      <point x="377" y="951" type="curve" smooth="yes"/>
+      <point x="366" y="938"/>
+      <point x="356" y="925"/>
+      <point x="346" y="910" type="curve"/>
+      <point x="374" y="1080" type="line"/>
+      <point x="212" y="1080" type="line"/>
+      <point x="-46" y="-480" type="line"/>
     </contour>
     <contour>
-      <point x="-47" y="-480" type="line"/>
-      <point x="211" y="1080" type="line"/>
-      <point x="366" y="1080" type="line"/>
-      <point x="235" y="288" type="line"/>
-      <point x="255" y="288" type="line"/>
-      <point x="128" y="-480" type="line"/>
-    </contour>
-    <contour>
-      <point x="510" y="137" type="qcurve" smooth="yes"/>
-      <point x="561" y="137"/>
-      <point x="649" y="164"/>
-      <point x="687" y="191" type="qcurve" smooth="yes"/>
-      <point x="762" y="245"/>
-      <point x="859" y="426"/>
-      <point x="878" y="541" type="qcurve" smooth="yes"/>
-      <point x="887" y="598"/>
-      <point x="887" y="699"/>
-      <point x="879" y="745" type="qcurve"/>
-      <point x="861" y="836"/>
-      <point x="743" y="943"/>
-      <point x="638" y="943" type="qcurve" smooth="yes"/>
-      <point x="588" y="943"/>
-      <point x="501" y="918"/>
-      <point x="465" y="892" type="qcurve"/>
-      <point x="390" y="841"/>
-      <point x="296" y="659"/>
-      <point x="277" y="541" type="qcurve" smooth="yes"/>
-      <point x="267" y="482"/>
-      <point x="265" y="379"/>
-      <point x="274" y="333" type="qcurve"/>
-      <point x="290" y="241"/>
-      <point x="405" y="137"/>
+      <point x="536" y="133" type="curve" smooth="yes"/>
+      <point x="324" y="133"/>
+      <point x="244" y="294"/>
+      <point x="285" y="541" type="curve" smooth="yes"/>
+      <point x="325" y="780"/>
+      <point x="452" y="947"/>
+      <point x="671" y="947" type="curve" smooth="yes"/>
+      <point x="884" y="947"/>
+      <point x="964" y="786"/>
+      <point x="923" y="541" type="curve" smooth="yes"/>
+      <point x="883" y="300"/>
+      <point x="751" y="133"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8ad95c9549f63a84a4254140849ed40a2f8f7f94f2d6a5b57079ecd71ba7c784468c7acc14b1f5b0bb706407ef3491d0b037564e02cc91f8931202112da7435b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -459 -21</string>
+          <string>hstem -30 163</string>
+          <string>hstem 947 163</string>
+          <string>hstem 1080 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

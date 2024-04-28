@@ -1,25 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shchacyr" format="2">
-  <advance width="1470"/>
+  <advance width="1456"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
-      <point x="1151" y="-202" type="line"/>
-      <point x="1185" y="0" type="line"/>
-      <point x="32" y="0" type="line"/>
+      <point x="1311" y="-202" type="line"/>
+      <point x="1372" y="166" type="line"/>
+      <point x="1254" y="166" type="line"/>
+      <point x="1405" y="1080" type="line"/>
+      <point x="1239" y="1080" type="line"/>
+      <point x="1088" y="166" type="line"/>
+      <point x="740" y="166" type="line"/>
+      <point x="892" y="1080" type="line"/>
+      <point x="725" y="1080" type="line"/>
+      <point x="574" y="166" type="line"/>
+      <point x="225" y="166" type="line"/>
+      <point x="377" y="1080" type="line"/>
       <point x="211" y="1080" type="line"/>
-      <point x="378" y="1080" type="line"/>
-      <point x="227" y="166" type="line"/>
-      <point x="579" y="166" type="line"/>
-      <point x="731" y="1080" type="line"/>
-      <point x="899" y="1080" type="line"/>
-      <point x="748" y="166" type="line"/>
-      <point x="1099" y="166" type="line"/>
-      <point x="1250" y="1080" type="line"/>
-      <point x="1418" y="1080" type="line"/>
-      <point x="1266" y="166" type="line"/>
-      <point x="1386" y="166" type="line"/>
-      <point x="1325" y="-202" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="1173" y="0" type="line"/>
+      <point x="1139" y="-202" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>af04f67df654ce176f3ea82bc2cdcb43fc57d78d9ab7de266f283e4541b45d1273bdd7f53b404e004f3ac6e4dbed35771fda1c883528ba6091ba8d933e58f58f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 166</string>
+          <string>hstem 1080 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

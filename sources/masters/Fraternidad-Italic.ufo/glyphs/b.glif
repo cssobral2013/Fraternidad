@@ -1,73 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
-  <advance width="1139"/>
+  <advance width="1171"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
-      <point x="505" y="-30" type="qcurve" smooth="yes"/>
-      <point x="431" y="-30"/>
-      <point x="315" y="8"/>
-      <point x="271" y="46" type="qcurve" smooth="yes"/>
-      <point x="183" y="121"/>
-      <point x="125" y="378"/>
-      <point x="152" y="541" type="qcurve" smooth="yes"/>
-      <point x="166" y="623"/>
-      <point x="215" y="768"/>
-      <point x="251" y="833" type="qcurve" smooth="yes"/>
-      <point x="323" y="961"/>
-      <point x="547" y="1110"/>
-      <point x="693" y="1110" type="qcurve" smooth="yes"/>
-      <point x="765" y="1110"/>
-      <point x="882" y="1073"/>
-      <point x="929" y="1036" type="qcurve"/>
-      <point x="974" y="998"/>
-      <point x="1038" y="897"/>
-      <point x="1055" y="832" type="qcurve" smooth="yes"/>
-      <point x="1072" y="767"/>
-      <point x="1075" y="622"/>
-      <point x="1062" y="541" type="qcurve" smooth="yes"/>
-      <point x="1049" y="460"/>
-      <point x="997" y="315"/>
-      <point x="958" y="250" type="qcurve" smooth="yes"/>
-      <point x="919" y="184"/>
-      <point x="824" y="83"/>
-      <point x="766" y="45" type="qcurve" smooth="yes"/>
-      <point x="707" y="7"/>
-      <point x="578" y="-30"/>
-    </contour>
-    <contour>
       <point x="32" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="222" y="171" type="line"/>
+      <point x="227" y="156"/>
+      <point x="234" y="142"/>
+      <point x="241" y="129" type="curve" smooth="yes"/>
+      <point x="292" y="29"/>
+      <point x="386" y="-30"/>
+      <point x="534" y="-30" type="curve" smooth="yes"/>
+      <point x="818" y="-30"/>
+      <point x="1039" y="205"/>
+      <point x="1094" y="539" type="curve" smooth="yes"/>
+      <point x="1150" y="879"/>
+      <point x="1005" y="1110"/>
+      <point x="723" y="1110" type="curve" smooth="yes"/>
+      <point x="574" y="1110"/>
+      <point x="460" y="1050"/>
+      <point x="375" y="949" type="curve" smooth="yes"/>
+      <point x="364" y="936"/>
+      <point x="355" y="923"/>
+      <point x="345" y="910" type="curve"/>
+      <point x="433" y="1440" type="line"/>
       <point x="271" y="1440" type="line"/>
-      <point x="446" y="1440" type="line"/>
-      <point x="338" y="792" type="line"/>
-      <point x="318" y="792" type="line"/>
-      <point x="187" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="510" y="137" type="qcurve" smooth="yes"/>
-      <point x="561" y="137"/>
-      <point x="649" y="164"/>
-      <point x="687" y="191" type="qcurve" smooth="yes"/>
-      <point x="762" y="245"/>
-      <point x="859" y="426"/>
-      <point x="878" y="541" type="qcurve" smooth="yes"/>
-      <point x="887" y="598"/>
-      <point x="887" y="699"/>
-      <point x="879" y="745" type="qcurve"/>
-      <point x="861" y="836"/>
-      <point x="743" y="943"/>
-      <point x="638" y="943" type="qcurve" smooth="yes"/>
-      <point x="588" y="943"/>
-      <point x="501" y="918"/>
-      <point x="465" y="892" type="qcurve"/>
-      <point x="390" y="841"/>
-      <point x="296" y="659"/>
-      <point x="277" y="541" type="qcurve" smooth="yes"/>
-      <point x="267" y="482"/>
-      <point x="265" y="379"/>
-      <point x="274" y="333" type="qcurve"/>
-      <point x="290" y="241"/>
-      <point x="405" y="137"/>
+      <point x="670" y="947" type="curve" smooth="yes"/>
+      <point x="885" y="947"/>
+      <point x="962" y="780"/>
+      <point x="922" y="539" type="curve" smooth="yes"/>
+      <point x="881" y="294"/>
+      <point x="748" y="133"/>
+      <point x="535" y="133" type="curve" smooth="yes"/>
+      <point x="316" y="133"/>
+      <point x="244" y="301"/>
+      <point x="283" y="539" type="curve" smooth="yes"/>
+      <point x="324" y="786"/>
+      <point x="458" y="947"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>67bcf84d90a7a22964bfd4ea3605f74c20034144819130c5894732075b43f7c5507a7ec13d88bfc8210f616c32bc5de9139652e43daf10440d88e1c7d2c79f0f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -30 163</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 947 163</string>
+          <string>hstem 1440 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

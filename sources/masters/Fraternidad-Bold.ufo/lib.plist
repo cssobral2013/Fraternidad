@@ -215,7 +215,6 @@
     <string>Dcaron</string>
     <string>dcaron</string>
     <string>Dcroat</string>
-    <string>dcroat</string>
     <string>Emacron</string>
     <string>emacron</string>
     <string>Ebreve</string>
@@ -785,6 +784,7 @@
     <string>percent.tf</string>
     <string>perthousand.tf</string>
     <string>colon.case.tf</string>
+    <string>dcroat</string>
   </array>
 </dict>
 </plist>

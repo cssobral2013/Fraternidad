@@ -88,6 +88,7 @@ feature aalt useExtension {
   sub eight.tf from [eight];
   sub nine.tf from [nine];
 } aalt;
+
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 9
@@ -124,6 +125,7 @@ feature locl {
 
 
 } locl;
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -131,6 +133,7 @@ feature subs {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @dnom_sinf_subs;
 
 } subs;
+
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -138,6 +141,7 @@ feature sinf {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @dnom_sinf_subs;
 
 } sinf;
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -145,6 +149,7 @@ feature sups {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @numr_sups;
 
 } sups;
+
 feature numr {
 # GSUB feature: Numerators
 # Lookups: 1
@@ -152,6 +157,7 @@ feature numr {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @numr_sups;
 
 } numr;
+
 feature dnom {
 # GSUB feature: Denominators
 # Lookups: 1
@@ -159,6 +165,7 @@ feature dnom {
   sub @calt_dnom_numr_ordn_sinf_subs_sups by @dnom_sinf_subs;
 
 } dnom;
+
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -168,6 +175,7 @@ feature frac {
   sub three slash four by threequarters;
 
 } frac;
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -177,6 +185,7 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
+
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -184,6 +193,7 @@ feature pnum {
   sub @pnum_tnum2 by @pnum_tnum;
 
 } pnum;
+
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -191,6 +201,7 @@ feature tnum {
   sub @pnum_tnum by @pnum_tnum2;
 
 } tnum;
+
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -198,6 +209,7 @@ feature case {
   sub @case by @case2;
 
 } case;
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -219,6 +231,7 @@ feature liga {
 
 
 } liga;
+
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -280,6 +293,7 @@ feature calt {
   sub Yukrcyr.calt Yukrcyr' by Yukrcyr.calt2;
 
 } calt;
+
 feature mark {
 # Mark Positioning
 # GPOS feature : Mark Positioning
@@ -339,3 +353,4 @@ feature mark {
   lookup markLTR;
 #< feature
 } mark;
+

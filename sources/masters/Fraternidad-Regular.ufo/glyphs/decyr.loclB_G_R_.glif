@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="decyr.loclBGR" format="2">
-  <advance width="1202"/>
+  <advance width="1247"/>
   <outline>
     <component base="g"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>g</string>
+  </dict>
+  </lib>
 </glyph>
