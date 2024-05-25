@@ -699,6 +699,7 @@
     <string>f_f_i</string>
     <string>f_f_l</string>
     <string>dollar.tf</string>
+    <string>percent.tf</string>
     <string>parenleft.case</string>
     <string>parenright.case</string>
     <string>comma.tf</string>
@@ -706,16 +707,54 @@
     <string>hyphen_greater.liga</string>
     <string>hyphen_hyphen.liga</string>
     <string>period.tf</string>
+    <string>zero.inferior.ss01</string>
+    <string>zero.ss01</string>
+    <string>zero.superior.ss01</string>
     <string>zero.tf</string>
+    <string>zero.tf.ss01</string>
+    <string>one.inferior.ss01</string>
+    <string>one.ss01</string>
     <string>one.tf</string>
+    <string>one.tf.ss01</string>
+    <string>two.inferior.ss01</string>
+    <string>two.ss01</string>
     <string>two.tf</string>
+    <string>two.tf.ss01</string>
+    <string>three.inferior.ss01</string>
+    <string>three.ss01</string>
     <string>three.tf</string>
+    <string>three.tf.ss01</string>
+    <string>four.inferior.ss01</string>
+    <string>four.ss01</string>
+    <string>four.superior.ss01</string>
     <string>four.tf</string>
+    <string>four.tf.ss01</string>
+    <string>five.inferior.ss01</string>
+    <string>five.ss01</string>
+    <string>five.superior.ss01</string>
     <string>five.tf</string>
+    <string>five.tf.ss01</string>
+    <string>six.inferior.ss01</string>
+    <string>six.ss01</string>
+    <string>six.superior.ss01</string>
     <string>six.tf</string>
+    <string>six.tf.ss01</string>
+    <string>seven.inferior.ss01</string>
+    <string>seven.ss01</string>
+    <string>seven.superior.ss01</string>
     <string>seven.tf</string>
+    <string>seven.tf.ss01</string>
+    <string>eight.inferior.ss01</string>
+    <string>eight.ss01</string>
+    <string>eight.superior.ss01</string>
     <string>eight.tf</string>
+    <string>eight.tf.ss01</string>
+    <string>nine.inferior.ss01</string>
+    <string>nine.ss01</string>
+    <string>nine.superior.ss01</string>
     <string>nine.tf</string>
+    <string>nine.tf.ss01</string>
+    <string>colon.case.tf</string>
     <string>colon.tf</string>
     <string>semicolon.tf</string>
     <string>less.case</string>
@@ -734,8 +773,14 @@
     <string>yen.tf</string>
     <string>copyright.case</string>
     <string>guillemotleft.case</string>
+    <string>twosuperior.ss01</string>
+    <string>threesuperior.ss01</string>
     <string>periodcentered.case</string>
+    <string>onesuperior.ss01</string>
     <string>guillemotright.case</string>
+    <string>onequarter.ss01</string>
+    <string>onehalf.ss01</string>
+    <string>threequarters.ss01</string>
     <string>questiondown.case</string>
     <string>Yukrcyr.calt</string>
     <string>Yukrcyr.calt2</string>
@@ -767,9 +812,12 @@
     <string>igravecyr.loclBGR</string>
     <string>endash.case</string>
     <string>emdash.case</string>
+    <string>perthousand.tf</string>
     <string>guilsinglleft.case</string>
     <string>guilsinglright.case</string>
     <string>franc.tf</string>
+    <string>won.tf</string>
+    <string>newsheqel.tf</string>
     <string>Euro.tf</string>
     <string>tugrik.tf</string>
     <string>peso.tf</string>
@@ -780,11 +828,6 @@
     <string>bitcoin.tf</string>
     <string>arrowleft.case</string>
     <string>arrowright.case</string>
-    <string>percent.tf</string>
-    <string>perthousand.tf</string>
-    <string>won.tf</string>
-    <string>newsheqel.tf</string>
-    <string>colon.case.tf</string>
   </array>
 </dict>
 </plist>

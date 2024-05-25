@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iukrcyr" format="2">
-  <advance width="503"/>
+  <advance width="492"/>
   <unicode hex="0406"/>
-  <anchor x="400" y="1440" name="top"/>
+  <anchor x="483" y="1440" name="top"/>
   <outline>
-    <component base="I"/>
+    <component base="I" xOffset="100"/>
   </outline>
 </glyph>

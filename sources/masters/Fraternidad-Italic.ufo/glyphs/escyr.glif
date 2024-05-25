@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="escyr" format="2">
-  <advance width="1124"/>
+  <advance width="1119"/>
   <unicode hex="0441"/>
   <outline>
-    <component base="c"/>
+    <component base="c" xOffset="100"/>
   </outline>
 </glyph>

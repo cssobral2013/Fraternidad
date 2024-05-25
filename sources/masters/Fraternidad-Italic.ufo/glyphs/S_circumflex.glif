@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scircumflex" format="2">
-  <advance width="1228"/>
+  <advance width="1219"/>
   <unicode hex="015C"/>
   <outline>
-    <component base="S"/>
+    <component base="S" xOffset="100"/>
     <contour>
-      <point x="481" y="1604" type="line"/>
-      <point x="770" y="1892" type="line"/>
-      <point x="928" y="1892" type="line"/>
-      <point x="1122" y="1604" type="line"/>
-      <point x="947" y="1604" type="line"/>
-      <point x="831" y="1779" type="line"/>
-      <point x="657" y="1604" type="line"/>
+      <point x="586" y="1606" type="line"/>
+      <point x="869" y="1888" type="line"/>
+      <point x="1019" y="1888" type="line"/>
+      <point x="1208" y="1606" type="line"/>
+      <point x="1042" y="1606" type="line"/>
+      <point x="926" y="1781" type="line"/>
+      <point x="752" y="1606" type="line"/>
     </contour>
   </outline>
 </glyph>

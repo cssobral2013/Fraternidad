@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="carriagereturn" format="2">
-  <advance width="1559"/>
+  <advance width="1556"/>
   <unicode hex="21B5"/>
   <outline>
     <contour>
-      <point x="651" y="156" type="line"/>
-      <point x="265" y="630" type="line"/>
-      <point x="808" y="1104" type="line"/>
-      <point x="883" y="1011" type="line"/>
-      <point x="533" y="706" type="line"/>
-      <point x="1325" y="706" type="line"/>
-      <point x="1447" y="1440" type="line"/>
-      <point x="1595" y="1440" type="line"/>
-      <point x="1448" y="554" type="line"/>
-      <point x="508" y="554" type="line"/>
-      <point x="757" y="249" type="line"/>
+      <point x="749" y="158" type="line"/>
+      <point x="365" y="630" type="line"/>
+      <point x="906" y="1102" type="line"/>
+      <point x="978" y="1014" type="line"/>
+      <point x="621" y="702" type="line"/>
+      <point x="1429" y="702" type="line"/>
+      <point x="1551" y="1440" type="line"/>
+      <point x="1691" y="1440" type="line"/>
+      <point x="1545" y="558" type="line"/>
+      <point x="597" y="558" type="line"/>
+      <point x="851" y="246" type="line"/>
     </contour>
   </outline>
 </glyph>

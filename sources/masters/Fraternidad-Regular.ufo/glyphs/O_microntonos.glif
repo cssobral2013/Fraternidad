@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicrontonos" format="2">
-  <advance width="1671"/>
+  <advance width="1662"/>
   <unicode hex="038C"/>
   <outline>
-    <component base="O" xOffset="204"/>
-    <component base="tonos" xOffset="-409"/>
+    <component base="O" xOffset="201"/>
+    <component base="tonos" xOffset="-411"/>
   </outline>
 </glyph>

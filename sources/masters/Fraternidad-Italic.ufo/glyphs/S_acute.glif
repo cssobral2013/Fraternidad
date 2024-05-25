@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sacute" format="2">
-  <advance width="1228"/>
+  <advance width="1219"/>
   <unicode hex="015A"/>
   <outline>
-    <component base="S"/>
+    <component base="S" xOffset="100"/>
     <contour>
-      <point x="876" y="1937" type="line"/>
-      <point x="1054" y="1937" type="line"/>
-      <point x="868" y="1604" type="line"/>
-      <point x="751" y="1604" type="line"/>
+      <point x="973" y="1932" type="line"/>
+      <point x="1141" y="1932" type="line"/>
+      <point x="960" y="1606" type="line"/>
+      <point x="848" y="1606" type="line"/>
     </contour>
   </outline>
 </glyph>

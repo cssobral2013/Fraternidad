@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="agrave" format="2">
-  <advance width="1068"/>
+  <advance width="1172"/>
   <unicode hex="00E0"/>
   <outline>
     <component base="a"/>
     <contour>
-      <point x="691" y="1577" type="line"/>
-      <point x="706" y="1244" type="line"/>
-      <point x="590" y="1244" type="line"/>
-      <point x="518" y="1577" type="line"/>
+      <point x="686" y="1572" type="line"/>
+      <point x="701" y="1246" type="line"/>
+      <point x="591" y="1246" type="line"/>
+      <point x="523" y="1572" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  </dict>
+  </lib>
 </glyph>

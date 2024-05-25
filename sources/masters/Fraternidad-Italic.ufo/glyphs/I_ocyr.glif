@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iocyr" format="2">
-  <advance width="1152"/>
+  <advance width="1148"/>
   <unicode hex="0401"/>
-  <anchor x="772" y="1761" name="top"/>
+  <anchor x="804" y="1440" name="top"/>
   <outline>
-    <component base="Iecyr"/>
-    <component base="dieresis" xOffset="55" yOffset="327"/>
+    <component base="Iecyr" xOffset="100"/>
+    <component base="dieresis" xOffset="152" yOffset="323"/>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.inferior" format="2">
-  <advance width="808"/>
+  <advance width="822"/>
   <unicode hex="2084"/>
   <outline>
-    <component base="four.superior" xOffset="-89" yOffset="-540"/>
+    <component base="four.superior" xScale="1.024" yScale="1.024" xOffset="-86" yOffset="-540"/>
   </outline>
 </glyph>

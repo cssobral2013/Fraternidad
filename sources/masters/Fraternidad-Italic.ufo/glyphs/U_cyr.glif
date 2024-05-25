@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucyr" format="2">
-  <advance width="1227"/>
+  <advance width="1224"/>
   <unicode hex="0423"/>
-  <anchor x="733" y="1440" name="top"/>
+  <anchor x="841" y="1440" name="top"/>
   <outline>
     <contour>
-      <point x="259" y="0" type="line"/>
-      <point x="489" y="359" type="line"/>
-      <point x="171" y="1440" type="line"/>
-      <point x="372" y="1440" type="line"/>
-      <point x="614" y="554" type="line"/>
-      <point x="1160" y="1440" type="line"/>
-      <point x="1351" y="1440" type="line"/>
-      <point x="453" y="0" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="590" y="354" type="line"/>
+      <point x="273" y="1440" type="line"/>
+      <point x="460" y="1440" type="line"/>
+      <point x="709" y="537" type="line"/>
+      <point x="1265" y="1440" type="line"/>
+      <point x="1444" y="1440" type="line"/>
+      <point x="548" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

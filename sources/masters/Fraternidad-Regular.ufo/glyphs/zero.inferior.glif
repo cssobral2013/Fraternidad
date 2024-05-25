@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.inferior" format="2">
-  <advance width="908"/>
+  <advance width="998"/>
   <unicode hex="2080"/>
   <outline>
-    <component base="zero.superior" yOffset="-540"/>
+    <component base="zero.superior" xScale="1.024" yScale="1.024" yOffset="-540"/>
   </outline>
 </glyph>

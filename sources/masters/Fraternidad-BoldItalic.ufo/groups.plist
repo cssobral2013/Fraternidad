@@ -437,6 +437,26 @@
   </array>
   <key>calt8</key>
   <array>
+    <string>zero.ss01</string>
+    <string>one.ss01</string>
+    <string>two.ss01</string>
+    <string>three.ss01</string>
+    <string>four.ss01</string>
+    <string>five.ss01</string>
+    <string>six.ss01</string>
+    <string>seven.ss01</string>
+    <string>eight.ss01</string>
+    <string>nine.ss01</string>
+    <string>zero.tf.ss01</string>
+    <string>one.tf.ss01</string>
+    <string>two.tf.ss01</string>
+    <string>three.tf.ss01</string>
+    <string>four.tf.ss01</string>
+    <string>five.tf.ss01</string>
+    <string>six.tf.ss01</string>
+    <string>seven.tf.ss01</string>
+    <string>eight.tf.ss01</string>
+    <string>nine.tf.ss01</string>
     <string>zero</string>
     <string>one</string>
     <string>two</string>
@@ -448,28 +468,28 @@
     <string>eight</string>
     <string>nine</string>
     <string>zero.tf</string>
-    <string>two.tf</string>
-    <string>five.tf</string>
-    <string>seven.tf</string>
-    <string>eight.tf</string>
     <string>one.tf</string>
+    <string>two.tf</string>
     <string>three.tf</string>
     <string>four.tf</string>
+    <string>five.tf</string>
     <string>six.tf</string>
+    <string>seven.tf.ss01</string>
+    <string>eight.tf</string>
     <string>nine.tf</string>
   </array>
   <key>calt_dnom_numr_ordn_sinf_subs_sups</key>
   <array>
-    <string>zero</string>
-    <string>one</string>
-    <string>two</string>
-    <string>three</string>
-    <string>four</string>
-    <string>five</string>
-    <string>six</string>
-    <string>seven</string>
-    <string>eight</string>
-    <string>nine</string>
+    <string>zero.ss01</string>
+    <string>one.ss01</string>
+    <string>two.ss01</string>
+    <string>three.ss01</string>
+    <string>four.ss01</string>
+    <string>five.ss01</string>
+    <string>six.ss01</string>
+    <string>seven.ss01</string>
+    <string>eight.ss01</string>
+    <string>nine.ss01</string>
   </array>
   <key>case</key>
   <array>
@@ -525,16 +545,16 @@
   </array>
   <key>dnom_sinf_subs</key>
   <array>
-    <string>zero.inferior</string>
-    <string>one.inferior</string>
-    <string>two.inferior</string>
-    <string>three.inferior</string>
-    <string>four.inferior</string>
-    <string>five.inferior</string>
-    <string>six.inferior</string>
-    <string>seven.inferior</string>
-    <string>eight.inferior</string>
-    <string>nine.inferior</string>
+    <string>zero.inferior.ss01</string>
+    <string>one.inferior.ss01</string>
+    <string>two.inferior.ss01</string>
+    <string>three.inferior.ss01</string>
+    <string>four.inferior.ss01</string>
+    <string>five.inferior.ss01</string>
+    <string>six.inferior.ss01</string>
+    <string>seven.inferior.ss01</string>
+    <string>eight.inferior.ss01</string>
+    <string>nine.inferior.ss01</string>
   </array>
   <key>locl</key>
   <array>
@@ -590,16 +610,16 @@
   </array>
   <key>numr_sups</key>
   <array>
-    <string>zero.superior</string>
-    <string>onesuperior</string>
-    <string>twosuperior</string>
-    <string>threesuperior</string>
-    <string>four.superior</string>
-    <string>five.superior</string>
-    <string>six.superior</string>
-    <string>seven.superior</string>
-    <string>eight.superior</string>
-    <string>nine.superior</string>
+    <string>zero.superior.ss01</string>
+    <string>onesuperior.ss01</string>
+    <string>twosuperior.ss01</string>
+    <string>threesuperior.ss01</string>
+    <string>four.superior.ss01</string>
+    <string>five.superior.ss01</string>
+    <string>six.superior.ss01</string>
+    <string>seven.superior.ss01</string>
+    <string>eight.superior.ss01</string>
+    <string>nine.superior.ss01</string>
   </array>
   <key>pnum_tnum</key>
   <array>
@@ -613,6 +633,16 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
+    <string>zero.ss01</string>
+    <string>one.ss01</string>
+    <string>two.ss01</string>
+    <string>three.ss01</string>
+    <string>four.ss01</string>
+    <string>five.ss01</string>
+    <string>six.ss01</string>
+    <string>seven.ss01</string>
+    <string>eight.ss01</string>
+    <string>nine.ss01</string>
     <string>comma</string>
     <string>period</string>
     <string>colon</string>
@@ -649,6 +679,16 @@
     <string>seven.tf</string>
     <string>eight.tf</string>
     <string>nine.tf</string>
+    <string>zero.tf.ss01</string>
+    <string>one.tf.ss01</string>
+    <string>two.tf.ss01</string>
+    <string>three.tf.ss01</string>
+    <string>four.tf.ss01</string>
+    <string>five.tf.ss01</string>
+    <string>six.tf.ss01</string>
+    <string>seven.tf.ss01</string>
+    <string>eight.tf.ss01</string>
+    <string>nine.tf.ss01</string>
     <string>comma.tf</string>
     <string>period.tf</string>
     <string>colon.tf</string>
@@ -1004,7 +1044,7 @@
     <string>efcyr</string>
     <string>epsilon</string>
     <string>ereversedcyr</string>
-    <string>four</string>
+    <string>four.ss01</string>
     <string>o</string>
     <string>oacute</string>
     <string>obarcyr</string>
@@ -1304,7 +1344,7 @@
     <string>Elcyr</string>
     <string>Elcyr.loclBGR</string>
     <string>Lambda</string>
-    <string>four</string>
+    <string>four.ss01</string>
   </array>
   <key>public.kern2.C2</key>
   <array>
@@ -1855,6 +1895,98 @@
     <string>zacute</string>
     <string>zcaron</string>
     <string>zdotaccent</string>
+  </array>
+  <key>ss01</key>
+  <array>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
+    <string>twosuperior</string>
+    <string>threesuperior</string>
+    <string>onesuperior</string>
+    <string>onequarter</string>
+    <string>onehalf</string>
+    <string>threequarters</string>
+    <string>zero.superior</string>
+    <string>four.superior</string>
+    <string>five.superior</string>
+    <string>six.superior</string>
+    <string>seven.superior</string>
+    <string>eight.superior</string>
+    <string>nine.superior</string>
+    <string>zero.inferior</string>
+    <string>one.inferior</string>
+    <string>two.inferior</string>
+    <string>three.inferior</string>
+    <string>four.inferior</string>
+    <string>five.inferior</string>
+    <string>six.inferior</string>
+    <string>seven.inferior</string>
+    <string>eight.inferior</string>
+    <string>nine.inferior</string>
+    <string>zero.tf</string>
+    <string>one.tf</string>
+    <string>two.tf</string>
+    <string>three.tf</string>
+    <string>four.tf</string>
+    <string>five.tf</string>
+    <string>six.tf</string>
+    <string>seven.tf</string>
+    <string>eight.tf</string>
+    <string>nine.tf</string>
+  </array>
+  <key>ss012</key>
+  <array>
+    <string>zero.ss01</string>
+    <string>one.ss01</string>
+    <string>two.ss01</string>
+    <string>three.ss01</string>
+    <string>four.ss01</string>
+    <string>five.ss01</string>
+    <string>six.ss01</string>
+    <string>seven.ss01</string>
+    <string>eight.ss01</string>
+    <string>nine.ss01</string>
+    <string>twosuperior.ss01</string>
+    <string>threesuperior.ss01</string>
+    <string>onesuperior.ss01</string>
+    <string>onequarter.ss01</string>
+    <string>onehalf.ss01</string>
+    <string>threequarters.ss01</string>
+    <string>zero.superior.ss01</string>
+    <string>four.superior.ss01</string>
+    <string>five.superior.ss01</string>
+    <string>six.superior.ss01</string>
+    <string>seven.superior.ss01</string>
+    <string>eight.superior.ss01</string>
+    <string>nine.superior.ss01</string>
+    <string>zero.inferior.ss01</string>
+    <string>one.inferior.ss01</string>
+    <string>two.inferior.ss01</string>
+    <string>three.inferior.ss01</string>
+    <string>four.inferior.ss01</string>
+    <string>five.inferior.ss01</string>
+    <string>six.inferior.ss01</string>
+    <string>seven.inferior.ss01</string>
+    <string>eight.inferior.ss01</string>
+    <string>nine.inferior.ss01</string>
+    <string>zero.tf.ss01</string>
+    <string>one.tf.ss01</string>
+    <string>two.tf.ss01</string>
+    <string>three.tf.ss01</string>
+    <string>four.tf.ss01</string>
+    <string>five.tf.ss01</string>
+    <string>six.tf.ss01</string>
+    <string>seven.tf.ss01</string>
+    <string>eight.tf.ss01</string>
+    <string>nine.tf.ss01</string>
   </array>
 </dict>
 </plist>

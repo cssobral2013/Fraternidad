@@ -286,8 +286,6 @@
   <string>M_u.glif</string>
   <key>N</key>
   <string>N_.glif</string>
-  <key>NULL</key>
-  <string>N_U_L_L_.glif</string>
   <key>Nacute</key>
   <string>N_acute.glif</string>
   <key>Ncaron</key>
@@ -786,10 +784,18 @@
   <string>eight.glif</string>
   <key>eight.inferior</key>
   <string>eight.inferior.glif</string>
+  <key>eight.inferior.ss01</key>
+  <string>eight.inferior.ss01.glif</string>
+  <key>eight.ss01</key>
+  <string>eight.ss01.glif</string>
   <key>eight.superior</key>
   <string>eight.superior.glif</string>
+  <key>eight.superior.ss01</key>
+  <string>eight.superior.ss01.glif</string>
   <key>eight.tf</key>
   <string>eight.tf.glif</string>
+  <key>eight.tf.ss01</key>
+  <string>eight.tf.ss01.glif</string>
   <key>elcyr</key>
   <string>elcyr.glif</string>
   <key>elcyr.loclBGR</key>
@@ -860,10 +866,18 @@
   <string>five.glif</string>
   <key>five.inferior</key>
   <string>five.inferior.glif</string>
+  <key>five.inferior.ss01</key>
+  <string>five.inferior.ss01.glif</string>
+  <key>five.ss01</key>
+  <string>five.ss01.glif</string>
   <key>five.superior</key>
   <string>five.superior.glif</string>
+  <key>five.superior.ss01</key>
+  <string>five.superior.ss01.glif</string>
   <key>five.tf</key>
   <string>five.tf.glif</string>
+  <key>five.tf.ss01</key>
+  <string>five.tf.ss01.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
@@ -872,10 +886,18 @@
   <string>four.glif</string>
   <key>four.inferior</key>
   <string>four.inferior.glif</string>
+  <key>four.inferior.ss01</key>
+  <string>four.inferior.ss01.glif</string>
+  <key>four.ss01</key>
+  <string>four.ss01.glif</string>
   <key>four.superior</key>
   <string>four.superior.glif</string>
+  <key>four.superior.ss01</key>
+  <string>four.superior.ss01.glif</string>
   <key>four.tf</key>
   <string>four.tf.glif</string>
+  <key>four.tf.ss01</key>
+  <string>four.tf.ss01.glif</string>
   <key>fraction</key>
   <string>fraction.glif</string>
   <key>franc</key>
@@ -1096,10 +1118,18 @@
   <string>nine.glif</string>
   <key>nine.inferior</key>
   <string>nine.inferior.glif</string>
+  <key>nine.inferior.ss01</key>
+  <string>nine.inferior.ss01.glif</string>
+  <key>nine.ss01</key>
+  <string>nine.ss01.glif</string>
   <key>nine.superior</key>
   <string>nine.superior.glif</string>
+  <key>nine.superior.ss01</key>
+  <string>nine.superior.ss01.glif</string>
   <key>nine.tf</key>
   <string>nine.tf.glif</string>
+  <key>nine.tf.ss01</key>
+  <string>nine.tf.ss01.glif</string>
   <key>njecyr</key>
   <string>njecyr.glif</string>
   <key>nonbreakinghyphen</key>
@@ -1178,14 +1208,26 @@
   <string>one.glif</string>
   <key>one.inferior</key>
   <string>one.inferior.glif</string>
+  <key>one.inferior.ss01</key>
+  <string>one.inferior.ss01.glif</string>
+  <key>one.ss01</key>
+  <string>one.ss01.glif</string>
   <key>one.tf</key>
   <string>one.tf.glif</string>
+  <key>one.tf.ss01</key>
+  <string>one.tf.ss01.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
+  <key>onehalf.ss01</key>
+  <string>onehalf.ss01.glif</string>
   <key>onequarter</key>
   <string>onequarter.glif</string>
+  <key>onequarter.ss01</key>
+  <string>onequarter.ss01.glif</string>
   <key>onesuperior</key>
   <string>onesuperior.glif</string>
+  <key>onesuperior.ss01</key>
+  <string>onesuperior.ss01.glif</string>
   <key>ordfeminine</key>
   <string>ordfeminine.glif</string>
   <key>ordmasculine</key>
@@ -1320,10 +1362,18 @@
   <string>seven.glif</string>
   <key>seven.inferior</key>
   <string>seven.inferior.glif</string>
+  <key>seven.inferior.ss01</key>
+  <string>seven.inferior.ss01.glif</string>
+  <key>seven.ss01</key>
+  <string>seven.ss01.glif</string>
   <key>seven.superior</key>
   <string>seven.superior.glif</string>
+  <key>seven.superior.ss01</key>
+  <string>seven.superior.ss01.glif</string>
   <key>seven.tf</key>
   <string>seven.tf.glif</string>
+  <key>seven.tf.ss01</key>
+  <string>seven.tf.ss01.glif</string>
   <key>shacyr</key>
   <string>shacyr.glif</string>
   <key>shacyr.loclBGR</key>
@@ -1342,10 +1392,18 @@
   <string>six.glif</string>
   <key>six.inferior</key>
   <string>six.inferior.glif</string>
+  <key>six.inferior.ss01</key>
+  <string>six.inferior.ss01.glif</string>
+  <key>six.ss01</key>
+  <string>six.ss01.glif</string>
   <key>six.superior</key>
   <string>six.superior.glif</string>
+  <key>six.superior.ss01</key>
+  <string>six.superior.ss01.glif</string>
   <key>six.tf</key>
   <string>six.tf.glif</string>
+  <key>six.tf.ss01</key>
+  <string>six.tf.ss01.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>softcyr</key>
@@ -1390,12 +1448,22 @@
   <string>three.glif</string>
   <key>three.inferior</key>
   <string>three.inferior.glif</string>
+  <key>three.inferior.ss01</key>
+  <string>three.inferior.ss01.glif</string>
+  <key>three.ss01</key>
+  <string>three.ss01.glif</string>
   <key>three.tf</key>
   <string>three.tf.glif</string>
+  <key>three.tf.ss01</key>
+  <string>three.tf.ss01.glif</string>
   <key>threequarters</key>
   <string>threequarters.glif</string>
+  <key>threequarters.ss01</key>
+  <string>threequarters.ss01.glif</string>
   <key>threesuperior</key>
   <string>threesuperior.glif</string>
+  <key>threesuperior.ss01</key>
+  <string>threesuperior.ss01.glif</string>
   <key>tilde</key>
   <string>tilde.glif</string>
   <key>tonos</key>
@@ -1420,10 +1488,18 @@
   <string>two.glif</string>
   <key>two.inferior</key>
   <string>two.inferior.glif</string>
+  <key>two.inferior.ss01</key>
+  <string>two.inferior.ss01.glif</string>
+  <key>two.ss01</key>
+  <string>two.ss01.glif</string>
   <key>two.tf</key>
   <string>two.tf.glif</string>
+  <key>two.tf.ss01</key>
+  <string>two.tf.ss01.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
+  <key>twosuperior.ss01</key>
+  <string>twosuperior.ss01.glif</string>
   <key>u</key>
   <string>u.glif</string>
   <key>uacute</key>
@@ -1498,8 +1574,6 @@
   <string>won.glif</string>
   <key>won.tf</key>
   <string>won.tf.glif</string>
-  <key>wordjoiner</key>
-  <string>wordjoiner.glif</string>
   <key>x</key>
   <string>x.glif</string>
   <key>xi</key>
@@ -1554,10 +1628,18 @@
   <string>zero.glif</string>
   <key>zero.inferior</key>
   <string>zero.inferior.glif</string>
+  <key>zero.inferior.ss01</key>
+  <string>zero.inferior.ss01.glif</string>
+  <key>zero.ss01</key>
+  <string>zero.ss01.glif</string>
   <key>zero.superior</key>
   <string>zero.superior.glif</string>
+  <key>zero.superior.ss01</key>
+  <string>zero.superior.ss01.glif</string>
   <key>zero.tf</key>
   <string>zero.tf.glif</string>
+  <key>zero.tf.ss01</key>
+  <string>zero.tf.ss01.glif</string>
   <key>zeta</key>
   <string>zeta.glif</string>
   <key>zhecyr</key>

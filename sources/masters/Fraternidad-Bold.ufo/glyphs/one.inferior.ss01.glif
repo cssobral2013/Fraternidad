@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.inferior.ss01" format="2">
+  <advance width="703"/>
+  <outline>
+    <component base="onesuperior.ss01" yOffset="-540"/>
+  </outline>
+</glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yukrcyr" format="2">
-  <advance width="503"/>
+  <advance width="492"/>
   <unicode hex="0457"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dieresis" xOffset="-348"/>
+    <component base="dotlessi" xOffset="100"/>
+    <component base="dieresis" xOffset="-254"/>
   </outline>
 </glyph>

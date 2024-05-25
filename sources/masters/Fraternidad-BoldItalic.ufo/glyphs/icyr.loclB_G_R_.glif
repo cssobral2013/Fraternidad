@@ -2,6 +2,6 @@
 <glyph name="icyr.loclBGR" format="2">
   <advance width="1272"/>
   <outline>
-    <component base="u"/>
+    <component base="u" xOffset="60"/>
   </outline>
 </glyph>

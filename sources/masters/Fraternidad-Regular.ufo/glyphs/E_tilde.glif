@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etilde" format="2">
-  <advance width="1152"/>
+  <advance width="1148"/>
   <unicode hex="1EBC"/>
   <outline>
     <contour>
-      <point x="742" y="1607" type="curve" smooth="yes"/>
-      <point x="682" y="1607"/>
-      <point x="628" y="1637"/>
-      <point x="577" y="1669" type="curve" smooth="yes"/>
-      <point x="525" y="1701"/>
-      <point x="480" y="1731"/>
-      <point x="441" y="1731" type="curve" smooth="yes"/>
-      <point x="417" y="1731"/>
-      <point x="401" y="1721"/>
-      <point x="394" y="1700" type="curve"/>
-      <point x="386" y="1679"/>
-      <point x="386" y="1655"/>
-      <point x="394" y="1628" type="curve"/>
-      <point x="272" y="1628" type="line"/>
-      <point x="255" y="1695"/>
-      <point x="261" y="1753"/>
-      <point x="288" y="1800" type="curve" smooth="yes"/>
-      <point x="315" y="1847"/>
-      <point x="362" y="1871"/>
-      <point x="428" y="1871" type="curve" smooth="yes"/>
-      <point x="488" y="1871"/>
-      <point x="543" y="1841"/>
-      <point x="594" y="1809" type="curve" smooth="yes"/>
-      <point x="645" y="1777"/>
-      <point x="690" y="1747"/>
-      <point x="730" y="1747" type="curve" smooth="yes"/>
-      <point x="775" y="1747"/>
-      <point x="795" y="1795"/>
-      <point x="776" y="1852" type="curve"/>
-      <point x="899" y="1852" type="line"/>
-      <point x="916" y="1785"/>
-      <point x="910" y="1728"/>
-      <point x="883" y="1680" type="curve" smooth="yes"/>
-      <point x="856" y="1631"/>
-      <point x="809" y="1607"/>
+      <point x="739" y="1609" type="curve" smooth="yes"/>
+      <point x="681" y="1609"/>
+      <point x="627" y="1637"/>
+      <point x="576" y="1669" type="curve" smooth="yes"/>
+      <point x="525" y="1700"/>
+      <point x="480" y="1729"/>
+      <point x="440" y="1729" type="curve" smooth="yes"/>
+      <point x="415" y="1729"/>
+      <point x="400" y="1719"/>
+      <point x="393" y="1698" type="curve"/>
+      <point x="385" y="1677"/>
+      <point x="385" y="1654"/>
+      <point x="393" y="1628" type="curve"/>
+      <point x="276" y="1628" type="line"/>
+      <point x="260" y="1693"/>
+      <point x="266" y="1749"/>
+      <point x="293" y="1795" type="curve" smooth="yes"/>
+      <point x="320" y="1840"/>
+      <point x="365" y="1862"/>
+      <point x="429" y="1862" type="curve" smooth="yes"/>
+      <point x="488" y="1862"/>
+      <point x="543" y="1834"/>
+      <point x="594" y="1802" type="curve" smooth="yes"/>
+      <point x="645" y="1771"/>
+      <point x="690" y="1742"/>
+      <point x="729" y="1742" type="curve" smooth="yes"/>
+      <point x="775" y="1742"/>
+      <point x="794" y="1789"/>
+      <point x="777" y="1845" type="curve"/>
+      <point x="893" y="1845" type="line"/>
+      <point x="910" y="1780"/>
+      <point x="904" y="1726"/>
+      <point x="877" y="1679" type="curve" smooth="yes"/>
+      <point x="850" y="1632"/>
+      <point x="804" y="1609"/>
     </contour>
     <contour>
       <point x="140" y="0" type="line"/>
       <point x="140" y="1440" type="line"/>
-      <point x="1052" y="1440" type="line"/>
-      <point x="1052" y="1267" type="line"/>
-      <point x="323" y="1267" type="line"/>
-      <point x="323" y="823" type="line"/>
-      <point x="932" y="823" type="line"/>
-      <point x="932" y="650" type="line"/>
-      <point x="323" y="650" type="line"/>
-      <point x="323" y="173" type="line"/>
-      <point x="1052" y="173" type="line"/>
-      <point x="1052" y="0" type="line"/>
+      <point x="1048" y="1440" type="line"/>
+      <point x="1048" y="1277" type="line"/>
+      <point x="312" y="1277" type="line"/>
+      <point x="312" y="816" type="line"/>
+      <point x="928" y="816" type="line"/>
+      <point x="928" y="653" type="line"/>
+      <point x="312" y="653" type="line"/>
+      <point x="312" y="163" type="line"/>
+      <point x="1048" y="163" type="line"/>
+      <point x="1048" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

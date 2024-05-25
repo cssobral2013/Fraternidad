@@ -544,7 +544,7 @@
     <integer>-30</integer>
     <key>eukrcyr</key>
     <integer>-40</integer>
-    <key>four</key>
+    <key>four.ss01</key>
     <integer>-20</integer>
     <key>iecyr</key>
     <integer>-40</integer>
@@ -949,7 +949,7 @@
     <integer>80</integer>
     <key>fl</key>
     <integer>80</integer>
-    <key>four</key>
+    <key>four.ss01</key>
     <integer>-100</integer>
     <key>parenright</key>
     <integer>-120</integer>
@@ -1684,21 +1684,21 @@
   <dict>
     <key>q</key>
     <integer>-80</integer>
-    <key>seven</key>
+    <key>seven.ss01</key>
     <integer>80</integer>
   </dict>
   <key>braceleft.case</key>
   <dict>
     <key>q</key>
     <integer>-80</integer>
-    <key>seven</key>
+    <key>seven.ss01</key>
     <integer>80</integer>
   </dict>
   <key>bracketleft</key>
   <dict>
     <key>q</key>
     <integer>-80</integer>
-    <key>seven</key>
+    <key>seven.ss01</key>
     <integer>80</integer>
   </dict>
   <key>c</key>
@@ -1800,7 +1800,7 @@
   </dict>
   <key>comma</key>
   <dict>
-    <key>one</key>
+    <key>one.ss01</key>
     <integer>-240</integer>
   </dict>
   <key>dcaron</key>
@@ -2005,11 +2005,11 @@
     <integer>60</integer>
     <key>Lambda</key>
     <integer>60</integer>
-    <key>four</key>
+    <key>four.ss01</key>
     <integer>60</integer>
-    <key>one</key>
+    <key>one.ss01</key>
     <integer>-60</integer>
-    <key>seven</key>
+    <key>seven.ss01</key>
     <integer>-100</integer>
   </dict>
   <key>eogonek</key>
@@ -2111,12 +2111,12 @@
     <key>quotedblright</key>
     <integer>60</integer>
   </dict>
-  <key>five</key>
+  <key>five.ss01</key>
   <dict>
-    <key>two</key>
+    <key>two.ss01</key>
     <integer>-60</integer>
   </dict>
-  <key>four</key>
+  <key>four.ss01</key>
   <dict>
     <key>Decyr.loclBGR</key>
     <integer>-40</integer>
@@ -2346,11 +2346,11 @@
     <integer>-100</integer>
     <key>chi</key>
     <integer>-40</integer>
-    <key>four</key>
+    <key>four.ss01</key>
     <integer>60</integer>
     <key>hacyr</key>
     <integer>-40</integer>
-    <key>three</key>
+    <key>three.ss01</key>
     <integer>-80</integer>
     <key>tugrik</key>
     <integer>-160</integer>
@@ -2577,13 +2577,13 @@
     <key>quotedblright</key>
     <integer>-40</integer>
   </dict>
-  <key>nine</key>
+  <key>nine.ss01</key>
   <dict>
     <key>comma</key>
     <integer>-60</integer>
     <key>period</key>
     <integer>-60</integer>
-    <key>seven</key>
+    <key>seven.ss01</key>
     <integer>-40</integer>
   </dict>
   <key>nu</key>
@@ -2993,7 +2993,7 @@
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
-  <key>one</key>
+  <key>one.ss01</key>
   <dict>
     <key>comma</key>
     <integer>-80</integer>
@@ -3051,19 +3051,19 @@
   <dict>
     <key>q</key>
     <integer>-80</integer>
-    <key>seven</key>
+    <key>seven.ss01</key>
     <integer>80</integer>
   </dict>
   <key>parenleft.case</key>
   <dict>
     <key>q</key>
     <integer>-80</integer>
-    <key>seven</key>
+    <key>seven.ss01</key>
     <integer>80</integer>
   </dict>
   <key>period</key>
   <dict>
-    <key>one</key>
+    <key>one.ss01</key>
     <integer>-240</integer>
     <key>quotedblright</key>
     <integer>-120</integer>
@@ -3754,7 +3754,7 @@
     <integer>-60</integer>
     <key>eukrcyr</key>
     <integer>-60</integer>
-    <key>four</key>
+    <key>four.ss01</key>
     <integer>-240</integer>
     <key>g</key>
     <integer>-60</integer>
@@ -4013,7 +4013,7 @@
     <integer>-60</integer>
     <key>fl</key>
     <integer>-60</integer>
-    <key>four</key>
+    <key>four.ss01</key>
     <integer>-240</integer>
     <key>g</key>
     <integer>-80</integer>
@@ -4222,7 +4222,7 @@
     <key>quotedblright</key>
     <integer>-60</integer>
   </dict>
-  <key>seven</key>
+  <key>seven.ss01</key>
   <dict>
     <key>A</key>
     <integer>-80</integer>
@@ -4290,13 +4290,13 @@
     <integer>-200</integer>
     <key>endash</key>
     <integer>-40</integer>
-    <key>four</key>
+    <key>four.ss01</key>
     <integer>-80</integer>
     <key>hyphen</key>
     <integer>-40</integer>
     <key>period</key>
     <integer>-200</integer>
-    <key>seven</key>
+    <key>seven.ss01</key>
     <integer>80</integer>
   </dict>
   <key>sigma</key>
@@ -4319,9 +4319,9 @@
     <key>quoteright</key>
     <integer>-60</integer>
   </dict>
-  <key>six</key>
+  <key>six.ss01</key>
   <dict>
-    <key>one</key>
+    <key>one.ss01</key>
     <integer>-30</integer>
   </dict>
   <key>slash</key>
@@ -4581,7 +4581,7 @@
     <key>semicolon</key>
     <integer>-180</integer>
   </dict>
-  <key>two</key>
+  <key>two.ss01</key>
   <dict>
     <key>A</key>
     <integer>-40</integer>
@@ -4645,7 +4645,7 @@
     <integer>-40</integer>
     <key>Lambda</key>
     <integer>-40</integer>
-    <key>four</key>
+    <key>four.ss01</key>
     <integer>-40</integer>
   </dict>
   <key>ucyr</key>

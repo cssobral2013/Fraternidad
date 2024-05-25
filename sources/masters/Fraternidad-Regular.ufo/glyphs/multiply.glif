@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="multiply" format="2">
-  <advance width="990"/>
+  <advance width="985"/>
   <unicode hex="00D7"/>
   <outline>
-    <component base="plus" xScale="0.707" xyScale="0.707" yxScale="-0.707" yScale="0.707" xOffset="598" yOffset="-196"/>
+    <component base="plus" xScale="0.707" xyScale="0.707" yxScale="-0.707" yScale="0.707" xOffset="595" yOffset="-196"/>
   </outline>
 </glyph>

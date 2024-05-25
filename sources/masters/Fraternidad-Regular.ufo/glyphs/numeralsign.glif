@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numeralsign" format="2">
-  <advance width="561"/>
+  <advance width="550"/>
   <unicode hex="0374"/>
   <outline>
-    <component base="tonos" xOffset="-329"/>
+    <component base="tonos" xOffset="-334"/>
   </outline>
 </glyph>

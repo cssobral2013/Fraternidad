@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gamma" format="2">
-  <advance width="1051"/>
+  <advance width="1040"/>
   <unicode hex="03B3"/>
   <outline>
-    <component base="ustraightcyr"/>
+    <component base="ustraightcyr" xOffset="100"/>
   </outline>
 </glyph>

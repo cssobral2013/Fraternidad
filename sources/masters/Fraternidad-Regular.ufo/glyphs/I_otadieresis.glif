@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotadieresis" format="2">
-  <advance width="503"/>
+  <advance width="492"/>
   <unicode hex="03AA"/>
   <outline>
     <component base="Iota"/>
-    <component base="dieresis" xOffset="-352" yOffset="360"/>
+    <component base="dieresis" xOffset="-357" yOffset="360"/>
   </outline>
 </glyph>

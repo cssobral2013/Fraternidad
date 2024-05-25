@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown.case" format="2">
-  <advance width="619"/>
+  <advance width="608"/>
   <outline>
     <contour>
-      <point x="459" y="1440" type="curve" smooth="yes"/>
-      <point x="493" y="1440"/>
-      <point x="519" y="1429"/>
-      <point x="538" y="1406" type="curve" smooth="yes"/>
-      <point x="558" y="1383"/>
-      <point x="564" y="1356"/>
-      <point x="559" y="1323" type="curve" smooth="yes"/>
-      <point x="553" y="1289"/>
-      <point x="537" y="1261"/>
-      <point x="511" y="1238" type="curve"/>
-      <point x="484" y="1216"/>
-      <point x="454" y="1205"/>
-      <point x="420" y="1205" type="curve" smooth="yes"/>
-      <point x="386" y="1205"/>
-      <point x="360" y="1216"/>
-      <point x="341" y="1238" type="curve"/>
-      <point x="322" y="1261"/>
-      <point x="316" y="1289"/>
-      <point x="322" y="1323" type="curve" smooth="yes"/>
-      <point x="327" y="1356"/>
-      <point x="343" y="1383"/>
-      <point x="368" y="1406" type="curve"/>
-      <point x="395" y="1429"/>
-      <point x="425" y="1440"/>
+      <point x="479" y="1453" type="curve" smooth="yes"/>
+      <point x="511" y="1453"/>
+      <point x="536" y="1443"/>
+      <point x="553" y="1420" type="curve"/>
+      <point x="572" y="1398"/>
+      <point x="579" y="1372"/>
+      <point x="573" y="1341" type="curve"/>
+      <point x="568" y="1309"/>
+      <point x="553" y="1282"/>
+      <point x="527" y="1260" type="curve" smooth="yes"/>
+      <point x="502" y="1238"/>
+      <point x="473" y="1228"/>
+      <point x="441" y="1228" type="curve" smooth="yes"/>
+      <point x="408" y="1228"/>
+      <point x="384" y="1238"/>
+      <point x="365" y="1260" type="curve"/>
+      <point x="347" y="1282"/>
+      <point x="341" y="1309"/>
+      <point x="346" y="1341" type="curve" smooth="yes"/>
+      <point x="351" y="1373"/>
+      <point x="366" y="1399"/>
+      <point x="392" y="1421" type="curve" smooth="yes"/>
+      <point x="417" y="1443"/>
+      <point x="446" y="1453"/>
     </contour>
     <contour>
-      <point x="469" y="1034" type="line"/>
-      <point x="420" y="610" type="line"/>
-      <point x="316" y="-14" type="line"/>
-      <point x="121" y="-14" type="line"/>
-      <point x="225" y="610" type="line"/>
-      <point x="316" y="1034" type="line"/>
+      <point x="476" y="1052" type="line"/>
+      <point x="431" y="625" type="line"/>
+      <point x="328" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="252" y="625" type="line"/>
+      <point x="340" y="1052" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=112</string>
+  <string>=123</string>
   <key>com.fontlab.metricsWidth</key>
-  <string>=619</string>
+  <string>=608</string>
   </dict>
   </lib>
 </glyph>

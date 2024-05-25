@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zhecyr.loclBGR" format="2">
-  <advance width="1574"/>
+  <advance width="1560"/>
   <outline>
     <contour>
-      <point x="610" y="0" type="line"/>
-      <point x="849" y="1440" type="line"/>
-      <point x="1015" y="1440" type="line"/>
-      <point x="776" y="0" type="line"/>
+      <point x="708" y="0" type="line"/>
+      <point x="947" y="1440" type="line"/>
+      <point x="1103" y="1440" type="line"/>
+      <point x="864" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1403" y="1080" type="line"/>
-      <point x="1615" y="1080" type="line"/>
-      <point x="744" y="318" type="line"/>
-      <point x="782" y="546" type="line"/>
+      <point x="1500" y="1080" type="line"/>
+      <point x="1702" y="1080" type="line"/>
+      <point x="838" y="330" type="line"/>
+      <point x="874" y="544" type="line"/>
     </contour>
     <contour>
-      <point x="911" y="591" type="line"/>
-      <point x="1050" y="697" type="line"/>
-      <point x="1464" y="0" type="line"/>
-      <point x="1264" y="0" type="line"/>
+      <point x="1003" y="591" type="line"/>
+      <point x="1135" y="691" type="line"/>
+      <point x="1549" y="0" type="line"/>
+      <point x="1359" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="337" y="1080" type="line"/>
-      <point x="782" y="546" type="line"/>
-      <point x="744" y="318" type="line"/>
-      <point x="125" y="1080" type="line"/>
+      <point x="426" y="1080" type="line"/>
+      <point x="875" y="544" type="line"/>
+      <point x="839" y="330" type="line"/>
+      <point x="224" y="1080" type="line"/>
     </contour>
     <contour>
-      <point x="667" y="591" type="line"/>
-      <point x="119" y="0" type="line"/>
-      <point x="-80" y="0" type="line"/>
-      <point x="564" y="697" type="line"/>
+      <point x="761" y="591" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="663" y="691" type="line"/>
     </contour>
   </outline>
 </glyph>

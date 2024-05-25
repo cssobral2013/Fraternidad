@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="2">
-  <advance width="1127"/>
+  <advance width="1122"/>
   <unicode hex="0101"/>
   <outline>
     <component base="a"/>
     <contour>
       <point x="349" y="1320" type="line"/>
-      <point x="349" y="1469" type="line"/>
-      <point x="863" y="1469" type="line"/>
-      <point x="863" y="1320" type="line"/>
+      <point x="349" y="1462" type="line"/>
+      <point x="859" y="1462" type="line"/>
+      <point x="859" y="1320" type="line"/>
     </contour>
   </outline>
 </glyph>

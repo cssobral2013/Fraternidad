@@ -3,6 +3,6 @@
   <advance width="404"/>
   <unicode hex="0407"/>
   <outline>
-    <component base="Idieresis"/>
+    <component base="Idieresis" xOffset="60"/>
   </outline>
 </glyph>

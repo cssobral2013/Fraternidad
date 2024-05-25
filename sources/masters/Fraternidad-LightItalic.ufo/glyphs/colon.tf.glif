@@ -2,6 +2,6 @@
 <glyph name="colon.tf" format="2">
   <advance width="600"/>
   <outline>
-    <component base="colon" xOffset="18" yOffset="-10"/>
+    <component base="colon" xOffset="78" yOffset="-10"/>
   </outline>
 </glyph>

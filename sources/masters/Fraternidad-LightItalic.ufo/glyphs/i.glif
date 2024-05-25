@@ -3,7 +3,7 @@
   <advance width="404"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="period" xOffset="199" yOffset="1309"/>
+    <component base="dotlessi" xOffset="60"/>
+    <component base="period" xOffset="259" yOffset="1309"/>
   </outline>
 </glyph>

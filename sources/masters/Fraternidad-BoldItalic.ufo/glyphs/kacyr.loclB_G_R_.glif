@@ -2,6 +2,6 @@
 <glyph name="kacyr.loclBGR" format="2">
   <advance width="1104"/>
   <outline>
-    <component base="k"/>
+    <component base="k" xOffset="60"/>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="won.tf" format="2">
   <advance width="1240"/>
   <outline>
-    <component base="won" xScale="0.6" xOffset="31"/>
+    <component base="won" xScale="0.6" xOffset="35"/>
   </outline>
   <lib>
   <dict>

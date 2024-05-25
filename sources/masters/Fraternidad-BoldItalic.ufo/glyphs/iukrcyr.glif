@@ -2,8 +2,8 @@
 <glyph name="iukrcyr" format="2">
   <advance width="592"/>
   <unicode hex="0456"/>
-  <anchor x="434" y="1441" name="top"/>
+  <anchor x="494" y="1441" name="top"/>
   <outline>
-    <component base="i"/>
+    <component base="i" xOffset="60"/>
   </outline>
 </glyph>

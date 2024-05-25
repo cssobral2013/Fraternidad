@@ -3,6 +3,6 @@
   <advance width="1274"/>
   <unicode hex="0412"/>
   <outline>
-    <component base="B"/>
+    <component base="B" xOffset="60"/>
   </outline>
 </glyph>

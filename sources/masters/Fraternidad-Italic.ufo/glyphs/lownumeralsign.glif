@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lownumeralsign" format="2">
-  <advance width="561"/>
+  <advance width="550"/>
   <unicode hex="0375"/>
   <outline>
-    <component base="tonos" xOffset="-587" yOffset="-1558"/>
+    <component base="tonos" xOffset="-491" yOffset="-1556"/>
   </outline>
 </glyph>

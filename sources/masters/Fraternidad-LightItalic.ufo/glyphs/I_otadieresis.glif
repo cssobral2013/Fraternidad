@@ -3,7 +3,7 @@
   <advance width="404"/>
   <unicode hex="03AA"/>
   <outline>
-    <component base="Iota"/>
-    <component base="dieresis" xOffset="-333" yOffset="360"/>
+    <component base="Iota" xOffset="60"/>
+    <component base="dieresis" xOffset="-273" yOffset="360"/>
   </outline>
 </glyph>

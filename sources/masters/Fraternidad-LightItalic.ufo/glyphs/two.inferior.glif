@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.inferior" format="2">
-  <advance width="784"/>
+  <advance width="789"/>
   <unicode hex="2082"/>
   <outline>
-    <component base="twosuperior" xOffset="-89" yOffset="-540"/>
+    <component base="twosuperior" xScale="1.024" yScale="1.024" xOffset="-86" yOffset="-540"/>
   </outline>
 </glyph>

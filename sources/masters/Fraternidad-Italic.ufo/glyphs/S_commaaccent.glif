@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scommaaccent" format="2">
-  <advance width="1228"/>
+  <advance width="1219"/>
   <unicode hex="0218"/>
   <outline>
-    <component base="S"/>
+    <component base="S" xOffset="100"/>
     <contour>
-      <point x="463" y="-193" type="line"/>
-      <point x="336" y="-526" type="line"/>
-      <point x="455" y="-526" type="line"/>
-      <point x="640" y="-193" type="line"/>
+      <point x="565" y="-198" type="line"/>
+      <point x="440" y="-524" type="line"/>
+      <point x="552" y="-524" type="line"/>
+      <point x="733" y="-198" type="line"/>
     </contour>
   </outline>
 </glyph>

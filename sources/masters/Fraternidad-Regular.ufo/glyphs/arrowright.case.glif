@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowright.case" format="2">
-  <advance width="2010"/>
+  <advance width="2008"/>
   <outline>
-    <component base="arrowright" yOffset="43"/>
+    <component base="arrowright" yOffset="48"/>
   </outline>
 </glyph>

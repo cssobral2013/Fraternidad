@@ -5,10 +5,10 @@
   <outline>
     <component base="g"/>
     <contour>
-      <point x="691" y="1297" type="line"/>
-      <point x="764" y="1631" type="line"/>
-      <point x="644" y="1631" type="line"/>
-      <point x="511" y="1297" type="line"/>
+      <point x="681" y="1299" type="line"/>
+      <point x="753" y="1625" type="line"/>
+      <point x="639" y="1625" type="line"/>
+      <point x="510" y="1299" type="line"/>
     </contour>
   </outline>
   <lib>

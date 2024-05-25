@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icyr" format="2">
-  <advance width="1346"/>
+  <advance width="1339"/>
   <unicode hex="0418"/>
-  <anchor x="792" y="1440" name="top"/>
+  <anchor x="907" y="1440" name="top"/>
   <outline>
     <contour>
-      <point x="944" y="0" type="line"/>
-      <point x="1129" y="1117" type="line"/>
-      <point x="214" y="0" type="line"/>
-      <point x="33" y="0" type="line"/>
-      <point x="272" y="1440" type="line"/>
-      <point x="452" y="1440" type="line"/>
-      <point x="267" y="323" type="line"/>
-      <point x="1182" y="1440" type="line"/>
-      <point x="1364" y="1440" type="line"/>
-      <point x="1125" y="0" type="line"/>
+      <point x="1047" y="0" type="line"/>
+      <point x="1236" y="1137" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="372" y="1440" type="line"/>
+      <point x="542" y="1440" type="line"/>
+      <point x="354" y="304" type="line"/>
+      <point x="1286" y="1440" type="line"/>
+      <point x="1456" y="1440" type="line"/>
+      <point x="1218" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

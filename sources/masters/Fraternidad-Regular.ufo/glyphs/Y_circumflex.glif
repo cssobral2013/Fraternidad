@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ycircumflex" format="2">
-  <advance width="1155"/>
+  <advance width="1142"/>
   <unicode hex="0176"/>
   <outline>
     <contour>
-      <point x="249" y="1604" type="line"/>
-      <point x="495" y="1892" type="line"/>
-      <point x="656" y="1892" type="line"/>
-      <point x="903" y="1604" type="line"/>
-      <point x="724" y="1604" type="line"/>
-      <point x="576" y="1779" type="line"/>
-      <point x="428" y="1604" type="line"/>
+      <point x="252" y="1606" type="line"/>
+      <point x="493" y="1888" type="line"/>
+      <point x="646" y="1888" type="line"/>
+      <point x="887" y="1606" type="line"/>
+      <point x="717" y="1606" type="line"/>
+      <point x="569" y="1781" type="line"/>
+      <point x="422" y="1606" type="line"/>
     </contour>
     <contour>
       <point x="485" y="0" type="line"/>
-      <point x="485" y="598" type="line"/>
+      <point x="485" y="600" type="line"/>
       <point x="0" y="1440" type="line"/>
-      <point x="213" y="1440" type="line"/>
-      <point x="578" y="808" type="line"/>
+      <point x="200" y="1440" type="line"/>
+      <point x="571" y="797" type="line"/>
       <point x="942" y="1440" type="line"/>
-      <point x="1155" y="1440" type="line"/>
-      <point x="670" y="598" type="line"/>
-      <point x="670" y="0" type="line"/>
+      <point x="1142" y="1440" type="line"/>
+      <point x="658" y="600" type="line"/>
+      <point x="658" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

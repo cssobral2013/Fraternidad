@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="racute" format="2">
-  <advance width="709"/>
+  <advance width="700"/>
   <unicode hex="0155"/>
   <outline>
-    <component base="r"/>
+    <component base="r" xOffset="100"/>
     <contour>
-      <point x="524" y="1577" type="line"/>
-      <point x="697" y="1577" type="line"/>
-      <point x="514" y="1244" type="line"/>
-      <point x="399" y="1244" type="line"/>
+      <point x="620" y="1572" type="line"/>
+      <point x="783" y="1572" type="line"/>
+      <point x="606" y="1246" type="line"/>
+      <point x="496" y="1246" type="line"/>
     </contour>
   </outline>
 </glyph>

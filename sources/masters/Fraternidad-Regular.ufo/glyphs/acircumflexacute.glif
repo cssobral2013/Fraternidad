@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflexacute" format="2">
-  <advance width="1127"/>
+  <advance width="1122"/>
   <unicode hex="1EA5"/>
   <outline>
     <component base="a"/>
     <contour>
-      <point x="259" y="1244" type="line"/>
-      <point x="505" y="1532" type="line"/>
-      <point x="667" y="1532" type="line"/>
-      <point x="913" y="1244" type="line"/>
-      <point x="734" y="1244" type="line"/>
-      <point x="586" y="1419" type="line"/>
-      <point x="438" y="1244" type="line"/>
+      <point x="266" y="1246" type="line"/>
+      <point x="507" y="1528" type="line"/>
+      <point x="660" y="1528" type="line"/>
+      <point x="902" y="1246" type="line"/>
+      <point x="732" y="1246" type="line"/>
+      <point x="584" y="1421" type="line"/>
+      <point x="436" y="1246" type="line"/>
     </contour>
     <contour>
-      <point x="975" y="1787" type="line"/>
-      <point x="1156" y="1787" type="line"/>
-      <point x="1023" y="1454" type="line"/>
-      <point x="902" y="1454" type="line"/>
+      <point x="964" y="1782" type="line"/>
+      <point x="1135" y="1782" type="line"/>
+      <point x="1006" y="1456" type="line"/>
+      <point x="891" y="1456" type="line"/>
     </contour>
   </outline>
 </glyph>

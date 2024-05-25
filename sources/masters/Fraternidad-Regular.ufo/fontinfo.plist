@@ -73,9 +73,9 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>openTypeNamePreferredFamilyName</key>
   <string>Fraternidad VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Regular</string>
+  <string>Medium</string>
   <key>openTypeNameVersion</key>
-  <string>Version 5.016</string>
+  <string>Version 5.017</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -175,11 +175,11 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>FraternidadVF-Regular</string>
+  <string>FraternidadVF-Medium</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Fraternidad VF Regular</string>
+  <string>Fraternidad VF Medium</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -193,13 +193,13 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Regular</string>
+  <string>Medium</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
   <integer>5</integer>
   <key>versionMinor</key>
-  <integer>16</integer>
+  <integer>17</integer>
   <key>xHeight</key>
   <integer>1080</integer>
 </dict>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcommaaccent" format="2">
-  <advance width="1431"/>
+  <advance width="1424"/>
   <unicode hex="0122"/>
   <outline>
     <component base="G"/>
     <contour>
-      <point x="672" y="-193" type="line"/>
-      <point x="599" y="-526" type="line"/>
-      <point x="720" y="-526" type="line"/>
-      <point x="853" y="-193" type="line"/>
+      <point x="674" y="-198" type="line"/>
+      <point x="602" y="-524" type="line"/>
+      <point x="717" y="-524" type="line"/>
+      <point x="846" y="-198" type="line"/>
     </contour>
   </outline>
 </glyph>

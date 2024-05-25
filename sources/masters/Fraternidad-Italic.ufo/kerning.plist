@@ -2,2232 +2,102 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>A</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Aacute</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Abreve</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Abreveacute</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Abrevedotbelow</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Abrevegrave</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Abrevehoi</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Abrevetilde</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Acircumflex</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Acircumflexacute</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Acircumflexdotbelow</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Acircumflexgrave</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Acircumflexhoi</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Acircumflextilde</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Acyr</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Adieresis</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Adotbelow</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Agrave</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Ahoi</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Alpha</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Alphatonos</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Amacron</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Aogonek</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Aring</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Atilde</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
   <key>Becyr</key>
   <dict>
-    <key>A</key>
-    <integer>-63</integer>
-    <key>AE</key>
-    <integer>-63</integer>
-    <key>Aacute</key>
-    <integer>-63</integer>
-    <key>Abreve</key>
-    <integer>-63</integer>
-    <key>Abreveacute</key>
-    <integer>-63</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-63</integer>
-    <key>Abrevegrave</key>
-    <integer>-63</integer>
-    <key>Abrevehoi</key>
-    <integer>-63</integer>
-    <key>Abrevetilde</key>
-    <integer>-63</integer>
-    <key>Acircumflex</key>
-    <integer>-63</integer>
-    <key>Acircumflexacute</key>
-    <integer>-63</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-63</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-63</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-63</integer>
-    <key>Acircumflextilde</key>
-    <integer>-63</integer>
-    <key>Acyr</key>
-    <integer>-63</integer>
-    <key>Adieresis</key>
-    <integer>-63</integer>
-    <key>Adotbelow</key>
-    <integer>-63</integer>
-    <key>Agrave</key>
-    <integer>-63</integer>
-    <key>Ahoi</key>
-    <integer>-63</integer>
-    <key>Alpha</key>
-    <integer>-63</integer>
-    <key>Alphatonos</key>
-    <integer>-63</integer>
-    <key>Amacron</key>
-    <integer>-63</integer>
-    <key>Aogonek</key>
-    <integer>-63</integer>
-    <key>Aring</key>
-    <integer>-63</integer>
-    <key>Atilde</key>
-    <integer>-63</integer>
-    <key>Decyr</key>
-    <integer>-63</integer>
-    <key>Delta</key>
-    <integer>-63</integer>
-    <key>Elcyr</key>
-    <integer>-63</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-63</integer>
-    <key>Lambda</key>
-    <integer>-63</integer>
-    <key>four</key>
-    <integer>-63</integer>
-  </dict>
-  <key>Chi</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-60</integer>
-    <key>slash</key>
-    <integer>80</integer>
-  </dict>
-  <key>D</key>
-  <dict>
-    <key>Z</key>
-    <integer>-26</integer>
-    <key>Zacute</key>
-    <integer>-26</integer>
-    <key>Zcaron</key>
-    <integer>-26</integer>
-    <key>Zdotaccent</key>
-    <integer>-26</integer>
-    <key>Zeta</key>
-    <integer>-26</integer>
-  </dict>
-  <key>Dcaron</key>
-  <dict>
-    <key>Z</key>
-    <integer>-26</integer>
-    <key>Zacute</key>
-    <integer>-26</integer>
-    <key>Zcaron</key>
-    <integer>-26</integer>
-    <key>Zdotaccent</key>
-    <integer>-26</integer>
-    <key>Zeta</key>
-    <integer>-26</integer>
-  </dict>
-  <key>Dcroat</key>
-  <dict>
-    <key>Z</key>
-    <integer>-26</integer>
-    <key>Zacute</key>
-    <integer>-26</integer>
-    <key>Zcaron</key>
-    <integer>-26</integer>
-    <key>Zdotaccent</key>
-    <integer>-26</integer>
-    <key>Zeta</key>
-    <integer>-26</integer>
-  </dict>
-  <key>Delta</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Elcyr.loclBGR</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
+    <key>public.kern2.A2</key>
+    <integer>-74</integer>
   </dict>
   <key>Ercyr</key>
   <dict>
-    <key>A</key>
-    <integer>-63</integer>
-    <key>AE</key>
-    <integer>-63</integer>
-    <key>Aacute</key>
-    <integer>-63</integer>
-    <key>Abreve</key>
-    <integer>-63</integer>
-    <key>Abreveacute</key>
-    <integer>-63</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-63</integer>
-    <key>Abrevegrave</key>
-    <integer>-63</integer>
-    <key>Abrevehoi</key>
-    <integer>-63</integer>
-    <key>Abrevetilde</key>
-    <integer>-63</integer>
-    <key>Acircumflex</key>
-    <integer>-63</integer>
-    <key>Acircumflexacute</key>
-    <integer>-63</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-63</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-63</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-63</integer>
-    <key>Acircumflextilde</key>
-    <integer>-63</integer>
-    <key>Acyr</key>
-    <integer>-63</integer>
-    <key>Adieresis</key>
-    <integer>-63</integer>
-    <key>Adotbelow</key>
-    <integer>-63</integer>
-    <key>Agrave</key>
-    <integer>-63</integer>
-    <key>Ahoi</key>
-    <integer>-63</integer>
-    <key>Alpha</key>
-    <integer>-63</integer>
-    <key>Alphatonos</key>
-    <integer>-63</integer>
-    <key>Amacron</key>
-    <integer>-63</integer>
-    <key>Aogonek</key>
-    <integer>-63</integer>
-    <key>Aring</key>
-    <integer>-63</integer>
-    <key>Atilde</key>
-    <integer>-63</integer>
-    <key>Decyr</key>
-    <integer>-63</integer>
-    <key>Delta</key>
-    <integer>-63</integer>
-    <key>Elcyr</key>
-    <integer>-63</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-63</integer>
-    <key>Lambda</key>
-    <integer>-63</integer>
-    <key>four</key>
-    <integer>-63</integer>
-  </dict>
-  <key>Eth</key>
-  <dict>
-    <key>Z</key>
-    <integer>-26</integer>
-    <key>Zacute</key>
-    <integer>-26</integer>
-    <key>Zcaron</key>
-    <integer>-26</integer>
-    <key>Zdotaccent</key>
-    <integer>-26</integer>
-    <key>Zeta</key>
-    <integer>-26</integer>
+    <key>public.kern2.A2</key>
+    <integer>-74</integer>
   </dict>
   <key>F</key>
   <dict>
-    <key>A</key>
-    <integer>-20</integer>
-    <key>AE</key>
-    <integer>-20</integer>
-    <key>Aacute</key>
-    <integer>-20</integer>
-    <key>Abreve</key>
-    <integer>-20</integer>
-    <key>Abreveacute</key>
-    <integer>-20</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-20</integer>
-    <key>Abrevegrave</key>
-    <integer>-20</integer>
-    <key>Abrevehoi</key>
-    <integer>-20</integer>
-    <key>Abrevetilde</key>
-    <integer>-20</integer>
-    <key>Acircumflex</key>
-    <integer>-20</integer>
-    <key>Acircumflexacute</key>
-    <integer>-20</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-20</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-20</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-20</integer>
-    <key>Acircumflextilde</key>
-    <integer>-20</integer>
-    <key>Acyr</key>
-    <integer>-20</integer>
-    <key>Adieresis</key>
-    <integer>-20</integer>
-    <key>Adotbelow</key>
-    <integer>-20</integer>
-    <key>Agrave</key>
-    <integer>-20</integer>
-    <key>Ahoi</key>
-    <integer>-20</integer>
-    <key>Alpha</key>
-    <integer>-20</integer>
-    <key>Alphatonos</key>
-    <integer>-20</integer>
-    <key>Amacron</key>
-    <integer>-20</integer>
-    <key>Aogonek</key>
-    <integer>-20</integer>
-    <key>Aring</key>
-    <integer>-20</integer>
-    <key>Atilde</key>
-    <integer>-20</integer>
-    <key>Decyr</key>
-    <integer>-20</integer>
-    <key>Delta</key>
-    <integer>-20</integer>
-    <key>Elcyr</key>
-    <integer>-20</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-20</integer>
-    <key>J</key>
-    <integer>-53</integer>
-    <key>Jcircumflex</key>
-    <integer>-53</integer>
-    <key>Lambda</key>
-    <integer>-20</integer>
-    <key>a</key>
+    <key>q</key>
     <integer>-40</integer>
-    <key>aacute</key>
+    <key>public.kern2.A2</key>
+    <integer>-20</integer>
+    <key>public.kern2.J2</key>
+    <integer>-62</integer>
+    <key>public.kern2.a2</key>
     <integer>-40</integer>
-    <key>abreve</key>
-    <integer>-40</integer>
-    <key>abreveacute</key>
-    <integer>-40</integer>
-    <key>abrevedotbelow</key>
-    <integer>-40</integer>
-    <key>abrevegrave</key>
-    <integer>-40</integer>
-    <key>abrevehoi</key>
-    <integer>-40</integer>
-    <key>abrevetilde</key>
-    <integer>-40</integer>
-    <key>acircumflex</key>
-    <integer>-40</integer>
-    <key>acircumflexacute</key>
-    <integer>-40</integer>
-    <key>acircumflexdotbelow</key>
-    <integer>-40</integer>
-    <key>acircumflexgrave</key>
-    <integer>-40</integer>
-    <key>acircumflexhoi</key>
-    <integer>-40</integer>
-    <key>acircumflextilde</key>
-    <integer>-40</integer>
-    <key>acyr</key>
-    <integer>-40</integer>
-    <key>adieresis</key>
-    <integer>-40</integer>
-    <key>adotbelow</key>
-    <integer>-40</integer>
-    <key>ae</key>
-    <integer>-40</integer>
-    <key>agrave</key>
-    <integer>-40</integer>
-    <key>ahoi</key>
-    <integer>-40</integer>
-    <key>alpha</key>
+    <key>public.kern2.c2</key>
     <integer>-30</integer>
-    <key>alphatonos</key>
-    <integer>-30</integer>
-    <key>amacron</key>
-    <integer>-40</integer>
-    <key>aogonek</key>
-    <integer>-40</integer>
-    <key>aring</key>
-    <integer>-40</integer>
-    <key>atilde</key>
-    <integer>-40</integer>
-    <key>c</key>
-    <integer>-30</integer>
-    <key>cacute</key>
-    <integer>-30</integer>
-    <key>ccaron</key>
-    <integer>-30</integer>
-    <key>ccedilla</key>
-    <integer>-30</integer>
-    <key>ccircumflex</key>
-    <integer>-30</integer>
-    <key>cdotaccent</key>
-    <integer>-30</integer>
-    <key>cent</key>
-    <integer>-40</integer>
-    <key>checyr.loclBGR</key>
-    <integer>-30</integer>
-    <key>comma</key>
+    <key>public.kern2.comma</key>
     <integer>-230</integer>
-    <key>d</key>
-    <integer>-30</integer>
-    <key>decyr</key>
-    <integer>-30</integer>
-    <key>delta</key>
-    <integer>-30</integer>
-    <key>e</key>
-    <integer>-30</integer>
-    <key>eacute</key>
+    <key>public.kern2.egrave</key>
     <integer>-40</integer>
-    <key>ecaron</key>
+    <key>public.kern2.xi</key>
     <integer>-40</integer>
-    <key>ecircumflex</key>
-    <integer>-40</integer>
-    <key>ecircumflexacute</key>
-    <integer>-30</integer>
-    <key>ecircumflexdotbelow</key>
-    <integer>-30</integer>
-    <key>ecircumflexgrave</key>
-    <integer>-30</integer>
-    <key>ecircumflexhoi</key>
-    <integer>-30</integer>
-    <key>ecircumflextilde</key>
-    <integer>-30</integer>
-    <key>edieresis</key>
-    <integer>-40</integer>
-    <key>edotaccent</key>
-    <integer>-40</integer>
-    <key>edotbelow</key>
-    <integer>-30</integer>
-    <key>efcyr</key>
-    <integer>-30</integer>
-    <key>egrave</key>
-    <integer>-40</integer>
-    <key>ehoi</key>
-    <integer>-30</integer>
-    <key>elcyr</key>
-    <integer>-30</integer>
-    <key>emacron</key>
-    <integer>-40</integer>
-    <key>eogonek</key>
-    <integer>-40</integer>
-    <key>ereversedcyr</key>
-    <integer>-30</integer>
-    <key>escyr</key>
-    <integer>-30</integer>
-    <key>etilde</key>
-    <integer>-30</integer>
-    <key>eukrcyr</key>
-    <integer>-40</integer>
-    <key>four</key>
-    <integer>-20</integer>
-    <key>iecyr</key>
-    <integer>-40</integer>
-    <key>iegravecyr</key>
-    <integer>-40</integer>
-    <key>iocyr</key>
-    <integer>-40</integer>
-    <key>lslash</key>
-    <integer>-30</integer>
-    <key>o</key>
-    <integer>-30</integer>
-    <key>oacute</key>
-    <integer>-30</integer>
-    <key>obarcyr</key>
-    <integer>-30</integer>
-    <key>ocircumflex</key>
-    <integer>-30</integer>
-    <key>ocircumflexacute</key>
-    <integer>-30</integer>
-    <key>ocircumflexdotbelow</key>
-    <integer>-30</integer>
-    <key>ocircumflexgrave</key>
-    <integer>-30</integer>
-    <key>ocircumflexhoi</key>
-    <integer>-30</integer>
-    <key>ocircumflextilde</key>
-    <integer>-30</integer>
-    <key>ocyr</key>
-    <integer>-30</integer>
-    <key>odieresis</key>
-    <integer>-30</integer>
-    <key>odotbelow</key>
-    <integer>-30</integer>
-    <key>oe</key>
-    <integer>-30</integer>
-    <key>ograve</key>
-    <integer>-30</integer>
-    <key>ohoi</key>
-    <integer>-30</integer>
-    <key>ohorn</key>
-    <integer>-30</integer>
-    <key>ohornacute</key>
-    <integer>-30</integer>
-    <key>ohorndotbelow</key>
-    <integer>-30</integer>
-    <key>ohorngrave</key>
-    <integer>-30</integer>
-    <key>ohornhoi</key>
-    <integer>-30</integer>
-    <key>ohorntilde</key>
-    <integer>-30</integer>
-    <key>ohungarumlaut</key>
-    <integer>-30</integer>
-    <key>omacron</key>
-    <integer>-30</integer>
-    <key>omega</key>
-    <integer>-30</integer>
-    <key>omegatonos</key>
-    <integer>-30</integer>
-    <key>omicron</key>
-    <integer>-30</integer>
-    <key>omicrontonos</key>
-    <integer>-30</integer>
-    <key>oslash</key>
-    <integer>-30</integer>
-    <key>otilde</key>
-    <integer>-30</integer>
-    <key>period</key>
-    <integer>-230</integer>
-    <key>phi</key>
-    <integer>-30</integer>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>schwa</key>
-    <integer>-30</integer>
-    <key>sigma</key>
-    <integer>-30</integer>
-    <key>sigmafinal</key>
-    <integer>-30</integer>
-    <key>xi</key>
-    <integer>-40</integer>
-    <key>yacyr</key>
-    <integer>-40</integer>
-    <key>zecyr.loclBGR</key>
-    <integer>-30</integer>
-    <key>zeta</key>
-    <integer>-30</integer>
-  </dict>
-  <key>Gamma</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
-  </dict>
-  <key>Gecyr</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
-  </dict>
-  <key>Geupcyr</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
-  </dict>
-  <key>Hacyr</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-60</integer>
-    <key>slash</key>
-    <integer>80</integer>
-  </dict>
-  <key>K</key>
-  <dict>
-    <key>Q</key>
-    <integer>-60</integer>
-    <key>hyphen</key>
-    <integer>-100</integer>
-    <key>q</key>
-    <integer>-70</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-  </dict>
-  <key>Kacyr</key>
-  <dict>
-    <key>Q</key>
-    <integer>-60</integer>
-    <key>hyphen</key>
-    <integer>-100</integer>
-    <key>q</key>
-    <integer>-70</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-  </dict>
-  <key>Kacyr.loclBGR</key>
-  <dict>
-    <key>Q</key>
-    <integer>-60</integer>
-    <key>hyphen</key>
-    <integer>-100</integer>
-    <key>q</key>
-    <integer>-70</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-  </dict>
-  <key>Kappa</key>
-  <dict>
-    <key>Q</key>
-    <integer>-60</integer>
-    <key>hyphen</key>
-    <integer>-100</integer>
-    <key>q</key>
-    <integer>-70</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-  </dict>
-  <key>Kcommaaccent</key>
-  <dict>
-    <key>Q</key>
-    <integer>-60</integer>
-    <key>hyphen</key>
-    <integer>-100</integer>
-    <key>q</key>
-    <integer>-70</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-  </dict>
-  <key>L</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-160</integer>
-    <key>quotedbl</key>
-    <integer>-240</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-240</integer>
-  </dict>
-  <key>Lacute</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-160</integer>
-    <key>quotedbl</key>
-    <integer>-240</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-240</integer>
-  </dict>
-  <key>Lambda</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-80</integer>
-    <key>quotedbl</key>
-    <integer>-200</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-160</integer>
-    <key>quoteright</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Lcaron</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-160</integer>
-    <key>quotedbl</key>
-    <integer>-240</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-240</integer>
-  </dict>
-  <key>Lslash</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-160</integer>
-    <key>quotedbl</key>
-    <integer>-240</integer>
-    <key>quotedblleft</key>
-    <integer>-240</integer>
-    <key>quotedblright</key>
-    <integer>-240</integer>
   </dict>
   <key>P</key>
   <dict>
-    <key>A</key>
+    <key>public.kern2.A2</key>
     <integer>-100</integer>
-    <key>AE</key>
-    <integer>-100</integer>
-    <key>Aacute</key>
-    <integer>-100</integer>
-    <key>Abreve</key>
-    <integer>-100</integer>
-    <key>Abreveacute</key>
-    <integer>-100</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-100</integer>
-    <key>Abrevegrave</key>
-    <integer>-100</integer>
-    <key>Abrevehoi</key>
-    <integer>-100</integer>
-    <key>Abrevetilde</key>
-    <integer>-100</integer>
-    <key>Acircumflex</key>
-    <integer>-100</integer>
-    <key>Acircumflexacute</key>
-    <integer>-100</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-100</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-100</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-100</integer>
-    <key>Acircumflextilde</key>
-    <integer>-100</integer>
-    <key>Acyr</key>
-    <integer>-100</integer>
-    <key>Adieresis</key>
-    <integer>-100</integer>
-    <key>Adotbelow</key>
-    <integer>-100</integer>
-    <key>Agrave</key>
-    <integer>-100</integer>
-    <key>Ahoi</key>
-    <integer>-100</integer>
-    <key>Alpha</key>
-    <integer>-100</integer>
-    <key>Alphatonos</key>
-    <integer>-100</integer>
-    <key>Amacron</key>
-    <integer>-100</integer>
-    <key>Aogonek</key>
-    <integer>-100</integer>
-    <key>Aring</key>
-    <integer>-100</integer>
-    <key>Atilde</key>
-    <integer>-100</integer>
-    <key>Chi</key>
+    <key>public.kern2.J2</key>
+    <integer>-62</integer>
+    <key>public.kern2.X2</key>
     <integer>-60</integer>
-    <key>Decyr</key>
-    <integer>-100</integer>
-    <key>Delta</key>
-    <integer>-100</integer>
-    <key>Elcyr</key>
-    <integer>-100</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-100</integer>
-    <key>Ereversedcyr</key>
-    <integer>-60</integer>
-    <key>Hacyr</key>
-    <integer>-60</integer>
-    <key>J</key>
-    <integer>-53</integer>
-    <key>Jcircumflex</key>
-    <integer>-53</integer>
-    <key>Lambda</key>
-    <integer>-100</integer>
-    <key>Ljecyr</key>
-    <integer>-60</integer>
-    <key>Tbar</key>
-    <integer>-60</integer>
-    <key>Ucyr</key>
-    <integer>-60</integer>
-    <key>X</key>
-    <integer>-60</integer>
-    <key>Zhecyr</key>
-    <integer>-60</integer>
-    <key>Zhecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>a</key>
-    <integer>-39</integer>
-    <key>aacute</key>
-    <integer>-39</integer>
-    <key>abreve</key>
-    <integer>-39</integer>
-    <key>abreveacute</key>
-    <integer>-39</integer>
-    <key>abrevedotbelow</key>
-    <integer>-39</integer>
-    <key>abrevegrave</key>
-    <integer>-39</integer>
-    <key>abrevehoi</key>
-    <integer>-39</integer>
-    <key>abrevetilde</key>
-    <integer>-39</integer>
-    <key>acircumflex</key>
-    <integer>-39</integer>
-    <key>acircumflexacute</key>
-    <integer>-39</integer>
-    <key>acircumflexdotbelow</key>
-    <integer>-39</integer>
-    <key>acircumflexgrave</key>
-    <integer>-39</integer>
-    <key>acircumflexhoi</key>
-    <integer>-39</integer>
-    <key>acircumflextilde</key>
-    <integer>-39</integer>
-    <key>acyr</key>
-    <integer>-39</integer>
-    <key>adieresis</key>
-    <integer>-39</integer>
-    <key>adotbelow</key>
-    <integer>-39</integer>
-    <key>ae</key>
-    <integer>-39</integer>
-    <key>agrave</key>
-    <integer>-39</integer>
-    <key>ahoi</key>
-    <integer>-39</integer>
-    <key>alpha</key>
-    <integer>-11</integer>
-    <key>alphatonos</key>
-    <integer>-11</integer>
-    <key>amacron</key>
-    <integer>-39</integer>
-    <key>aogonek</key>
-    <integer>-39</integer>
-    <key>aring</key>
-    <integer>-39</integer>
-    <key>atilde</key>
-    <integer>-39</integer>
-    <key>braceright</key>
-    <integer>-120</integer>
-    <key>braceright.case</key>
-    <integer>-120</integer>
-    <key>bracketright</key>
-    <integer>-120</integer>
-    <key>c</key>
-    <integer>-11</integer>
-    <key>cacute</key>
-    <integer>-11</integer>
-    <key>ccaron</key>
-    <integer>-11</integer>
-    <key>ccedilla</key>
-    <integer>-11</integer>
-    <key>ccircumflex</key>
-    <integer>-11</integer>
-    <key>cdotaccent</key>
-    <integer>-11</integer>
-    <key>checyr.loclBGR</key>
-    <integer>-11</integer>
-    <key>comma</key>
+    <key>public.kern2.a2</key>
+    <integer>-35</integer>
+    <key>public.kern2.c2</key>
+    <integer>-13</integer>
+    <key>public.kern2.comma</key>
     <integer>-320</integer>
-    <key>d</key>
-    <integer>-11</integer>
-    <key>decyr</key>
-    <integer>-11</integer>
-    <key>delta</key>
-    <integer>-11</integer>
-    <key>e</key>
-    <integer>-11</integer>
-    <key>ecircumflexacute</key>
-    <integer>-11</integer>
-    <key>ecircumflexdotbelow</key>
-    <integer>-11</integer>
-    <key>ecircumflexgrave</key>
-    <integer>-11</integer>
-    <key>ecircumflexhoi</key>
-    <integer>-11</integer>
-    <key>ecircumflextilde</key>
-    <integer>-11</integer>
-    <key>edotbelow</key>
-    <integer>-11</integer>
-    <key>efcyr</key>
-    <integer>-11</integer>
-    <key>ehoi</key>
-    <integer>-11</integer>
-    <key>elcyr</key>
-    <integer>-11</integer>
-    <key>ereversedcyr</key>
-    <integer>-11</integer>
-    <key>escyr</key>
-    <integer>-11</integer>
-    <key>etilde</key>
-    <integer>-11</integer>
-    <key>f</key>
+    <key>public.kern2.f2</key>
     <integer>80</integer>
-    <key>f_f</key>
-    <integer>80</integer>
-    <key>f_f_l</key>
-    <integer>80</integer>
-    <key>fl</key>
-    <integer>80</integer>
-    <key>four</key>
-    <integer>-100</integer>
-    <key>lslash</key>
-    <integer>-11</integer>
-    <key>o</key>
-    <integer>-11</integer>
-    <key>oacute</key>
-    <integer>-11</integer>
-    <key>obarcyr</key>
-    <integer>-11</integer>
-    <key>ocircumflex</key>
-    <integer>-11</integer>
-    <key>ocircumflexacute</key>
-    <integer>-11</integer>
-    <key>ocircumflexdotbelow</key>
-    <integer>-11</integer>
-    <key>ocircumflexgrave</key>
-    <integer>-11</integer>
-    <key>ocircumflexhoi</key>
-    <integer>-11</integer>
-    <key>ocircumflextilde</key>
-    <integer>-11</integer>
-    <key>ocyr</key>
-    <integer>-11</integer>
-    <key>odieresis</key>
-    <integer>-11</integer>
-    <key>odotbelow</key>
-    <integer>-11</integer>
-    <key>oe</key>
-    <integer>-11</integer>
-    <key>ograve</key>
-    <integer>-11</integer>
-    <key>ohoi</key>
-    <integer>-11</integer>
-    <key>ohorn</key>
-    <integer>-11</integer>
-    <key>ohornacute</key>
-    <integer>-11</integer>
-    <key>ohorndotbelow</key>
-    <integer>-11</integer>
-    <key>ohorngrave</key>
-    <integer>-11</integer>
-    <key>ohornhoi</key>
-    <integer>-11</integer>
-    <key>ohorntilde</key>
-    <integer>-11</integer>
-    <key>ohungarumlaut</key>
-    <integer>-11</integer>
-    <key>omacron</key>
-    <integer>-11</integer>
-    <key>omega</key>
-    <integer>-11</integer>
-    <key>omegatonos</key>
-    <integer>-11</integer>
-    <key>omicron</key>
-    <integer>-11</integer>
-    <key>omicrontonos</key>
-    <integer>-11</integer>
-    <key>oslash</key>
-    <integer>-11</integer>
-    <key>otilde</key>
-    <integer>-11</integer>
-    <key>parenright</key>
+    <key>public.kern2.parenright2</key>
     <integer>-120</integer>
-    <key>parenright.case</key>
-    <integer>-120</integer>
-    <key>period</key>
-    <integer>-320</integer>
-    <key>phi</key>
-    <integer>-11</integer>
-    <key>pi</key>
-    <integer>80</integer>
-    <key>schwa</key>
-    <integer>-11</integer>
-    <key>sigma</key>
-    <integer>-11</integer>
-    <key>sigmafinal</key>
-    <integer>-11</integer>
-    <key>yacyr</key>
-    <integer>-39</integer>
-    <key>zecyr.loclBGR</key>
-    <integer>-11</integer>
-    <key>zeta</key>
-    <integer>-11</integer>
   </dict>
   <key>Q</key>
   <dict>
-    <key>Chi</key>
+    <key>public.kern2.X2</key>
     <integer>-60</integer>
-    <key>Ereversedcyr</key>
+    <key>public.kern2.comma</key>
     <integer>-60</integer>
-    <key>Hacyr</key>
-    <integer>-60</integer>
-    <key>Ljecyr</key>
-    <integer>-60</integer>
-    <key>Tbar</key>
-    <integer>-60</integer>
-    <key>Ucyr</key>
-    <integer>-60</integer>
-    <key>X</key>
-    <integer>-60</integer>
-    <key>Zhecyr</key>
-    <integer>-60</integer>
-    <key>Zhecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>comma</key>
-    <integer>-60</integer>
-    <key>period</key>
-    <integer>-60</integer>
-  </dict>
-  <key>T</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
-  </dict>
-  <key>Tau</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
-  </dict>
-  <key>Tbar</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-60</integer>
-    <key>slash</key>
-    <integer>80</integer>
-  </dict>
-  <key>Tcaron</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
-  </dict>
-  <key>Tcedilla</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
-  </dict>
-  <key>Tcommaaccent</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
-  </dict>
-  <key>Tecyr</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
   </dict>
   <key>Thorn</key>
   <dict>
-    <key>A</key>
-    <integer>-63</integer>
-    <key>AE</key>
-    <integer>-63</integer>
-    <key>Aacute</key>
-    <integer>-63</integer>
-    <key>Abreve</key>
-    <integer>-63</integer>
-    <key>Abreveacute</key>
-    <integer>-63</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-63</integer>
-    <key>Abrevegrave</key>
-    <integer>-63</integer>
-    <key>Abrevehoi</key>
-    <integer>-63</integer>
-    <key>Abrevetilde</key>
-    <integer>-63</integer>
-    <key>Acircumflex</key>
-    <integer>-63</integer>
-    <key>Acircumflexacute</key>
-    <integer>-63</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-63</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-63</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-63</integer>
-    <key>Acircumflextilde</key>
-    <integer>-63</integer>
-    <key>Acyr</key>
-    <integer>-63</integer>
-    <key>Adieresis</key>
-    <integer>-63</integer>
-    <key>Adotbelow</key>
-    <integer>-63</integer>
-    <key>Agrave</key>
-    <integer>-63</integer>
-    <key>Ahoi</key>
-    <integer>-63</integer>
-    <key>Alpha</key>
-    <integer>-63</integer>
-    <key>Alphatonos</key>
-    <integer>-63</integer>
-    <key>Amacron</key>
-    <integer>-63</integer>
-    <key>Aogonek</key>
-    <integer>-63</integer>
-    <key>Aring</key>
-    <integer>-63</integer>
-    <key>Atilde</key>
-    <integer>-63</integer>
-    <key>Decyr</key>
-    <integer>-63</integer>
-    <key>Delta</key>
-    <integer>-63</integer>
-    <key>Elcyr</key>
-    <integer>-63</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-63</integer>
-    <key>Lambda</key>
-    <integer>-63</integer>
-    <key>four</key>
-    <integer>-63</integer>
-  </dict>
-  <key>Ucyr</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Upsilon</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Upsilondieresis</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Upsilontonos</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Ustraightcyr</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>V</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-90</integer>
-    <key>q</key>
-    <integer>-90</integer>
-  </dict>
-  <key>W</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-90</integer>
-    <key>q</key>
-    <integer>-90</integer>
-  </dict>
-  <key>Wacute</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-90</integer>
-    <key>q</key>
-    <integer>-90</integer>
-  </dict>
-  <key>Wcircumflex</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-90</integer>
-    <key>q</key>
-    <integer>-90</integer>
-  </dict>
-  <key>Wdieresis</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-90</integer>
-    <key>q</key>
-    <integer>-90</integer>
-  </dict>
-  <key>Wgrave</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-90</integer>
-    <key>q</key>
-    <integer>-90</integer>
-  </dict>
-  <key>X</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-60</integer>
-    <key>slash</key>
-    <integer>80</integer>
-  </dict>
-  <key>Y</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Yacute</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Ycircumflex</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Ydieresis</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Ydotbelow</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Ygrave</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Yhoi</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Ytilde</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>Zhecyr</key>
-  <dict>
-    <key>Q</key>
-    <integer>-60</integer>
-    <key>hyphen</key>
-    <integer>-100</integer>
-    <key>q</key>
-    <integer>-70</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-  </dict>
-  <key>Zhecyr.loclBGR</key>
-  <dict>
-    <key>Q</key>
-    <integer>-60</integer>
-    <key>hyphen</key>
-    <integer>-100</integer>
-    <key>q</key>
-    <integer>-70</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-  </dict>
-  <key>a</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>aacute</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>abreve</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>abreveacute</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>abrevedotbelow</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>abrevegrave</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>abrevehoi</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>abrevetilde</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>acircumflex</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>acircumflexacute</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>acircumflexdotbelow</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>acircumflexgrave</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>acircumflexhoi</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>acircumflextilde</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>acyr</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>adieresis</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>adotbelow</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ae</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>agrave</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ahoi</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>amacron</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>aogonek</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>aring</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
+    <key>public.kern2.A2</key>
+    <integer>-74</integer>
   </dict>
   <key>arrowleft</key>
   <dict>
     <key>emdash</key>
     <integer>-240</integer>
   </dict>
-  <key>atilde</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
   <key>b</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>chi</key>
-    <integer>-40</integer>
-    <key>hacyr</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
     <key>lownumeralsign</key>
     <integer>-40</integer>
-    <key>nine</key>
-    <integer>-32</integer>
     <key>numeralsign</key>
     <integer>-40</integer>
     <key>quotedbl</key>
     <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
     <key>quotedblright</key>
     <integer>-40</integer>
     <key>quotesingle</key>
     <integer>-40</integer>
-    <key>ucyr</key>
-    <integer>-61</integer>
-    <key>ushortcyr</key>
-    <integer>-61</integer>
-    <key>x</key>
+    <key>public.kern2.x2</key>
     <integer>-40</integer>
-    <key>y</key>
-    <integer>-61</integer>
-    <key>yacute</key>
-    <integer>-61</integer>
-    <key>ycircumflex</key>
-    <integer>-61</integer>
-    <key>ydieresis</key>
-    <integer>-61</integer>
-    <key>ydotbelow</key>
-    <integer>-61</integer>
-    <key>ygrave</key>
-    <integer>-61</integer>
-    <key>yhoi</key>
-    <integer>-61</integer>
-    <key>ytilde</key>
-    <integer>-61</integer>
-    <key>zecyr</key>
-    <integer>-40</integer>
-    <key>zhecyr</key>
-    <integer>-40</integer>
-    <key>zhecyr.loclBGR</key>
-    <integer>-40</integer>
+    <key>public.kern2.y2</key>
+    <integer>-65</integer>
   </dict>
   <key>becyr</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>becyr.loclSRB</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
-  </dict>
-  <key>braceleft</key>
-  <dict>
-    <key>q</key>
-    <integer>-80</integer>
-    <key>seven</key>
-    <integer>38</integer>
-  </dict>
-  <key>braceleft.case</key>
-  <dict>
-    <key>q</key>
-    <integer>-80</integer>
-    <key>seven</key>
-    <integer>38</integer>
-  </dict>
-  <key>bracketleft</key>
-  <dict>
-    <key>q</key>
-    <integer>-80</integer>
-    <key>seven</key>
-    <integer>38</integer>
-  </dict>
-  <key>c</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>cacute</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
   </dict>
   <key>carriagereturn</key>
   <dict>
     <key>emdash</key>
     <integer>-240</integer>
-  </dict>
-  <key>ccaron</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ccedilla</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ccircumflex</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>cdotaccent</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>cent</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>chi</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
   </dict>
   <key>colon</key>
   <dict>
@@ -2241,3684 +111,484 @@
   </dict>
   <key>comma</key>
   <dict>
-    <key>one</key>
+    <key>one.ss01</key>
     <integer>-240</integer>
-  </dict>
-  <key>dcaron</key>
-  <dict>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>decyr</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>decyr.loclBGR</key>
-  <dict>
-    <key>quotedblleft</key>
-    <integer>-100</integer>
   </dict>
   <key>delta</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
-  </dict>
-  <key>djecyr</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>e</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>eacute</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ecaron</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ecircumflex</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ecircumflexacute</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ecircumflexdotbelow</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ecircumflexgrave</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ecircumflexhoi</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ecircumflextilde</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>edieresis</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>edotaccent</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>edotbelow</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
   </dict>
   <key>efcyr</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
-  </dict>
-  <key>egrave</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>ehoi</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>elcyr.loclBGR</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>emacron</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
   </dict>
   <key>endash</key>
   <dict>
-    <key>A</key>
-    <integer>28</integer>
-    <key>AE</key>
-    <integer>28</integer>
-    <key>Aacute</key>
-    <integer>28</integer>
-    <key>Abreve</key>
-    <integer>28</integer>
-    <key>Abreveacute</key>
-    <integer>28</integer>
-    <key>Abrevedotbelow</key>
-    <integer>28</integer>
-    <key>Abrevegrave</key>
-    <integer>28</integer>
-    <key>Abrevehoi</key>
-    <integer>28</integer>
-    <key>Abrevetilde</key>
-    <integer>28</integer>
-    <key>Acircumflex</key>
-    <integer>28</integer>
-    <key>Acircumflexacute</key>
-    <integer>28</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>28</integer>
-    <key>Acircumflexgrave</key>
-    <integer>28</integer>
-    <key>Acircumflexhoi</key>
-    <integer>28</integer>
-    <key>Acircumflextilde</key>
-    <integer>28</integer>
-    <key>Acyr</key>
-    <integer>28</integer>
-    <key>Adieresis</key>
-    <integer>28</integer>
-    <key>Adotbelow</key>
-    <integer>28</integer>
-    <key>Agrave</key>
-    <integer>28</integer>
-    <key>Ahoi</key>
-    <integer>28</integer>
-    <key>Alpha</key>
-    <integer>28</integer>
-    <key>Alphatonos</key>
-    <integer>28</integer>
-    <key>Amacron</key>
-    <integer>28</integer>
-    <key>Aogonek</key>
-    <integer>28</integer>
-    <key>Aring</key>
-    <integer>28</integer>
-    <key>Atilde</key>
-    <integer>28</integer>
-    <key>Decyr</key>
-    <integer>28</integer>
-    <key>Delta</key>
-    <integer>28</integer>
-    <key>Elcyr</key>
-    <integer>28</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>28</integer>
-    <key>Lambda</key>
-    <integer>28</integer>
-    <key>four</key>
-    <integer>28</integer>
-    <key>one</key>
-    <integer>-28</integer>
-    <key>seven</key>
-    <integer>-47</integer>
-  </dict>
-  <key>eogonek</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
+    <key>one.ss01</key>
+    <integer>-22</integer>
+    <key>seven.ss01</key>
+    <integer>-38</integer>
+    <key>public.kern2.A2</key>
+    <integer>22</integer>
   </dict>
   <key>epsilon</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>epsilontonos</key>
-  <dict>
-    <key>q</key>
     <integer>-40</integer>
   </dict>
   <key>ereversedcyr</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
-  <key>escyr</key>
+  <key>five.ss01</key>
   <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
+    <key>two.ss01</key>
+    <integer>-54</integer>
+  </dict>
+  <key>four.ss01</key>
+  <dict>
     <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>eta</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>etatonos</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>etilde</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>eukrcyr</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>f</key>
-  <dict>
-    <key>quotedblleft</key>
-    <integer>80</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>f_f</key>
-  <dict>
-    <key>quotedblleft</key>
-    <integer>80</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>five</key>
-  <dict>
-    <key>two</key>
-    <integer>-55</integer>
-  </dict>
-  <key>four</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-    <key>quoteright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>g</key>
-  <dict>
-    <key>quotedblleft</key>
-    <integer>-100</integer>
-  </dict>
-  <key>gamma</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>gbreve</key>
-  <dict>
-    <key>quotedblleft</key>
-    <integer>-100</integer>
-  </dict>
-  <key>gcircumflex</key>
-  <dict>
-    <key>quotedblleft</key>
-    <integer>-100</integer>
-  </dict>
-  <key>gcommaaccent</key>
-  <dict>
-    <key>quotedblleft</key>
-    <integer>-100</integer>
-  </dict>
-  <key>gdotaccent</key>
-  <dict>
-    <key>quotedblleft</key>
-    <integer>-100</integer>
-  </dict>
-  <key>gecyr.loclBGR</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>h</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>hacyr</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-  </dict>
-  <key>hbar</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>hcircumflex</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
     <integer>-40</integer>
   </dict>
   <key>hyphen</key>
   <dict>
-    <key>A</key>
-    <integer>-40</integer>
-    <key>AE</key>
-    <integer>-40</integer>
-    <key>Aacute</key>
-    <integer>-40</integer>
-    <key>Abreve</key>
-    <integer>-40</integer>
-    <key>Abreveacute</key>
-    <integer>-40</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-40</integer>
-    <key>Abrevegrave</key>
-    <integer>-40</integer>
-    <key>Abrevehoi</key>
-    <integer>-40</integer>
-    <key>Abrevetilde</key>
-    <integer>-40</integer>
-    <key>Acircumflex</key>
-    <integer>-40</integer>
-    <key>Acircumflexacute</key>
-    <integer>-40</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-40</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-40</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-40</integer>
-    <key>Acircumflextilde</key>
-    <integer>-40</integer>
-    <key>Acyr</key>
-    <integer>-40</integer>
-    <key>Adieresis</key>
-    <integer>-40</integer>
-    <key>Adotbelow</key>
-    <integer>-40</integer>
-    <key>Agrave</key>
-    <integer>-40</integer>
-    <key>Ahoi</key>
-    <integer>-40</integer>
-    <key>Alpha</key>
-    <integer>-40</integer>
-    <key>Alphatonos</key>
-    <integer>-40</integer>
-    <key>Amacron</key>
-    <integer>-40</integer>
-    <key>Aogonek</key>
-    <integer>-40</integer>
-    <key>Aring</key>
-    <integer>-40</integer>
-    <key>Atilde</key>
-    <integer>-40</integer>
-    <key>Chi</key>
-    <integer>-100</integer>
-    <key>Decyr</key>
-    <integer>-40</integer>
-    <key>Delta</key>
-    <integer>-40</integer>
-    <key>Djecyr</key>
-    <integer>-160</integer>
-    <key>Elcyr</key>
-    <integer>-40</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>Ereversedcyr</key>
-    <integer>-100</integer>
-    <key>Hacyr</key>
-    <integer>-100</integer>
-    <key>Hardcyr</key>
-    <integer>-160</integer>
-    <key>J</key>
-    <integer>-60</integer>
-    <key>Jcircumflex</key>
-    <integer>-60</integer>
-    <key>Lambda</key>
-    <integer>-40</integer>
-    <key>Ljecyr</key>
-    <integer>-100</integer>
-    <key>T</key>
-    <integer>-160</integer>
-    <key>Tau</key>
-    <integer>-160</integer>
-    <key>Tbar</key>
-    <integer>-100</integer>
-    <key>Tcaron</key>
-    <integer>-160</integer>
-    <key>Tcedilla</key>
-    <integer>-160</integer>
-    <key>Tcommaaccent</key>
-    <integer>-160</integer>
-    <key>Tecyr</key>
-    <integer>-160</integer>
-    <key>Tshecyr</key>
-    <integer>-90</integer>
-    <key>Ucyr</key>
-    <integer>-100</integer>
-    <key>Upsilon</key>
-    <integer>-160</integer>
-    <key>Upsilondieresis</key>
-    <integer>-160</integer>
-    <key>Upsilontonos</key>
-    <integer>-160</integer>
-    <key>Ustraightcyr</key>
-    <integer>-160</integer>
-    <key>V</key>
-    <integer>-90</integer>
-    <key>W</key>
-    <integer>-90</integer>
-    <key>Wacute</key>
-    <integer>-90</integer>
-    <key>Wcircumflex</key>
-    <integer>-90</integer>
-    <key>Wdieresis</key>
-    <integer>-90</integer>
-    <key>Wgrave</key>
-    <integer>-90</integer>
-    <key>X</key>
-    <integer>-100</integer>
-    <key>Y</key>
-    <integer>-160</integer>
-    <key>Yacute</key>
-    <integer>-160</integer>
-    <key>Ycircumflex</key>
-    <integer>-160</integer>
-    <key>Ydieresis</key>
-    <integer>-160</integer>
-    <key>Ydotbelow</key>
-    <integer>-160</integer>
-    <key>Ygrave</key>
-    <integer>-160</integer>
-    <key>Yhoi</key>
-    <integer>-160</integer>
-    <key>Ytilde</key>
-    <integer>-160</integer>
-    <key>Zhecyr</key>
-    <integer>-100</integer>
-    <key>Zhecyr.loclBGR</key>
-    <integer>-100</integer>
-    <key>chi</key>
-    <integer>-40</integer>
-    <key>four</key>
-    <integer>7</integer>
-    <key>hacyr</key>
-    <integer>-40</integer>
-    <key>three</key>
+    <key>four.ss01</key>
+    <integer>-2</integer>
+    <key>three.ss01</key>
     <integer>-80</integer>
-    <key>tugrik</key>
+    <key>public.kern2.A2</key>
+    <integer>-40</integer>
+    <key>public.kern2.J2</key>
+    <integer>-60</integer>
+    <key>public.kern2.T2</key>
     <integer>-160</integer>
-    <key>x</key>
-    <integer>-40</integer>
-    <key>yen</key>
+    <key>public.kern2.V2</key>
+    <integer>-90</integer>
+    <key>public.kern2.X2</key>
+    <integer>-100</integer>
+    <key>public.kern2.Y2</key>
     <integer>-160</integer>
-    <key>zecyr</key>
+    <key>public.kern2.x2</key>
     <integer>-40</integer>
-    <key>zhecyr</key>
-    <integer>-40</integer>
-    <key>zhecyr.loclBGR</key>
-    <integer>-40</integer>
-  </dict>
-  <key>iecyr</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>iegravecyr</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>iocyr</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>k</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-60</integer>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>kacyr</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-60</integer>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>kacyr.loclBGR</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-60</integer>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>kappa</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-60</integer>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>kcommaaccent</key>
-  <dict>
-    <key>hyphen</key>
-    <integer>-60</integer>
-    <key>q</key>
-    <integer>-60</integer>
   </dict>
   <key>lambda</key>
   <dict>
-    <key>alpha</key>
+    <key>public.kern2.c2</key>
     <integer>-60</integer>
-    <key>alphatonos</key>
-    <integer>-60</integer>
-    <key>c</key>
-    <integer>-60</integer>
-    <key>cacute</key>
-    <integer>-60</integer>
-    <key>ccaron</key>
-    <integer>-60</integer>
-    <key>ccedilla</key>
-    <integer>-60</integer>
-    <key>ccircumflex</key>
-    <integer>-60</integer>
-    <key>cdotaccent</key>
-    <integer>-60</integer>
-    <key>checyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>d</key>
-    <integer>-60</integer>
-    <key>decyr</key>
-    <integer>-60</integer>
-    <key>delta</key>
-    <integer>-60</integer>
-    <key>e</key>
-    <integer>-60</integer>
-    <key>ecircumflexacute</key>
-    <integer>-60</integer>
-    <key>ecircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ecircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ecircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ecircumflextilde</key>
-    <integer>-60</integer>
-    <key>edotbelow</key>
-    <integer>-60</integer>
-    <key>efcyr</key>
-    <integer>-60</integer>
-    <key>ehoi</key>
-    <integer>-60</integer>
-    <key>elcyr</key>
-    <integer>-60</integer>
-    <key>ereversedcyr</key>
-    <integer>-60</integer>
-    <key>escyr</key>
-    <integer>-60</integer>
-    <key>etilde</key>
-    <integer>-60</integer>
-    <key>lslash</key>
-    <integer>-60</integer>
-    <key>o</key>
-    <integer>-60</integer>
-    <key>oacute</key>
-    <integer>-60</integer>
-    <key>obarcyr</key>
-    <integer>-60</integer>
-    <key>ocircumflex</key>
-    <integer>-60</integer>
-    <key>ocircumflexacute</key>
-    <integer>-60</integer>
-    <key>ocircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ocircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ocircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ocircumflextilde</key>
-    <integer>-60</integer>
-    <key>ocyr</key>
-    <integer>-60</integer>
-    <key>odieresis</key>
-    <integer>-60</integer>
-    <key>odotbelow</key>
-    <integer>-60</integer>
-    <key>oe</key>
-    <integer>-60</integer>
-    <key>ograve</key>
-    <integer>-60</integer>
-    <key>ohoi</key>
-    <integer>-60</integer>
-    <key>ohorn</key>
-    <integer>-60</integer>
-    <key>ohornacute</key>
-    <integer>-60</integer>
-    <key>ohorndotbelow</key>
-    <integer>-60</integer>
-    <key>ohorngrave</key>
-    <integer>-60</integer>
-    <key>ohornhoi</key>
-    <integer>-60</integer>
-    <key>ohorntilde</key>
-    <integer>-60</integer>
-    <key>ohungarumlaut</key>
-    <integer>-60</integer>
-    <key>omacron</key>
-    <integer>-60</integer>
-    <key>omega</key>
-    <integer>-60</integer>
-    <key>omegatonos</key>
-    <integer>-60</integer>
-    <key>omicron</key>
-    <integer>-60</integer>
-    <key>omicrontonos</key>
-    <integer>-60</integer>
-    <key>oslash</key>
-    <integer>-60</integer>
-    <key>otilde</key>
-    <integer>-60</integer>
-    <key>phi</key>
-    <integer>-60</integer>
-    <key>schwa</key>
-    <integer>-60</integer>
-    <key>sigma</key>
-    <integer>-60</integer>
-    <key>sigmafinal</key>
-    <integer>-60</integer>
-    <key>tau</key>
+    <key>public.kern2.tau</key>
     <integer>-80</integer>
-    <key>tecyr</key>
-    <integer>-80</integer>
-    <key>zecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>zeta</key>
-    <integer>-60</integer>
   </dict>
-  <key>lcaron</key>
+  <key>nine.ss01</key>
   <dict>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>lownumeralsign</key>
-  <dict>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>lslash</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-  </dict>
-  <key>m</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>n</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>nine</key>
-  <dict>
-    <key>comma</key>
-    <integer>-28</integer>
-    <key>period</key>
-    <integer>-28</integer>
-    <key>seven</key>
-    <integer>-19</integer>
-  </dict>
-  <key>nu</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>numeralsign</key>
-  <dict>
-    <key>q</key>
-    <integer>-60</integer>
+    <key>seven.ss01</key>
+    <integer>-15</integer>
+    <key>public.kern2.comma</key>
+    <integer>-22</integer>
   </dict>
   <key>o</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>oacute</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>obarcyr</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ocircumflex</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ocircumflexacute</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ocircumflexdotbelow</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ocircumflexgrave</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ocircumflexhoi</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ocircumflextilde</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ocyr</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>odieresis</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>odotbelow</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
-  <key>oe</key>
-  <dict>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
   <key>ograve</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ohoi</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ohorn</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ohornacute</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ohorndotbelow</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ohorngrave</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ohornhoi</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ohorntilde</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ohungarumlaut</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>omacron</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>omega</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>omegatonos</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>omicron</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>omicrontonos</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
-  <key>one</key>
+  <key>one.ss01</key>
   <dict>
-    <key>comma</key>
-    <integer>-80</integer>
     <key>emdash</key>
-    <integer>-19</integer>
-    <key>period</key>
+    <integer>-15</integer>
+    <key>public.kern2.comma</key>
     <integer>-80</integer>
   </dict>
   <key>oslash</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>otilde</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>p</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
-  </dict>
-  <key>parenleft</key>
-  <dict>
-    <key>q</key>
-    <integer>-80</integer>
-    <key>seven</key>
-    <integer>38</integer>
-  </dict>
-  <key>parenleft.case</key>
-  <dict>
-    <key>q</key>
-    <integer>-80</integer>
-    <key>seven</key>
-    <integer>38</integer>
   </dict>
   <key>period</key>
   <dict>
-    <key>one</key>
+    <key>one.ss01</key>
     <integer>-240</integer>
     <key>quotedblright</key>
-    <integer>-183</integer>
+    <integer>-194</integer>
   </dict>
   <key>phi</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>pi</key>
-  <dict>
-    <key>quotedblleft</key>
-    <integer>80</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>psi</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
     <integer>-40</integer>
   </dict>
   <key>q</key>
   <dict>
-    <key>Upsilon</key>
-    <integer>-80</integer>
-    <key>Upsilondieresis</key>
-    <integer>-80</integer>
-    <key>Upsilontonos</key>
-    <integer>-80</integer>
-    <key>Ustraightcyr</key>
-    <integer>-80</integer>
-    <key>Y</key>
-    <integer>-80</integer>
-    <key>Yacute</key>
-    <integer>-80</integer>
-    <key>Ycircumflex</key>
-    <integer>-80</integer>
-    <key>Ydieresis</key>
-    <integer>-80</integer>
-    <key>Ydotbelow</key>
-    <integer>-80</integer>
-    <key>Ygrave</key>
-    <integer>-80</integer>
-    <key>Yhoi</key>
-    <integer>-80</integer>
-    <key>Ytilde</key>
-    <integer>-80</integer>
-    <key>yen</key>
+    <key>public.kern2.Y2</key>
     <integer>-80</integer>
   </dict>
   <key>quotedbl</key>
   <dict>
-    <key>alpha</key>
-    <integer>-60</integer>
-    <key>alphatonos</key>
-    <integer>-60</integer>
-    <key>c</key>
-    <integer>-60</integer>
-    <key>cacute</key>
-    <integer>-60</integer>
-    <key>ccaron</key>
-    <integer>-60</integer>
-    <key>ccedilla</key>
-    <integer>-60</integer>
-    <key>ccircumflex</key>
-    <integer>-60</integer>
-    <key>cdotaccent</key>
-    <integer>-60</integer>
-    <key>cent</key>
-    <integer>-60</integer>
-    <key>checyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>comma</key>
-    <integer>-420</integer>
-    <key>d</key>
-    <integer>-60</integer>
-    <key>dcaron</key>
-    <integer>-60</integer>
-    <key>dcroat</key>
-    <integer>-60</integer>
-    <key>decyr</key>
-    <integer>-60</integer>
-    <key>decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>delta</key>
-    <integer>-60</integer>
-    <key>e</key>
-    <integer>-60</integer>
-    <key>ecircumflexacute</key>
-    <integer>-60</integer>
-    <key>ecircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ecircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ecircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ecircumflextilde</key>
-    <integer>-60</integer>
-    <key>edotbelow</key>
-    <integer>-60</integer>
-    <key>efcyr</key>
-    <integer>-60</integer>
-    <key>ehoi</key>
-    <integer>-60</integer>
-    <key>elcyr</key>
-    <integer>-60</integer>
-    <key>ereversedcyr</key>
-    <integer>-60</integer>
-    <key>escyr</key>
-    <integer>-60</integer>
-    <key>eth</key>
-    <integer>-60</integer>
-    <key>etilde</key>
-    <integer>-60</integer>
-    <key>eukrcyr</key>
-    <integer>-60</integer>
-    <key>g</key>
-    <integer>-60</integer>
-    <key>gbreve</key>
-    <integer>-60</integer>
-    <key>gcircumflex</key>
-    <integer>-60</integer>
-    <key>gcommaaccent</key>
-    <integer>-60</integer>
-    <key>gdotaccent</key>
-    <integer>-60</integer>
-    <key>gecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>lslash</key>
-    <integer>-60</integer>
-    <key>o</key>
-    <integer>-60</integer>
-    <key>oacute</key>
-    <integer>-60</integer>
-    <key>obarcyr</key>
-    <integer>-60</integer>
-    <key>ocircumflex</key>
-    <integer>-60</integer>
-    <key>ocircumflexacute</key>
-    <integer>-60</integer>
-    <key>ocircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ocircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ocircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ocircumflextilde</key>
-    <integer>-60</integer>
-    <key>ocyr</key>
-    <integer>-60</integer>
-    <key>odieresis</key>
-    <integer>-60</integer>
-    <key>odotbelow</key>
-    <integer>-60</integer>
-    <key>oe</key>
-    <integer>-60</integer>
-    <key>ograve</key>
-    <integer>-60</integer>
-    <key>ohoi</key>
-    <integer>-60</integer>
-    <key>ohorn</key>
-    <integer>-60</integer>
-    <key>ohornacute</key>
-    <integer>-60</integer>
-    <key>ohorndotbelow</key>
-    <integer>-60</integer>
-    <key>ohorngrave</key>
-    <integer>-60</integer>
-    <key>ohornhoi</key>
-    <integer>-60</integer>
-    <key>ohorntilde</key>
-    <integer>-60</integer>
-    <key>ohungarumlaut</key>
-    <integer>-60</integer>
-    <key>omacron</key>
-    <integer>-60</integer>
-    <key>omega</key>
-    <integer>-60</integer>
-    <key>omegatonos</key>
-    <integer>-60</integer>
-    <key>omicron</key>
-    <integer>-60</integer>
-    <key>omicrontonos</key>
-    <integer>-60</integer>
-    <key>oslash</key>
-    <integer>-60</integer>
-    <key>otilde</key>
-    <integer>-60</integer>
-    <key>period</key>
-    <integer>-420</integer>
-    <key>phi</key>
-    <integer>-60</integer>
     <key>q</key>
     <integer>-60</integer>
-    <key>s</key>
+    <key>public.kern2.c2</key>
     <integer>-60</integer>
-    <key>sacute</key>
+    <key>public.kern2.comma</key>
+    <integer>-420</integer>
+    <key>public.kern2.eth2</key>
     <integer>-60</integer>
-    <key>scaron</key>
+    <key>public.kern2.g2</key>
     <integer>-60</integer>
-    <key>scedilla</key>
+    <key>public.kern2.s2</key>
     <integer>-60</integer>
-    <key>schwa</key>
-    <integer>-60</integer>
-    <key>scircumflex</key>
-    <integer>-60</integer>
-    <key>scommaaccent</key>
-    <integer>-60</integer>
-    <key>sigma</key>
-    <integer>-60</integer>
-    <key>sigmafinal</key>
-    <integer>-60</integer>
-    <key>xi</key>
-    <integer>-60</integer>
-    <key>zecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>zeta</key>
+    <key>public.kern2.xi</key>
     <integer>-60</integer>
   </dict>
   <key>quotedblbase</key>
   <dict>
-    <key>Cacute</key>
+    <key>public.kern2.G2</key>
     <integer>-60</integer>
-    <key>Ccaron</key>
-    <integer>-60</integer>
-    <key>Ccedilla</key>
-    <integer>-60</integer>
-    <key>Cdotaccent</key>
-    <integer>-60</integer>
-    <key>Djecyr</key>
+    <key>public.kern2.T2</key>
     <integer>-160</integer>
-    <key>Efcyr</key>
-    <integer>-60</integer>
-    <key>Escyr</key>
-    <integer>-60</integer>
-    <key>G</key>
-    <integer>-60</integer>
-    <key>Gbreve</key>
-    <integer>-60</integer>
-    <key>Gcircumflex</key>
-    <integer>-60</integer>
-    <key>Hardcyr</key>
+    <key>public.kern2.V2</key>
     <integer>-160</integer>
-    <key>O</key>
+    <key>public.kern2.c2</key>
     <integer>-60</integer>
-    <key>OE</key>
+    <key>public.kern2.s2</key>
     <integer>-60</integer>
-    <key>Oacute</key>
-    <integer>-60</integer>
-    <key>Obarcyr</key>
-    <integer>-60</integer>
-    <key>Ocircumflex</key>
-    <integer>-60</integer>
-    <key>Ocircumflexacute</key>
-    <integer>-60</integer>
-    <key>Ocircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>Ocircumflexgrave</key>
-    <integer>-60</integer>
-    <key>Ocircumflexhoi</key>
-    <integer>-60</integer>
-    <key>Ocircumflextilde</key>
-    <integer>-60</integer>
-    <key>Ocyr</key>
-    <integer>-60</integer>
-    <key>Odieresis</key>
-    <integer>-60</integer>
-    <key>Odotbelow</key>
-    <integer>-60</integer>
-    <key>Ograve</key>
-    <integer>-60</integer>
-    <key>Ohoi</key>
-    <integer>-60</integer>
-    <key>Ohorn</key>
-    <integer>-60</integer>
-    <key>Ohornacute</key>
-    <integer>-60</integer>
-    <key>Ohorndotbelow</key>
-    <integer>-60</integer>
-    <key>Ohorngrave</key>
-    <integer>-60</integer>
-    <key>Ohornhoi</key>
-    <integer>-60</integer>
-    <key>Ohorntilde</key>
-    <integer>-60</integer>
-    <key>Ohungarumlaut</key>
-    <integer>-60</integer>
-    <key>Omacron</key>
-    <integer>-60</integer>
-    <key>Omega</key>
-    <integer>-60</integer>
-    <key>Omegatonos</key>
-    <integer>-60</integer>
-    <key>Omicron</key>
-    <integer>-60</integer>
-    <key>Omicrontonos</key>
-    <integer>-60</integer>
-    <key>Oslash</key>
-    <integer>-60</integer>
-    <key>Otilde</key>
-    <integer>-60</integer>
-    <key>Phi</key>
-    <integer>-60</integer>
-    <key>Q</key>
-    <integer>-60</integer>
-    <key>T</key>
+    <key>public.kern2.v2</key>
     <integer>-160</integer>
-    <key>Tau</key>
-    <integer>-160</integer>
-    <key>Tcaron</key>
-    <integer>-160</integer>
-    <key>Tcedilla</key>
-    <integer>-160</integer>
-    <key>Tcommaaccent</key>
-    <integer>-160</integer>
-    <key>Tecyr</key>
-    <integer>-160</integer>
-    <key>Theta</key>
-    <integer>-60</integer>
-    <key>Tshecyr</key>
-    <integer>-160</integer>
-    <key>V</key>
-    <integer>-160</integer>
-    <key>W</key>
-    <integer>-160</integer>
-    <key>Wacute</key>
-    <integer>-160</integer>
-    <key>Wcircumflex</key>
-    <integer>-160</integer>
-    <key>Wdieresis</key>
-    <integer>-160</integer>
-    <key>Wgrave</key>
-    <integer>-160</integer>
-    <key>Zecyr</key>
-    <integer>-60</integer>
-    <key>alpha</key>
-    <integer>-60</integer>
-    <key>alphatonos</key>
-    <integer>-60</integer>
-    <key>c</key>
-    <integer>-60</integer>
-    <key>cacute</key>
-    <integer>-60</integer>
-    <key>ccaron</key>
-    <integer>-60</integer>
-    <key>ccedilla</key>
-    <integer>-60</integer>
-    <key>ccircumflex</key>
-    <integer>-60</integer>
-    <key>cdotaccent</key>
-    <integer>-60</integer>
-    <key>checyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>currency</key>
-    <integer>-60</integer>
-    <key>d</key>
-    <integer>-60</integer>
-    <key>decyr</key>
-    <integer>-60</integer>
-    <key>delta</key>
-    <integer>-60</integer>
-    <key>e</key>
-    <integer>-60</integer>
-    <key>ecircumflexacute</key>
-    <integer>-60</integer>
-    <key>ecircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ecircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ecircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ecircumflextilde</key>
-    <integer>-60</integer>
-    <key>edotbelow</key>
-    <integer>-60</integer>
-    <key>efcyr</key>
-    <integer>-60</integer>
-    <key>ehoi</key>
-    <integer>-60</integer>
-    <key>elcyr</key>
-    <integer>-60</integer>
-    <key>elcyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>ereversedcyr</key>
-    <integer>-60</integer>
-    <key>escyr</key>
-    <integer>-60</integer>
-    <key>etilde</key>
-    <integer>-60</integer>
-    <key>gamma</key>
-    <integer>-160</integer>
-    <key>gecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>lslash</key>
-    <integer>-60</integer>
-    <key>nu</key>
-    <integer>-160</integer>
-    <key>o</key>
-    <integer>-60</integer>
-    <key>oacute</key>
-    <integer>-60</integer>
-    <key>obarcyr</key>
-    <integer>-60</integer>
-    <key>ocircumflex</key>
-    <integer>-60</integer>
-    <key>ocircumflexacute</key>
-    <integer>-60</integer>
-    <key>ocircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ocircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ocircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ocircumflextilde</key>
-    <integer>-60</integer>
-    <key>ocyr</key>
-    <integer>-60</integer>
-    <key>odieresis</key>
-    <integer>-60</integer>
-    <key>odotbelow</key>
-    <integer>-60</integer>
-    <key>oe</key>
-    <integer>-60</integer>
-    <key>ograve</key>
-    <integer>-60</integer>
-    <key>ohoi</key>
-    <integer>-60</integer>
-    <key>ohorn</key>
-    <integer>-60</integer>
-    <key>ohornacute</key>
-    <integer>-60</integer>
-    <key>ohorndotbelow</key>
-    <integer>-60</integer>
-    <key>ohorngrave</key>
-    <integer>-60</integer>
-    <key>ohornhoi</key>
-    <integer>-60</integer>
-    <key>ohorntilde</key>
-    <integer>-60</integer>
-    <key>ohungarumlaut</key>
-    <integer>-60</integer>
-    <key>omacron</key>
-    <integer>-60</integer>
-    <key>omega</key>
-    <integer>-60</integer>
-    <key>omegatonos</key>
-    <integer>-60</integer>
-    <key>omicron</key>
-    <integer>-60</integer>
-    <key>omicrontonos</key>
-    <integer>-60</integer>
-    <key>oslash</key>
-    <integer>-60</integer>
-    <key>otilde</key>
-    <integer>-60</integer>
-    <key>phi</key>
-    <integer>-60</integer>
-    <key>s</key>
-    <integer>-60</integer>
-    <key>sacute</key>
-    <integer>-60</integer>
-    <key>scaron</key>
-    <integer>-60</integer>
-    <key>scedilla</key>
-    <integer>-60</integer>
-    <key>schwa</key>
-    <integer>-60</integer>
-    <key>scircumflex</key>
-    <integer>-60</integer>
-    <key>scommaaccent</key>
-    <integer>-60</integer>
-    <key>sigma</key>
-    <integer>-60</integer>
-    <key>sigmafinal</key>
-    <integer>-60</integer>
-    <key>theta</key>
-    <integer>-60</integer>
-    <key>tugrik</key>
-    <integer>-160</integer>
-    <key>ustraightcyr</key>
-    <integer>-160</integer>
-    <key>v</key>
-    <integer>-160</integer>
-    <key>w</key>
-    <integer>-160</integer>
-    <key>wacute</key>
-    <integer>-160</integer>
-    <key>wcircumflex</key>
-    <integer>-160</integer>
-    <key>wdieresis</key>
-    <integer>-160</integer>
-    <key>wgrave</key>
-    <integer>-160</integer>
-    <key>zecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>zeta</key>
-    <integer>-60</integer>
   </dict>
   <key>quotedblleft</key>
   <dict>
-    <key>A</key>
-    <integer>-240</integer>
-    <key>AE</key>
-    <integer>-240</integer>
-    <key>Aacute</key>
-    <integer>-240</integer>
-    <key>Abreve</key>
-    <integer>-240</integer>
-    <key>Abreveacute</key>
-    <integer>-240</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-240</integer>
-    <key>Abrevegrave</key>
-    <integer>-240</integer>
-    <key>Abrevehoi</key>
-    <integer>-240</integer>
-    <key>Abrevetilde</key>
-    <integer>-240</integer>
-    <key>Acircumflex</key>
-    <integer>-240</integer>
-    <key>Acircumflexacute</key>
-    <integer>-240</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-240</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-240</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-240</integer>
-    <key>Acircumflextilde</key>
-    <integer>-240</integer>
-    <key>Acyr</key>
-    <integer>-240</integer>
-    <key>Adieresis</key>
-    <integer>-240</integer>
-    <key>Adotbelow</key>
-    <integer>-240</integer>
-    <key>Agrave</key>
-    <integer>-240</integer>
-    <key>Ahoi</key>
-    <integer>-240</integer>
-    <key>Alpha</key>
-    <integer>-240</integer>
-    <key>Alphatonos</key>
-    <integer>-240</integer>
-    <key>Amacron</key>
-    <integer>-240</integer>
-    <key>Aogonek</key>
-    <integer>-240</integer>
-    <key>Aring</key>
-    <integer>-240</integer>
-    <key>Atilde</key>
-    <integer>-240</integer>
-    <key>Decyr</key>
-    <integer>-240</integer>
-    <key>Delta</key>
-    <integer>-240</integer>
-    <key>Elcyr</key>
-    <integer>-240</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-240</integer>
-    <key>J</key>
-    <integer>-240</integer>
-    <key>Jcircumflex</key>
-    <integer>-240</integer>
-    <key>Lambda</key>
-    <integer>-240</integer>
-    <key>a</key>
-    <integer>-60</integer>
-    <key>aacute</key>
-    <integer>-60</integer>
-    <key>abreve</key>
-    <integer>-60</integer>
-    <key>abreveacute</key>
-    <integer>-60</integer>
-    <key>abrevedotbelow</key>
-    <integer>-60</integer>
-    <key>abrevegrave</key>
-    <integer>-60</integer>
-    <key>abrevehoi</key>
-    <integer>-60</integer>
-    <key>abrevetilde</key>
-    <integer>-60</integer>
-    <key>acircumflex</key>
-    <integer>-60</integer>
-    <key>acircumflexacute</key>
-    <integer>-60</integer>
-    <key>acircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>acircumflexgrave</key>
-    <integer>-60</integer>
-    <key>acircumflexhoi</key>
-    <integer>-60</integer>
-    <key>acircumflextilde</key>
-    <integer>-60</integer>
-    <key>acyr</key>
-    <integer>-60</integer>
-    <key>adieresis</key>
-    <integer>-60</integer>
-    <key>adotbelow</key>
-    <integer>-60</integer>
-    <key>ae</key>
-    <integer>-60</integer>
-    <key>agrave</key>
-    <integer>-60</integer>
-    <key>ahoi</key>
-    <integer>-60</integer>
-    <key>alpha</key>
-    <integer>-60</integer>
-    <key>alphatonos</key>
-    <integer>-60</integer>
-    <key>amacron</key>
-    <integer>-60</integer>
-    <key>aogonek</key>
-    <integer>-60</integer>
-    <key>aring</key>
-    <integer>-60</integer>
-    <key>atilde</key>
-    <integer>-60</integer>
-    <key>c</key>
-    <integer>-60</integer>
-    <key>cacute</key>
-    <integer>-60</integer>
-    <key>ccaron</key>
-    <integer>-60</integer>
-    <key>ccedilla</key>
-    <integer>-60</integer>
-    <key>ccircumflex</key>
-    <integer>-60</integer>
-    <key>cdotaccent</key>
-    <integer>-60</integer>
-    <key>cent</key>
-    <integer>-60</integer>
-    <key>checyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>d</key>
-    <integer>-60</integer>
-    <key>dcaron</key>
-    <integer>-60</integer>
-    <key>dcroat</key>
-    <integer>-60</integer>
-    <key>decyr</key>
-    <integer>-60</integer>
-    <key>decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>delta</key>
-    <integer>-60</integer>
-    <key>e</key>
-    <integer>-60</integer>
-    <key>ecircumflexacute</key>
-    <integer>-60</integer>
-    <key>ecircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ecircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ecircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ecircumflextilde</key>
-    <integer>-60</integer>
-    <key>edotbelow</key>
-    <integer>-60</integer>
-    <key>efcyr</key>
-    <integer>-60</integer>
-    <key>ehoi</key>
-    <integer>-60</integer>
-    <key>elcyr</key>
-    <integer>-60</integer>
-    <key>ereversedcyr</key>
-    <integer>-60</integer>
-    <key>escyr</key>
-    <integer>-60</integer>
-    <key>eth</key>
-    <integer>-60</integer>
-    <key>etilde</key>
-    <integer>-60</integer>
-    <key>eukrcyr</key>
-    <integer>-60</integer>
-    <key>four</key>
-    <integer>-240</integer>
-    <key>g</key>
-    <integer>-60</integer>
-    <key>gbreve</key>
-    <integer>-60</integer>
-    <key>gcircumflex</key>
-    <integer>-60</integer>
-    <key>gcommaaccent</key>
-    <integer>-60</integer>
-    <key>gdotaccent</key>
-    <integer>-60</integer>
-    <key>gecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>lslash</key>
-    <integer>-60</integer>
-    <key>o</key>
-    <integer>-60</integer>
-    <key>oacute</key>
-    <integer>-60</integer>
-    <key>obarcyr</key>
-    <integer>-60</integer>
-    <key>ocircumflex</key>
-    <integer>-60</integer>
-    <key>ocircumflexacute</key>
-    <integer>-60</integer>
-    <key>ocircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ocircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ocircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ocircumflextilde</key>
-    <integer>-60</integer>
-    <key>ocyr</key>
-    <integer>-60</integer>
-    <key>odieresis</key>
-    <integer>-60</integer>
-    <key>odotbelow</key>
-    <integer>-60</integer>
-    <key>oe</key>
-    <integer>-60</integer>
-    <key>ograve</key>
-    <integer>-60</integer>
-    <key>ohoi</key>
-    <integer>-60</integer>
-    <key>ohorn</key>
-    <integer>-60</integer>
-    <key>ohornacute</key>
-    <integer>-60</integer>
-    <key>ohorndotbelow</key>
-    <integer>-60</integer>
-    <key>ohorngrave</key>
-    <integer>-60</integer>
-    <key>ohornhoi</key>
-    <integer>-60</integer>
-    <key>ohorntilde</key>
-    <integer>-60</integer>
-    <key>ohungarumlaut</key>
-    <integer>-60</integer>
-    <key>omacron</key>
-    <integer>-60</integer>
-    <key>omega</key>
-    <integer>-60</integer>
-    <key>omegatonos</key>
-    <integer>-60</integer>
-    <key>omicron</key>
-    <integer>-60</integer>
-    <key>omicrontonos</key>
-    <integer>-60</integer>
-    <key>oslash</key>
-    <integer>-60</integer>
-    <key>otilde</key>
-    <integer>-60</integer>
-    <key>phi</key>
-    <integer>-60</integer>
     <key>q</key>
     <integer>-60</integer>
-    <key>s</key>
+    <key>public.kern2.A2</key>
+    <integer>-240</integer>
+    <key>public.kern2.J2</key>
+    <integer>-240</integer>
+    <key>public.kern2.a2</key>
     <integer>-60</integer>
-    <key>sacute</key>
+    <key>public.kern2.c2</key>
     <integer>-60</integer>
-    <key>scaron</key>
+    <key>public.kern2.eth2</key>
     <integer>-60</integer>
-    <key>scedilla</key>
+    <key>public.kern2.g2</key>
     <integer>-60</integer>
-    <key>schwa</key>
+    <key>public.kern2.s2</key>
     <integer>-60</integer>
-    <key>scircumflex</key>
-    <integer>-60</integer>
-    <key>scommaaccent</key>
-    <integer>-60</integer>
-    <key>sigma</key>
-    <integer>-60</integer>
-    <key>sigmafinal</key>
-    <integer>-60</integer>
-    <key>t</key>
+    <key>public.kern2.t2</key>
     <integer>60</integer>
-    <key>tbar</key>
-    <integer>60</integer>
-    <key>tcaron</key>
-    <integer>60</integer>
-    <key>tcedilla</key>
-    <integer>60</integer>
-    <key>tcommaaccent</key>
-    <integer>60</integer>
-    <key>xi</key>
-    <integer>-60</integer>
-    <key>yacyr</key>
-    <integer>-60</integer>
-    <key>zecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>zeta</key>
+    <key>public.kern2.xi</key>
     <integer>-60</integer>
   </dict>
   <key>quotedblright</key>
   <dict>
-    <key>A</key>
-    <integer>-240</integer>
-    <key>AE</key>
-    <integer>-240</integer>
-    <key>Aacute</key>
-    <integer>-240</integer>
-    <key>Abreve</key>
-    <integer>-240</integer>
-    <key>Abreveacute</key>
-    <integer>-240</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-240</integer>
-    <key>Abrevegrave</key>
-    <integer>-240</integer>
-    <key>Abrevehoi</key>
-    <integer>-240</integer>
-    <key>Abrevetilde</key>
-    <integer>-240</integer>
-    <key>Acircumflex</key>
-    <integer>-240</integer>
-    <key>Acircumflexacute</key>
-    <integer>-240</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-240</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-240</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-240</integer>
-    <key>Acircumflextilde</key>
-    <integer>-240</integer>
-    <key>Acyr</key>
-    <integer>-240</integer>
-    <key>Adieresis</key>
-    <integer>-240</integer>
-    <key>Adotbelow</key>
-    <integer>-240</integer>
-    <key>Agrave</key>
-    <integer>-240</integer>
-    <key>Ahoi</key>
-    <integer>-240</integer>
-    <key>Alpha</key>
-    <integer>-240</integer>
-    <key>Alphatonos</key>
-    <integer>-240</integer>
-    <key>Amacron</key>
-    <integer>-240</integer>
-    <key>Aogonek</key>
-    <integer>-240</integer>
-    <key>Aring</key>
-    <integer>-240</integer>
-    <key>Atilde</key>
-    <integer>-240</integer>
-    <key>Decyr</key>
-    <integer>-240</integer>
-    <key>Delta</key>
-    <integer>-240</integer>
-    <key>Elcyr</key>
-    <integer>-240</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-240</integer>
-    <key>J</key>
-    <integer>-200</integer>
-    <key>Jcircumflex</key>
-    <integer>-200</integer>
-    <key>Lambda</key>
-    <integer>-240</integer>
-    <key>alpha</key>
-    <integer>-60</integer>
-    <key>alphatonos</key>
-    <integer>-60</integer>
-    <key>c</key>
-    <integer>-60</integer>
-    <key>cacute</key>
-    <integer>-60</integer>
-    <key>ccaron</key>
-    <integer>-60</integer>
-    <key>ccedilla</key>
-    <integer>-60</integer>
-    <key>ccircumflex</key>
-    <integer>-60</integer>
-    <key>cdotaccent</key>
-    <integer>-60</integer>
-    <key>cent</key>
-    <integer>-60</integer>
-    <key>checyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>colon</key>
-    <integer>-280</integer>
-    <key>colon.case</key>
-    <integer>-280</integer>
-    <key>comma</key>
-    <integer>-360</integer>
-    <key>d</key>
-    <integer>-60</integer>
-    <key>dcaron</key>
-    <integer>-60</integer>
-    <key>dcroat</key>
-    <integer>-60</integer>
-    <key>decyr</key>
-    <integer>-60</integer>
-    <key>decyr.loclBGR</key>
-    <integer>-80</integer>
-    <key>delta</key>
-    <integer>-60</integer>
-    <key>e</key>
-    <integer>-60</integer>
-    <key>ecircumflexacute</key>
-    <integer>-60</integer>
-    <key>ecircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ecircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ecircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ecircumflextilde</key>
-    <integer>-60</integer>
-    <key>edotbelow</key>
-    <integer>-60</integer>
-    <key>efcyr</key>
-    <integer>-60</integer>
-    <key>ehoi</key>
-    <integer>-60</integer>
-    <key>elcyr</key>
-    <integer>-60</integer>
-    <key>ereversedcyr</key>
-    <integer>-60</integer>
-    <key>escyr</key>
-    <integer>-60</integer>
-    <key>eth</key>
-    <integer>-60</integer>
-    <key>etilde</key>
-    <integer>-60</integer>
-    <key>eukrcyr</key>
-    <integer>-60</integer>
-    <key>f</key>
-    <integer>-60</integer>
-    <key>f_f</key>
-    <integer>-60</integer>
-    <key>f_f_l</key>
-    <integer>-60</integer>
-    <key>fl</key>
-    <integer>-60</integer>
-    <key>four</key>
-    <integer>-240</integer>
-    <key>g</key>
-    <integer>-80</integer>
-    <key>gbreve</key>
-    <integer>-80</integer>
-    <key>gcircumflex</key>
-    <integer>-80</integer>
-    <key>gcommaaccent</key>
-    <integer>-80</integer>
-    <key>gdotaccent</key>
-    <integer>-80</integer>
-    <key>gecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>lslash</key>
-    <integer>-60</integer>
-    <key>o</key>
-    <integer>-60</integer>
-    <key>oacute</key>
-    <integer>-60</integer>
-    <key>obarcyr</key>
-    <integer>-60</integer>
-    <key>ocircumflex</key>
-    <integer>-60</integer>
-    <key>ocircumflexacute</key>
-    <integer>-60</integer>
-    <key>ocircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ocircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ocircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ocircumflextilde</key>
-    <integer>-60</integer>
-    <key>ocyr</key>
-    <integer>-60</integer>
-    <key>odieresis</key>
-    <integer>-60</integer>
-    <key>odotbelow</key>
-    <integer>-60</integer>
-    <key>oe</key>
-    <integer>-60</integer>
-    <key>ograve</key>
-    <integer>-60</integer>
-    <key>ohoi</key>
-    <integer>-60</integer>
-    <key>ohorn</key>
-    <integer>-60</integer>
-    <key>ohornacute</key>
-    <integer>-60</integer>
-    <key>ohorndotbelow</key>
-    <integer>-60</integer>
-    <key>ohorngrave</key>
-    <integer>-60</integer>
-    <key>ohornhoi</key>
-    <integer>-60</integer>
-    <key>ohorntilde</key>
-    <integer>-60</integer>
-    <key>ohungarumlaut</key>
-    <integer>-60</integer>
-    <key>omacron</key>
-    <integer>-60</integer>
-    <key>omega</key>
-    <integer>-60</integer>
-    <key>omegatonos</key>
-    <integer>-60</integer>
-    <key>omicron</key>
-    <integer>-60</integer>
-    <key>omicrontonos</key>
-    <integer>-60</integer>
-    <key>oslash</key>
-    <integer>-60</integer>
-    <key>otilde</key>
-    <integer>-60</integer>
-    <key>period</key>
-    <integer>-360</integer>
-    <key>phi</key>
-    <integer>-60</integer>
-    <key>pi</key>
-    <integer>-60</integer>
     <key>q</key>
     <integer>-60</integer>
-    <key>s</key>
+    <key>public.kern2.A2</key>
+    <integer>-240</integer>
+    <key>public.kern2.J2</key>
+    <integer>-200</integer>
+    <key>public.kern2.c2</key>
     <integer>-60</integer>
-    <key>sacute</key>
-    <integer>-60</integer>
-    <key>scaron</key>
-    <integer>-60</integer>
-    <key>scedilla</key>
-    <integer>-60</integer>
-    <key>schwa</key>
-    <integer>-60</integer>
-    <key>scircumflex</key>
-    <integer>-60</integer>
-    <key>scommaaccent</key>
-    <integer>-60</integer>
-    <key>semicolon</key>
+    <key>public.kern2.colon</key>
     <integer>-280</integer>
-    <key>sigma</key>
+    <key>public.kern2.comma</key>
+    <integer>-360</integer>
+    <key>public.kern2.eth2</key>
     <integer>-60</integer>
-    <key>sigmafinal</key>
+    <key>public.kern2.f2</key>
     <integer>-60</integer>
-    <key>xi</key>
+    <key>public.kern2.g2</key>
+    <integer>-80</integer>
+    <key>public.kern2.s2</key>
     <integer>-60</integer>
-    <key>zecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>zeta</key>
+    <key>public.kern2.xi</key>
     <integer>-60</integer>
   </dict>
   <key>quoteright</key>
   <dict>
-    <key>cent</key>
+    <key>public.kern2.xi</key>
     <integer>-80</integer>
-    <key>eukrcyr</key>
-    <integer>-80</integer>
-    <key>q</key>
-    <integer>-60</integer>
-    <key>xi</key>
-    <integer>-80</integer>
-  </dict>
-  <key>quotesingle</key>
-  <dict>
-    <key>q</key>
-    <integer>-60</integer>
   </dict>
   <key>rho</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
   <key>ruble</key>
   <dict>
-    <key>A</key>
-    <integer>-63</integer>
-    <key>AE</key>
-    <integer>-63</integer>
-    <key>Aacute</key>
-    <integer>-63</integer>
-    <key>Abreve</key>
-    <integer>-63</integer>
-    <key>Abreveacute</key>
-    <integer>-63</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-63</integer>
-    <key>Abrevegrave</key>
-    <integer>-63</integer>
-    <key>Abrevehoi</key>
-    <integer>-63</integer>
-    <key>Abrevetilde</key>
-    <integer>-63</integer>
-    <key>Acircumflex</key>
-    <integer>-63</integer>
-    <key>Acircumflexacute</key>
-    <integer>-63</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-63</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-63</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-63</integer>
-    <key>Acircumflextilde</key>
-    <integer>-63</integer>
-    <key>Acyr</key>
-    <integer>-63</integer>
-    <key>Adieresis</key>
-    <integer>-63</integer>
-    <key>Adotbelow</key>
-    <integer>-63</integer>
-    <key>Agrave</key>
-    <integer>-63</integer>
-    <key>Ahoi</key>
-    <integer>-63</integer>
-    <key>Alpha</key>
-    <integer>-63</integer>
-    <key>Alphatonos</key>
-    <integer>-63</integer>
-    <key>Amacron</key>
-    <integer>-63</integer>
-    <key>Aogonek</key>
-    <integer>-63</integer>
-    <key>Aring</key>
-    <integer>-63</integer>
-    <key>Atilde</key>
-    <integer>-63</integer>
-    <key>Decyr</key>
-    <integer>-63</integer>
-    <key>Delta</key>
-    <integer>-63</integer>
-    <key>Elcyr</key>
-    <integer>-63</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-63</integer>
-    <key>Lambda</key>
-    <integer>-63</integer>
-    <key>four</key>
-    <integer>-63</integer>
-  </dict>
-  <key>s</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>sacute</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>scaron</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>scedilla</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
+    <key>public.kern2.A2</key>
+    <integer>-74</integer>
   </dict>
   <key>schwa</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
   </dict>
-  <key>scircumflex</key>
+  <key>seven.ss01</key>
   <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>scommaaccent</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>seven</key>
-  <dict>
-    <key>A</key>
-    <integer>-80</integer>
-    <key>AE</key>
-    <integer>-80</integer>
-    <key>Aacute</key>
-    <integer>-80</integer>
-    <key>Abreve</key>
-    <integer>-80</integer>
-    <key>Abreveacute</key>
-    <integer>-80</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-80</integer>
-    <key>Abrevegrave</key>
-    <integer>-80</integer>
-    <key>Abrevehoi</key>
-    <integer>-80</integer>
-    <key>Abrevetilde</key>
-    <integer>-80</integer>
-    <key>Acircumflex</key>
-    <integer>-80</integer>
-    <key>Acircumflexacute</key>
-    <integer>-80</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-80</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-80</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-80</integer>
-    <key>Acircumflextilde</key>
-    <integer>-80</integer>
-    <key>Acyr</key>
-    <integer>-80</integer>
-    <key>Adieresis</key>
-    <integer>-80</integer>
-    <key>Adotbelow</key>
-    <integer>-80</integer>
-    <key>Agrave</key>
-    <integer>-80</integer>
-    <key>Ahoi</key>
-    <integer>-80</integer>
-    <key>Alpha</key>
-    <integer>-80</integer>
-    <key>Alphatonos</key>
-    <integer>-80</integer>
-    <key>Amacron</key>
-    <integer>-80</integer>
-    <key>Aogonek</key>
-    <integer>-80</integer>
-    <key>Aring</key>
-    <integer>-80</integer>
-    <key>Atilde</key>
-    <integer>-80</integer>
-    <key>Decyr</key>
-    <integer>-80</integer>
-    <key>Delta</key>
-    <integer>-80</integer>
-    <key>Elcyr</key>
-    <integer>-80</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-80</integer>
-    <key>Lambda</key>
-    <integer>-80</integer>
-    <key>comma</key>
-    <integer>-95</integer>
     <key>endash</key>
-    <integer>-19</integer>
-    <key>four</key>
-    <integer>-80</integer>
+    <integer>-15</integer>
     <key>hyphen</key>
-    <integer>-19</integer>
-    <key>period</key>
-    <integer>-95</integer>
-    <key>seven</key>
-    <integer>38</integer>
+    <integer>-15</integer>
+    <key>seven.ss01</key>
+    <integer>30</integer>
+    <key>public.kern2.A2</key>
+    <integer>-80</integer>
+    <key>public.kern2.comma</key>
+    <integer>-76</integer>
   </dict>
   <key>sigma</key>
   <dict>
     <key>lambda</key>
     <integer>-30</integer>
-    <key>tau</key>
-    <integer>-40</integer>
-    <key>tecyr</key>
+    <key>public.kern2.tau</key>
     <integer>-40</integer>
   </dict>
-  <key>sigmafinal</key>
+  <key>six.ss01</key>
   <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-  </dict>
-  <key>six</key>
-  <dict>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>one</key>
+    <key>nine.ss01</key>
+    <integer>-38</integer>
+    <key>one.ss01</key>
     <integer>-30</integer>
   </dict>
   <key>slash</key>
   <dict>
-    <key>a</key>
-    <integer>-60</integer>
-    <key>aacute</key>
-    <integer>-60</integer>
-    <key>abreve</key>
-    <integer>-60</integer>
-    <key>abreveacute</key>
-    <integer>-60</integer>
-    <key>abrevedotbelow</key>
-    <integer>-60</integer>
-    <key>abrevegrave</key>
-    <integer>-60</integer>
-    <key>abrevehoi</key>
-    <integer>-60</integer>
-    <key>abrevetilde</key>
-    <integer>-60</integer>
-    <key>acircumflex</key>
-    <integer>-60</integer>
-    <key>acircumflexacute</key>
-    <integer>-60</integer>
-    <key>acircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>acircumflexgrave</key>
-    <integer>-60</integer>
-    <key>acircumflexhoi</key>
-    <integer>-60</integer>
-    <key>acircumflextilde</key>
-    <integer>-60</integer>
-    <key>acyr</key>
-    <integer>-60</integer>
-    <key>adieresis</key>
-    <integer>-60</integer>
-    <key>adotbelow</key>
-    <integer>-60</integer>
-    <key>ae</key>
-    <integer>-60</integer>
-    <key>agrave</key>
-    <integer>-60</integer>
-    <key>ahoi</key>
-    <integer>-60</integer>
-    <key>alpha</key>
-    <integer>-100</integer>
-    <key>alphatonos</key>
-    <integer>-100</integer>
-    <key>amacron</key>
-    <integer>-60</integer>
-    <key>aogonek</key>
-    <integer>-60</integer>
-    <key>aring</key>
-    <integer>-60</integer>
-    <key>atilde</key>
-    <integer>-60</integer>
-    <key>c</key>
-    <integer>-100</integer>
-    <key>cacute</key>
-    <integer>-100</integer>
-    <key>ccaron</key>
-    <integer>-100</integer>
-    <key>ccedilla</key>
-    <integer>-100</integer>
-    <key>ccircumflex</key>
-    <integer>-100</integer>
-    <key>cdotaccent</key>
-    <integer>-100</integer>
-    <key>checyr.loclBGR</key>
-    <integer>-100</integer>
-    <key>chi</key>
-    <integer>-40</integer>
-    <key>d</key>
-    <integer>-100</integer>
-    <key>decyr</key>
-    <integer>-100</integer>
-    <key>delta</key>
-    <integer>-100</integer>
-    <key>e</key>
-    <integer>-100</integer>
-    <key>ecircumflexacute</key>
-    <integer>-100</integer>
-    <key>ecircumflexdotbelow</key>
-    <integer>-100</integer>
-    <key>ecircumflexgrave</key>
-    <integer>-100</integer>
-    <key>ecircumflexhoi</key>
-    <integer>-100</integer>
-    <key>ecircumflextilde</key>
-    <integer>-100</integer>
-    <key>edotbelow</key>
-    <integer>-100</integer>
-    <key>efcyr</key>
-    <integer>-100</integer>
-    <key>ehoi</key>
-    <integer>-100</integer>
-    <key>elcyr</key>
-    <integer>-100</integer>
-    <key>emcyr</key>
-    <integer>-60</integer>
-    <key>ereversedcyr</key>
-    <integer>-100</integer>
-    <key>escyr</key>
-    <integer>-100</integer>
-    <key>eta</key>
-    <integer>-60</integer>
-    <key>etatonos</key>
-    <integer>-60</integer>
-    <key>etilde</key>
-    <integer>-100</integer>
-    <key>gecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>hacyr</key>
-    <integer>-40</integer>
-    <key>lslash</key>
-    <integer>-100</integer>
-    <key>m</key>
-    <integer>-60</integer>
-    <key>n</key>
-    <integer>-60</integer>
-    <key>o</key>
-    <integer>-100</integer>
-    <key>oacute</key>
-    <integer>-100</integer>
-    <key>obarcyr</key>
-    <integer>-100</integer>
-    <key>ocircumflex</key>
-    <integer>-100</integer>
-    <key>ocircumflexacute</key>
-    <integer>-100</integer>
-    <key>ocircumflexdotbelow</key>
-    <integer>-100</integer>
-    <key>ocircumflexgrave</key>
-    <integer>-100</integer>
-    <key>ocircumflexhoi</key>
-    <integer>-100</integer>
-    <key>ocircumflextilde</key>
-    <integer>-100</integer>
-    <key>ocyr</key>
-    <integer>-100</integer>
-    <key>odieresis</key>
-    <integer>-100</integer>
-    <key>odotbelow</key>
-    <integer>-100</integer>
-    <key>oe</key>
-    <integer>-100</integer>
-    <key>ograve</key>
-    <integer>-100</integer>
-    <key>ohoi</key>
-    <integer>-100</integer>
-    <key>ohorn</key>
-    <integer>-100</integer>
-    <key>ohornacute</key>
-    <integer>-100</integer>
-    <key>ohorndotbelow</key>
-    <integer>-100</integer>
-    <key>ohorngrave</key>
-    <integer>-100</integer>
-    <key>ohornhoi</key>
-    <integer>-100</integer>
-    <key>ohorntilde</key>
-    <integer>-100</integer>
-    <key>ohungarumlaut</key>
-    <integer>-100</integer>
-    <key>omacron</key>
-    <integer>-100</integer>
-    <key>omega</key>
-    <integer>-100</integer>
-    <key>omegatonos</key>
-    <integer>-100</integer>
-    <key>omicron</key>
-    <integer>-100</integer>
-    <key>omicrontonos</key>
-    <integer>-100</integer>
-    <key>oslash</key>
-    <integer>-100</integer>
-    <key>otilde</key>
-    <integer>-100</integer>
-    <key>p</key>
-    <integer>-60</integer>
-    <key>phi</key>
-    <integer>-100</integer>
-    <key>s</key>
-    <integer>-60</integer>
-    <key>sacute</key>
-    <integer>-60</integer>
-    <key>scaron</key>
-    <integer>-60</integer>
-    <key>scedilla</key>
-    <integer>-60</integer>
-    <key>schwa</key>
-    <integer>-100</integer>
-    <key>scircumflex</key>
-    <integer>-60</integer>
-    <key>scommaaccent</key>
-    <integer>-60</integer>
-    <key>sigma</key>
-    <integer>-100</integer>
-    <key>sigmafinal</key>
-    <integer>-100</integer>
     <key>slash</key>
     <integer>-280</integer>
-    <key>tecyr.loclBGR</key>
+    <key>public.kern2.a2</key>
     <integer>-60</integer>
-    <key>x</key>
-    <integer>-40</integer>
-    <key>yacyr</key>
-    <integer>-60</integer>
-    <key>zecyr</key>
-    <integer>-40</integer>
-    <key>zecyr.loclBGR</key>
+    <key>public.kern2.c2</key>
     <integer>-100</integer>
-    <key>zeta</key>
-    <integer>-100</integer>
-    <key>zhecyr</key>
-    <integer>-40</integer>
-    <key>zhecyr.loclBGR</key>
-    <integer>-40</integer>
-  </dict>
-  <key>tcaron</key>
-  <dict>
-    <key>q</key>
+    <key>public.kern2.m2</key>
     <integer>-60</integer>
-  </dict>
-  <key>tecyr.loclBGR</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>tshecyr</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
+    <key>public.kern2.s2</key>
     <integer>-60</integer>
-    <key>quotedblright</key>
+    <key>public.kern2.x2</key>
     <integer>-40</integer>
   </dict>
-  <key>tugrik</key>
+  <key>two.ss01</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-160</integer>
-    <key>colon</key>
-    <integer>-200</integer>
-    <key>colon.case</key>
-    <integer>-200</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>quotedblright</key>
-    <integer>80</integer>
-    <key>semicolon</key>
-    <integer>-180</integer>
-  </dict>
-  <key>two</key>
-  <dict>
-    <key>A</key>
+    <key>public.kern2.A2</key>
     <integer>-40</integer>
-    <key>AE</key>
-    <integer>-40</integer>
-    <key>Aacute</key>
-    <integer>-40</integer>
-    <key>Abreve</key>
-    <integer>-40</integer>
-    <key>Abreveacute</key>
-    <integer>-40</integer>
-    <key>Abrevedotbelow</key>
-    <integer>-40</integer>
-    <key>Abrevegrave</key>
-    <integer>-40</integer>
-    <key>Abrevehoi</key>
-    <integer>-40</integer>
-    <key>Abrevetilde</key>
-    <integer>-40</integer>
-    <key>Acircumflex</key>
-    <integer>-40</integer>
-    <key>Acircumflexacute</key>
-    <integer>-40</integer>
-    <key>Acircumflexdotbelow</key>
-    <integer>-40</integer>
-    <key>Acircumflexgrave</key>
-    <integer>-40</integer>
-    <key>Acircumflexhoi</key>
-    <integer>-40</integer>
-    <key>Acircumflextilde</key>
-    <integer>-40</integer>
-    <key>Acyr</key>
-    <integer>-40</integer>
-    <key>Adieresis</key>
-    <integer>-40</integer>
-    <key>Adotbelow</key>
-    <integer>-40</integer>
-    <key>Agrave</key>
-    <integer>-40</integer>
-    <key>Ahoi</key>
-    <integer>-40</integer>
-    <key>Alpha</key>
-    <integer>-40</integer>
-    <key>Alphatonos</key>
-    <integer>-40</integer>
-    <key>Amacron</key>
-    <integer>-40</integer>
-    <key>Aogonek</key>
-    <integer>-40</integer>
-    <key>Aring</key>
-    <integer>-40</integer>
-    <key>Atilde</key>
-    <integer>-40</integer>
-    <key>Decyr</key>
-    <integer>-40</integer>
-    <key>Delta</key>
-    <integer>-40</integer>
-    <key>Elcyr</key>
-    <integer>-40</integer>
-    <key>Elcyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>Lambda</key>
-    <integer>-40</integer>
-    <key>four</key>
-    <integer>-40</integer>
-  </dict>
-  <key>ucyr</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
   </dict>
   <key>uhorn</key>
   <dict>
-    <key>Djecyr</key>
-    <integer>63</integer>
-    <key>Hardcyr</key>
-    <integer>63</integer>
-    <key>T</key>
-    <integer>63</integer>
-    <key>Tau</key>
-    <integer>63</integer>
-    <key>Tcaron</key>
-    <integer>63</integer>
-    <key>Tcedilla</key>
-    <integer>63</integer>
-    <key>Tcommaaccent</key>
-    <integer>63</integer>
-    <key>Tecyr</key>
-    <integer>63</integer>
-    <key>f</key>
-    <integer>32</integer>
-    <key>f_f</key>
-    <integer>32</integer>
-    <key>f_f_l</key>
-    <integer>32</integer>
-    <key>fl</key>
-    <integer>32</integer>
-    <key>pi</key>
-    <integer>32</integer>
-    <key>t</key>
-    <integer>42</integer>
-    <key>tbar</key>
-    <integer>42</integer>
-    <key>tcaron</key>
-    <integer>42</integer>
-    <key>tcedilla</key>
-    <integer>42</integer>
-    <key>tcommaaccent</key>
-    <integer>42</integer>
-    <key>tugrik</key>
-    <integer>63</integer>
+    <key>public.kern2.T2</key>
+    <integer>74</integer>
+    <key>public.kern2.f2</key>
+    <integer>38</integer>
+    <key>public.kern2.t2</key>
+    <integer>50</integer>
   </dict>
   <key>uhornacute</key>
   <dict>
-    <key>Djecyr</key>
-    <integer>63</integer>
-    <key>Hardcyr</key>
-    <integer>63</integer>
-    <key>T</key>
-    <integer>63</integer>
-    <key>Tau</key>
-    <integer>63</integer>
-    <key>Tcaron</key>
-    <integer>63</integer>
-    <key>Tcedilla</key>
-    <integer>63</integer>
-    <key>Tcommaaccent</key>
-    <integer>63</integer>
-    <key>Tecyr</key>
-    <integer>63</integer>
-    <key>f</key>
-    <integer>32</integer>
-    <key>f_f</key>
-    <integer>32</integer>
-    <key>f_f_l</key>
-    <integer>32</integer>
-    <key>fl</key>
-    <integer>32</integer>
-    <key>pi</key>
-    <integer>32</integer>
-    <key>t</key>
-    <integer>42</integer>
-    <key>tbar</key>
-    <integer>42</integer>
-    <key>tcaron</key>
-    <integer>42</integer>
-    <key>tcedilla</key>
-    <integer>42</integer>
-    <key>tcommaaccent</key>
-    <integer>42</integer>
-    <key>tugrik</key>
-    <integer>63</integer>
+    <key>public.kern2.T2</key>
+    <integer>74</integer>
+    <key>public.kern2.f2</key>
+    <integer>38</integer>
+    <key>public.kern2.t2</key>
+    <integer>50</integer>
   </dict>
   <key>uhorndotbelow</key>
   <dict>
-    <key>Djecyr</key>
-    <integer>63</integer>
-    <key>Hardcyr</key>
-    <integer>63</integer>
-    <key>T</key>
-    <integer>63</integer>
-    <key>Tau</key>
-    <integer>63</integer>
-    <key>Tcaron</key>
-    <integer>63</integer>
-    <key>Tcedilla</key>
-    <integer>63</integer>
-    <key>Tcommaaccent</key>
-    <integer>63</integer>
-    <key>Tecyr</key>
-    <integer>63</integer>
-    <key>f</key>
-    <integer>32</integer>
-    <key>f_f</key>
-    <integer>32</integer>
-    <key>f_f_l</key>
-    <integer>32</integer>
-    <key>fl</key>
-    <integer>32</integer>
-    <key>pi</key>
-    <integer>32</integer>
-    <key>t</key>
-    <integer>42</integer>
-    <key>tbar</key>
-    <integer>42</integer>
-    <key>tcaron</key>
-    <integer>42</integer>
-    <key>tcedilla</key>
-    <integer>42</integer>
-    <key>tcommaaccent</key>
-    <integer>42</integer>
-    <key>tugrik</key>
-    <integer>63</integer>
+    <key>public.kern2.T2</key>
+    <integer>74</integer>
+    <key>public.kern2.f2</key>
+    <integer>38</integer>
+    <key>public.kern2.t2</key>
+    <integer>50</integer>
   </dict>
   <key>uhorngrave</key>
   <dict>
-    <key>Djecyr</key>
-    <integer>63</integer>
-    <key>Hardcyr</key>
-    <integer>63</integer>
-    <key>T</key>
-    <integer>63</integer>
-    <key>Tau</key>
-    <integer>63</integer>
-    <key>Tcaron</key>
-    <integer>63</integer>
-    <key>Tcedilla</key>
-    <integer>63</integer>
-    <key>Tcommaaccent</key>
-    <integer>63</integer>
-    <key>Tecyr</key>
-    <integer>63</integer>
-    <key>f</key>
-    <integer>32</integer>
-    <key>f_f</key>
-    <integer>32</integer>
-    <key>f_f_l</key>
-    <integer>32</integer>
-    <key>fl</key>
-    <integer>32</integer>
-    <key>pi</key>
-    <integer>32</integer>
-    <key>t</key>
-    <integer>42</integer>
-    <key>tbar</key>
-    <integer>42</integer>
-    <key>tcaron</key>
-    <integer>42</integer>
-    <key>tcedilla</key>
-    <integer>42</integer>
-    <key>tcommaaccent</key>
-    <integer>42</integer>
-    <key>tugrik</key>
-    <integer>63</integer>
+    <key>public.kern2.T2</key>
+    <integer>74</integer>
+    <key>public.kern2.f2</key>
+    <integer>38</integer>
+    <key>public.kern2.t2</key>
+    <integer>50</integer>
   </dict>
   <key>uhornhoi</key>
   <dict>
-    <key>Djecyr</key>
-    <integer>63</integer>
-    <key>Hardcyr</key>
-    <integer>63</integer>
-    <key>T</key>
-    <integer>63</integer>
-    <key>Tau</key>
-    <integer>63</integer>
-    <key>Tcaron</key>
-    <integer>63</integer>
-    <key>Tcedilla</key>
-    <integer>63</integer>
-    <key>Tcommaaccent</key>
-    <integer>63</integer>
-    <key>Tecyr</key>
-    <integer>63</integer>
-    <key>f</key>
-    <integer>32</integer>
-    <key>f_f</key>
-    <integer>32</integer>
-    <key>f_f_l</key>
-    <integer>32</integer>
-    <key>fl</key>
-    <integer>32</integer>
-    <key>pi</key>
-    <integer>32</integer>
-    <key>t</key>
-    <integer>42</integer>
-    <key>tbar</key>
-    <integer>42</integer>
-    <key>tcaron</key>
-    <integer>42</integer>
-    <key>tcedilla</key>
-    <integer>42</integer>
-    <key>tcommaaccent</key>
-    <integer>42</integer>
-    <key>tugrik</key>
-    <integer>63</integer>
+    <key>public.kern2.T2</key>
+    <integer>74</integer>
+    <key>public.kern2.f2</key>
+    <integer>38</integer>
+    <key>public.kern2.t2</key>
+    <integer>50</integer>
   </dict>
   <key>uhorntilde</key>
   <dict>
-    <key>Djecyr</key>
-    <integer>63</integer>
-    <key>Hardcyr</key>
-    <integer>63</integer>
-    <key>T</key>
-    <integer>63</integer>
-    <key>Tau</key>
-    <integer>63</integer>
-    <key>Tcaron</key>
-    <integer>63</integer>
-    <key>Tcedilla</key>
-    <integer>63</integer>
-    <key>Tcommaaccent</key>
-    <integer>63</integer>
-    <key>Tecyr</key>
-    <integer>63</integer>
-    <key>f</key>
-    <integer>32</integer>
-    <key>f_f</key>
-    <integer>32</integer>
-    <key>f_f_l</key>
-    <integer>32</integer>
-    <key>fl</key>
-    <integer>32</integer>
-    <key>pi</key>
-    <integer>32</integer>
-    <key>t</key>
-    <integer>42</integer>
-    <key>tbar</key>
-    <integer>42</integer>
-    <key>tcaron</key>
-    <integer>42</integer>
-    <key>tcedilla</key>
-    <integer>42</integer>
-    <key>tcommaaccent</key>
-    <integer>42</integer>
-    <key>tugrik</key>
-    <integer>63</integer>
-  </dict>
-  <key>upsilon</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>upsilondieresis</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>upsilondieresistonos</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>upsilontonos</key>
-  <dict>
-    <key>quotedbl</key>
-    <integer>-40</integer>
-    <key>quotedblleft</key>
-    <integer>-40</integer>
-    <key>quotedblright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>ushortcyr</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>ustraightcyr</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>v</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>w</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>wacute</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>wcircumflex</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>wdieresis</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>wgrave</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-    <key>rho</key>
-    <integer>-60</integer>
-  </dict>
-  <key>x</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
+    <key>public.kern2.T2</key>
+    <integer>74</integer>
+    <key>public.kern2.f2</key>
+    <integer>38</integer>
+    <key>public.kern2.t2</key>
+    <integer>50</integer>
   </dict>
   <key>xi</key>
   <dict>
-    <key>alpha</key>
+    <key>public.kern2.c2</key>
     <integer>-60</integer>
-    <key>alphatonos</key>
+    <key>public.kern2.u</key>
     <integer>-60</integer>
-    <key>c</key>
-    <integer>-60</integer>
-    <key>cacute</key>
-    <integer>-60</integer>
-    <key>ccaron</key>
-    <integer>-60</integer>
-    <key>ccedilla</key>
-    <integer>-60</integer>
-    <key>ccircumflex</key>
-    <integer>-60</integer>
-    <key>cdotaccent</key>
-    <integer>-60</integer>
-    <key>checyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>d</key>
-    <integer>-60</integer>
-    <key>decyr</key>
-    <integer>-60</integer>
-    <key>delta</key>
-    <integer>-60</integer>
-    <key>e</key>
-    <integer>-60</integer>
-    <key>ecircumflexacute</key>
-    <integer>-60</integer>
-    <key>ecircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ecircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ecircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ecircumflextilde</key>
-    <integer>-60</integer>
-    <key>edotbelow</key>
-    <integer>-60</integer>
-    <key>efcyr</key>
-    <integer>-60</integer>
-    <key>ehoi</key>
-    <integer>-60</integer>
-    <key>elcyr</key>
-    <integer>-60</integer>
-    <key>ereversedcyr</key>
-    <integer>-60</integer>
-    <key>escyr</key>
-    <integer>-60</integer>
-    <key>etilde</key>
-    <integer>-60</integer>
-    <key>icyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>iota</key>
-    <integer>-60</integer>
-    <key>iotadieresis</key>
-    <integer>-60</integer>
-    <key>iotadieresistonos</key>
-    <integer>-60</integer>
-    <key>iotatonos</key>
-    <integer>-60</integer>
-    <key>ishortcyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>lslash</key>
-    <integer>-60</integer>
-    <key>o</key>
-    <integer>-60</integer>
-    <key>oacute</key>
-    <integer>-60</integer>
-    <key>obarcyr</key>
-    <integer>-60</integer>
-    <key>ocircumflex</key>
-    <integer>-60</integer>
-    <key>ocircumflexacute</key>
-    <integer>-60</integer>
-    <key>ocircumflexdotbelow</key>
-    <integer>-60</integer>
-    <key>ocircumflexgrave</key>
-    <integer>-60</integer>
-    <key>ocircumflexhoi</key>
-    <integer>-60</integer>
-    <key>ocircumflextilde</key>
-    <integer>-60</integer>
-    <key>ocyr</key>
-    <integer>-60</integer>
-    <key>odieresis</key>
-    <integer>-60</integer>
-    <key>odotbelow</key>
-    <integer>-60</integer>
-    <key>oe</key>
-    <integer>-60</integer>
-    <key>ograve</key>
-    <integer>-60</integer>
-    <key>ohoi</key>
-    <integer>-60</integer>
-    <key>ohorn</key>
-    <integer>-60</integer>
-    <key>ohornacute</key>
-    <integer>-60</integer>
-    <key>ohorndotbelow</key>
-    <integer>-60</integer>
-    <key>ohorngrave</key>
-    <integer>-60</integer>
-    <key>ohornhoi</key>
-    <integer>-60</integer>
-    <key>ohorntilde</key>
-    <integer>-60</integer>
-    <key>ohungarumlaut</key>
-    <integer>-60</integer>
-    <key>omacron</key>
-    <integer>-60</integer>
-    <key>omega</key>
-    <integer>-60</integer>
-    <key>omegatonos</key>
-    <integer>-60</integer>
-    <key>omicron</key>
-    <integer>-60</integer>
-    <key>omicrontonos</key>
-    <integer>-60</integer>
-    <key>oslash</key>
-    <integer>-60</integer>
-    <key>otilde</key>
-    <integer>-60</integer>
-    <key>phi</key>
-    <integer>-60</integer>
-    <key>psi</key>
-    <integer>-60</integer>
-    <key>schwa</key>
-    <integer>-60</integer>
-    <key>shacyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>shchacyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>sigma</key>
-    <integer>-60</integer>
-    <key>sigmafinal</key>
-    <integer>-60</integer>
-    <key>tsecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>u</key>
-    <integer>-60</integer>
-    <key>uacute</key>
-    <integer>-60</integer>
-    <key>ubreve</key>
-    <integer>-60</integer>
-    <key>ucircumflex</key>
-    <integer>-60</integer>
-    <key>udieresis</key>
-    <integer>-60</integer>
-    <key>udotbelow</key>
-    <integer>-60</integer>
-    <key>ugrave</key>
-    <integer>-60</integer>
-    <key>uhoi</key>
-    <integer>-60</integer>
-    <key>uhorn</key>
-    <integer>-60</integer>
-    <key>uhornacute</key>
-    <integer>-60</integer>
-    <key>uhorndotbelow</key>
-    <integer>-60</integer>
-    <key>uhorngrave</key>
-    <integer>-60</integer>
-    <key>uhornhoi</key>
-    <integer>-60</integer>
-    <key>uhorntilde</key>
-    <integer>-60</integer>
-    <key>uhungarumlaut</key>
-    <integer>-60</integer>
-    <key>umacron</key>
-    <integer>-60</integer>
-    <key>uogonek</key>
-    <integer>-60</integer>
-    <key>upsilon</key>
-    <integer>-60</integer>
-    <key>upsilondieresis</key>
-    <integer>-60</integer>
-    <key>upsilondieresistonos</key>
-    <integer>-60</integer>
-    <key>upsilontonos</key>
-    <integer>-60</integer>
-    <key>uring</key>
-    <integer>-60</integer>
-    <key>utilde</key>
-    <integer>-60</integer>
-    <key>zecyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>zeta</key>
-    <integer>-60</integer>
-  </dict>
-  <key>y</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>yacute</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>ycircumflex</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>ydieresis</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>ydotbelow</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>yen</key>
-  <dict>
-    <key>becyr</key>
-    <integer>-42</integer>
-    <key>becyr.loclSRB</key>
-    <integer>-42</integer>
-    <key>colon</key>
-    <integer>-70</integer>
-    <key>colon.case</key>
-    <integer>-70</integer>
-    <key>hyphen</key>
-    <integer>-200</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>semicolon</key>
-    <integer>-160</integer>
-  </dict>
-  <key>ygrave</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>yhoi</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
-  </dict>
-  <key>ytilde</key>
-  <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>60</integer>
   </dict>
   <key>yucyr</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
     <integer>-40</integer>
-  </dict>
-  <key>z</key>
-  <dict>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>zacute</key>
-  <dict>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>zcaron</key>
-  <dict>
-    <key>q</key>
-    <integer>-60</integer>
-  </dict>
-  <key>zdotaccent</key>
-  <dict>
-    <key>q</key>
-    <integer>-60</integer>
   </dict>
   <key>zecyr.loclBGR</key>
   <dict>
-    <key>Decyr.loclBGR</key>
-    <integer>-40</integer>
-    <key>lambda</key>
-    <integer>-80</integer>
-    <key>nine</key>
-    <integer>-32</integer>
-    <key>quotedbl</key>
-    <integer>-60</integer>
-    <key>quotedblleft</key>
-    <integer>-60</integer>
-    <key>quotedblright</key>
-    <integer>-60</integer>
     <key>quoteright</key>
-    <integer>-40</integer>
-  </dict>
-  <key>zeta</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-  </dict>
-  <key>zhecyr</key>
-  <dict>
-    <key>q</key>
-    <integer>-40</integer>
-  </dict>
-  <key>zhecyr.loclBGR</key>
-  <dict>
-    <key>q</key>
     <integer>-40</integer>
   </dict>
   <key>public.kern1.A</key>
   <dict>
+    <key>hyphen</key>
+    <integer>-80</integer>
+    <key>quotedbl</key>
+    <integer>-200</integer>
+    <key>quotedblleft</key>
+    <integer>-240</integer>
+    <key>quotedblright</key>
+    <integer>-160</integer>
+    <key>quoteright</key>
+    <integer>-160</integer>
     <key>public.kern2.A2</key>
-    <integer>69</integer>
+    <integer>67</integer>
     <key>public.kern2.C2</key>
     <integer>-40</integer>
     <key>public.kern2.G2</key>
@@ -5978,6 +648,16 @@
   </dict>
   <key>public.kern1.D</key>
   <dict>
+    <key>Z</key>
+    <integer>-31</integer>
+    <key>Zacute</key>
+    <integer>-31</integer>
+    <key>Zcaron</key>
+    <integer>-31</integer>
+    <key>Zdotaccent</key>
+    <integer>-31</integer>
+    <key>Zeta</key>
+    <integer>-31</integer>
     <key>public.kern2.A2</key>
     <integer>-40</integer>
     <key>public.kern2.T2</key>
@@ -6000,7 +680,7 @@
     <key>public.kern2.G2</key>
     <integer>-60</integer>
     <key>public.kern2.S2</key>
-    <integer>-38</integer>
+    <integer>-30</integer>
   </dict>
   <key>public.kern1.G</key>
   <dict>
@@ -6025,7 +705,7 @@
   <key>public.kern1.Itilde</key>
   <dict>
     <key>public.kern2.Itilde2</key>
-    <integer>160</integer>
+    <integer>166</integer>
   </dict>
   <key>public.kern1.J</key>
   <dict>
@@ -6036,12 +716,20 @@
   </dict>
   <key>public.kern1.K</key>
   <dict>
+    <key>Q</key>
+    <integer>-60</integer>
+    <key>hyphen</key>
+    <integer>-100</integer>
+    <key>q</key>
+    <integer>-70</integer>
+    <key>quotedblleft</key>
+    <integer>-40</integer>
     <key>space_less_three_space.liga</key>
     <integer>-40</integer>
     <key>public.kern2.C2</key>
-    <integer>-32</integer>
+    <integer>-38</integer>
     <key>public.kern2.G2</key>
-    <integer>-71</integer>
+    <integer>-73</integer>
     <key>public.kern2.S2</key>
     <integer>-60</integer>
     <key>public.kern2.c2</key>
@@ -6055,13 +743,13 @@
     <key>public.kern2.s2</key>
     <integer>-40</integer>
     <key>public.kern2.space</key>
-    <integer>-40</integer>
+    <integer>-32</integer>
     <key>public.kern2.t2</key>
     <integer>-62</integer>
     <key>public.kern2.u</key>
     <integer>-70</integer>
     <key>public.kern2.uni0122</key>
-    <integer>-32</integer>
+    <integer>-38</integer>
     <key>public.kern2.xi</key>
     <integer>-70</integer>
     <key>public.kern2.y2</key>
@@ -6069,6 +757,14 @@
   </dict>
   <key>public.kern1.L</key>
   <dict>
+    <key>hyphen</key>
+    <integer>-160</integer>
+    <key>quotedbl</key>
+    <integer>-240</integer>
+    <key>quotedblleft</key>
+    <integer>-240</integer>
+    <key>quotedblright</key>
+    <integer>-240</integer>
     <key>space_less_three_space.liga</key>
     <integer>-100</integer>
     <key>public.kern2.G2</key>
@@ -6084,7 +780,7 @@
     <key>public.kern2.parenright2</key>
     <integer>-60</integer>
     <key>public.kern2.space</key>
-    <integer>-100</integer>
+    <integer>-80</integer>
     <key>public.kern2.t2</key>
     <integer>-50</integer>
     <key>public.kern2.uni0374</key>
@@ -6116,11 +812,11 @@
   <key>public.kern1.R</key>
   <dict>
     <key>public.kern2.C2</key>
-    <integer>-32</integer>
+    <integer>-38</integer>
     <key>public.kern2.Eng</key>
     <integer>60</integer>
     <key>public.kern2.Y2</key>
-    <integer>-25</integer>
+    <integer>-26</integer>
   </dict>
   <key>public.kern1.S</key>
   <dict>
@@ -6141,6 +837,20 @@
   </dict>
   <key>public.kern1.T</key>
   <dict>
+    <key>Decyr.loclBGR</key>
+    <integer>-160</integer>
+    <key>colon</key>
+    <integer>-200</integer>
+    <key>colon.case</key>
+    <integer>-200</integer>
+    <key>hyphen</key>
+    <integer>-200</integer>
+    <key>q</key>
+    <integer>-160</integer>
+    <key>quotedblright</key>
+    <integer>80</integer>
+    <key>semicolon</key>
+    <integer>-180</integer>
     <key>space_less_three_space.liga</key>
     <integer>-60</integer>
     <key>public.kern2.A2</key>
@@ -6172,7 +882,7 @@
     <key>public.kern2.s2</key>
     <integer>-120</integer>
     <key>public.kern2.space</key>
-    <integer>-60</integer>
+    <integer>-48</integer>
     <key>public.kern2.tau</key>
     <integer>-60</integer>
     <key>public.kern2.thorn2</key>
@@ -6201,6 +911,10 @@
   </dict>
   <key>public.kern1.V</key>
   <dict>
+    <key>hyphen</key>
+    <integer>-90</integer>
+    <key>q</key>
+    <integer>-90</integer>
     <key>public.kern2.A2</key>
     <integer>-140</integer>
     <key>public.kern2.C2</key>
@@ -6246,6 +960,10 @@
   </dict>
   <key>public.kern1.X</key>
   <dict>
+    <key>hyphen</key>
+    <integer>-60</integer>
+    <key>slash</key>
+    <integer>80</integer>
     <key>public.kern2.C2</key>
     <integer>-60</integer>
     <key>public.kern2.G2</key>
@@ -6261,6 +979,20 @@
   </dict>
   <key>public.kern1.Y</key>
   <dict>
+    <key>becyr</key>
+    <integer>-50</integer>
+    <key>becyr.loclSRB</key>
+    <integer>-50</integer>
+    <key>colon</key>
+    <integer>-70</integer>
+    <key>colon.case</key>
+    <integer>-70</integer>
+    <key>hyphen</key>
+    <integer>-200</integer>
+    <key>q</key>
+    <integer>-160</integer>
+    <key>semicolon</key>
+    <integer>-160</integer>
     <key>space_less_three_space.liga</key>
     <integer>-80</integer>
     <key>public.kern2.A2</key>
@@ -6270,7 +1002,7 @@
     <key>public.kern2.G2</key>
     <integer>-80</integer>
     <key>public.kern2.I2</key>
-    <integer>-53</integer>
+    <integer>-62</integer>
     <key>public.kern2.J2</key>
     <integer>-160</integer>
     <key>public.kern2.S2</key>
@@ -6298,7 +1030,7 @@
     <key>public.kern2.s2</key>
     <integer>-160</integer>
     <key>public.kern2.space</key>
-    <integer>-80</integer>
+    <integer>-64</integer>
     <key>public.kern2.thorn2</key>
     <integer>-80</integer>
     <key>public.kern2.u</key>
@@ -6325,6 +1057,14 @@
   </dict>
   <key>public.kern1.a</key>
   <dict>
+    <key>quotedbl</key>
+    <integer>-40</integer>
+    <key>quotedblleft</key>
+    <integer>-60</integer>
+    <key>quotedblright</key>
+    <integer>-40</integer>
+    <key>quoteright</key>
+    <integer>-60</integer>
     <key>public.kern2.T2</key>
     <integer>-120</integer>
     <key>public.kern2.V2</key>
@@ -6342,8 +1082,20 @@
   </dict>
   <key>public.kern1.b</key>
   <dict>
+    <key>Decyr.loclBGR</key>
+    <integer>-40</integer>
+    <key>lambda</key>
+    <integer>-80</integer>
+    <key>nine.ss01</key>
+    <integer>-38</integer>
+    <key>quotedbl</key>
+    <integer>-60</integer>
+    <key>quotedblleft</key>
+    <integer>-60</integer>
+    <key>quotedblright</key>
+    <integer>-60</integer>
     <key>public.kern2.A2</key>
-    <integer>3</integer>
+    <integer>-6</integer>
     <key>public.kern2.T2</key>
     <integer>-120</integer>
     <key>public.kern2.V2</key>
@@ -6357,15 +1109,15 @@
     <key>public.kern2.parenright2</key>
     <integer>-80</integer>
     <key>public.kern2.s2</key>
-    <integer>-16</integer>
+    <integer>-19</integer>
     <key>public.kern2.tau</key>
-    <integer>-25</integer>
+    <integer>-24</integer>
     <key>public.kern2.uni0374</key>
     <integer>-60</integer>
     <key>public.kern2.v2</key>
     <integer>-40</integer>
     <key>public.kern2.x2</key>
-    <integer>-26</integer>
+    <integer>-29</integer>
     <key>public.kern2.y2</key>
     <integer>-40</integer>
     <key>public.kern2.z2</key>
@@ -6373,6 +1125,14 @@
   </dict>
   <key>public.kern1.c</key>
   <dict>
+    <key>quotedbl</key>
+    <integer>-40</integer>
+    <key>quotedblleft</key>
+    <integer>-60</integer>
+    <key>quotedblright</key>
+    <integer>-40</integer>
+    <key>quoteright</key>
+    <integer>-60</integer>
     <key>public.kern2.T2</key>
     <integer>-120</integer>
     <key>public.kern2.V2</key>
@@ -6380,7 +1140,7 @@
     <key>public.kern2.Y2</key>
     <integer>-120</integer>
     <key>public.kern2.a2</key>
-    <integer>-11</integer>
+    <integer>-13</integer>
     <key>public.kern2.c2</key>
     <integer>-30</integer>
     <key>public.kern2.comma</key>
@@ -6390,7 +1150,7 @@
     <key>public.kern2.parenright2</key>
     <integer>-80</integer>
     <key>public.kern2.tau</key>
-    <integer>-19</integer>
+    <integer>-15</integer>
     <key>public.kern2.uni0374</key>
     <integer>-40</integer>
     <key>public.kern2.y2</key>
@@ -6398,14 +1158,16 @@
   </dict>
   <key>public.kern1.dcaron</key>
   <dict>
+    <key>q</key>
+    <integer>-60</integer>
     <key>public.kern2.A2</key>
     <integer>-240</integer>
     <key>public.kern2.S2</key>
-    <integer>-63</integer>
+    <integer>-74</integer>
     <key>public.kern2.a2</key>
     <integer>-60</integer>
     <key>public.kern2.c2</key>
-    <integer>-152</integer>
+    <integer>-158</integer>
     <key>public.kern2.eth2</key>
     <integer>-60</integer>
     <key>public.kern2.g2</key>
@@ -6421,6 +1183,8 @@
   </dict>
   <key>public.kern1.e</key>
   <dict>
+    <key>quotedblright</key>
+    <integer>-60</integer>
     <key>public.kern2.T2</key>
     <integer>-120</integer>
     <key>public.kern2.V2</key>
@@ -6434,11 +1198,11 @@
     <key>public.kern2.m2</key>
     <integer>-30</integer>
     <key>public.kern2.parenleft2</key>
-    <integer>-42</integer>
+    <integer>-50</integer>
     <key>public.kern2.parenright2</key>
     <integer>-80</integer>
     <key>public.kern2.tau</key>
-    <integer>-21</integer>
+    <integer>-25</integer>
     <key>public.kern2.v2</key>
     <integer>-40</integer>
     <key>public.kern2.x2</key>
@@ -6455,6 +1219,10 @@
   </dict>
   <key>public.kern1.f</key>
   <dict>
+    <key>quotedblleft</key>
+    <integer>80</integer>
+    <key>quotedblright</key>
+    <integer>60</integer>
     <key>public.kern2.I2</key>
     <integer>62</integer>
     <key>public.kern2.T2</key>
@@ -6478,6 +1246,8 @@
   </dict>
   <key>public.kern1.g</key>
   <dict>
+    <key>quotedblleft</key>
+    <integer>-100</integer>
     <key>public.kern2.T2</key>
     <integer>-100</integer>
     <key>public.kern2.Y2</key>
@@ -6485,6 +1255,12 @@
   </dict>
   <key>public.kern1.h</key>
   <dict>
+    <key>quotedbl</key>
+    <integer>-40</integer>
+    <key>quotedblleft</key>
+    <integer>-60</integer>
+    <key>quotedblright</key>
+    <integer>-40</integer>
     <key>public.kern2.T2</key>
     <integer>-120</integer>
     <key>public.kern2.parenright2</key>
@@ -6495,7 +1271,7 @@
   <key>public.kern1.i</key>
   <dict>
     <key>public.kern2.uni0374</key>
-    <integer>-77</integer>
+    <integer>-86</integer>
   </dict>
   <key>public.kern1.iota</key>
   <dict>
@@ -6504,17 +1280,21 @@
     <key>public.kern2.f2</key>
     <integer>-60</integer>
     <key>public.kern2.tau</key>
-    <integer>-101</integer>
+    <integer>-105</integer>
     <key>public.kern2.v2</key>
-    <integer>-101</integer>
+    <integer>-105</integer>
   </dict>
   <key>public.kern1.itilde</key>
   <dict>
     <key>public.kern2.itilde2</key>
-    <integer>135</integer>
+    <integer>148</integer>
   </dict>
   <key>public.kern1.k</key>
   <dict>
+    <key>hyphen</key>
+    <integer>-60</integer>
+    <key>q</key>
+    <integer>-60</integer>
     <key>public.kern2.c2</key>
     <integer>-20</integer>
     <key>public.kern2.egrave</key>
@@ -6526,12 +1306,18 @@
   </dict>
   <key>public.kern1.m</key>
   <dict>
+    <key>quotedbl</key>
+    <integer>-40</integer>
+    <key>quotedblleft</key>
+    <integer>-40</integer>
+    <key>quotedblright</key>
+    <integer>-40</integer>
     <key>public.kern2.T2</key>
     <integer>-120</integer>
     <key>public.kern2.Y2</key>
     <integer>-140</integer>
     <key>public.kern2.c2</key>
-    <integer>-11</integer>
+    <integer>-13</integer>
     <key>public.kern2.parenright2</key>
     <integer>-40</integer>
     <key>public.kern2.uni0374</key>
@@ -6541,12 +1327,16 @@
   </dict>
   <key>public.kern1.parenleft</key>
   <dict>
+    <key>q</key>
+    <integer>-80</integer>
+    <key>seven.ss01</key>
+    <integer>30</integer>
     <key>public.kern2.C2</key>
-    <integer>-57</integer>
+    <integer>-46</integer>
     <key>public.kern2.G2</key>
-    <integer>-109</integer>
+    <integer>-107</integer>
     <key>public.kern2.S2</key>
-    <integer>-57</integer>
+    <integer>-46</integer>
     <key>public.kern2.a2</key>
     <integer>-40</integer>
     <key>public.kern2.c2</key>
@@ -6556,19 +1346,19 @@
     <key>public.kern2.s2</key>
     <integer>-80</integer>
     <key>public.kern2.y2</key>
-    <integer>-32</integer>
+    <integer>-38</integer>
   </dict>
   <key>public.kern1.parenright</key>
   <dict>
     <key>public.kern2.v2</key>
-    <integer>-38</integer>
+    <integer>-30</integer>
   </dict>
   <key>public.kern1.r</key>
   <dict>
     <key>public.kern2.Y2</key>
     <integer>-40</integer>
     <key>public.kern2.a2</key>
-    <integer>-34</integer>
+    <integer>-31</integer>
     <key>public.kern2.c2</key>
     <integer>-20</integer>
     <key>public.kern2.comma</key>
@@ -6580,12 +1370,18 @@
     <key>public.kern2.s2</key>
     <integer>-40</integer>
     <key>public.kern2.t2</key>
-    <integer>40</integer>
+    <integer>46</integer>
     <key>public.kern2.y2</key>
-    <integer>-21</integer>
+    <integer>-25</integer>
   </dict>
   <key>public.kern1.s</key>
   <dict>
+    <key>quotedbl</key>
+    <integer>-40</integer>
+    <key>quotedblleft</key>
+    <integer>-60</integer>
+    <key>quotedblright</key>
+    <integer>-60</integer>
     <key>public.kern2.T2</key>
     <integer>-100</integer>
     <key>public.kern2.V2</key>
@@ -6593,7 +1389,7 @@
     <key>public.kern2.Y2</key>
     <integer>-120</integer>
     <key>public.kern2.parenright2</key>
-    <integer>-38</integer>
+    <integer>-30</integer>
     <key>public.kern2.uni0374</key>
     <integer>-40</integer>
     <key>public.kern2.v2</key>
@@ -6608,7 +1404,7 @@
     <key>public.kern2.Y2</key>
     <integer>-40</integer>
     <key>public.kern2.c2</key>
-    <integer>-46</integer>
+    <integer>-49</integer>
     <key>public.kern2.y2</key>
     <integer>-30</integer>
   </dict>
@@ -6632,8 +1428,12 @@
   </dict>
   <key>public.kern1.v</key>
   <dict>
+    <key>q</key>
+    <integer>-40</integer>
+    <key>rho</key>
+    <integer>-60</integer>
     <key>public.kern2.A2</key>
-    <integer>-42</integer>
+    <integer>-50</integer>
     <key>public.kern2.T2</key>
     <integer>-120</integer>
     <key>public.kern2.Y2</key>
@@ -6657,6 +1457,8 @@
   </dict>
   <key>public.kern1.x</key>
   <dict>
+    <key>q</key>
+    <integer>-40</integer>
     <key>public.kern2.T2</key>
     <integer>-100</integer>
     <key>public.kern2.Y2</key>
@@ -6678,8 +1480,12 @@
   </dict>
   <key>public.kern1.y</key>
   <dict>
+    <key>Decyr.loclBGR</key>
+    <integer>-60</integer>
+    <key>quotedblright</key>
+    <integer>60</integer>
     <key>public.kern2.A2</key>
-    <integer>-32</integer>
+    <integer>-38</integer>
     <key>public.kern2.T2</key>
     <integer>-80</integer>
     <key>public.kern2.Y2</key>
@@ -6693,12 +1499,14 @@
     <key>public.kern2.f2</key>
     <integer>80</integer>
     <key>public.kern2.g2</key>
-    <integer>-31</integer>
+    <integer>-33</integer>
     <key>public.kern2.t2</key>
     <integer>80</integer>
   </dict>
   <key>public.kern1.z</key>
   <dict>
+    <key>q</key>
+    <integer>-60</integer>
     <key>public.kern2.T2</key>
     <integer>-100</integer>
     <key>public.kern2.Y2</key>
@@ -6714,7 +1522,7 @@
     <key>public.kern2.xi</key>
     <integer>-60</integer>
     <key>public.kern2.y2</key>
-    <integer>-29</integer>
+    <integer>-27</integer>
   </dict>
 </dict>
 </plist>
