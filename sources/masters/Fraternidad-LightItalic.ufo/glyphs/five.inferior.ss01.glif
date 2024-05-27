@@ -2,6 +2,6 @@
 <glyph name="five.inferior.ss01" format="2">
   <advance width="796"/>
   <outline>
-    <component base="five.superior.ss01" xOffset="-37" yOffset="-540"/>
+    <component base="five.superior.ss01" xOffset="-112" yOffset="-540"/>
   </outline>
 </glyph>

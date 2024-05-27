@@ -3,15 +3,15 @@
   <advance width="1303"/>
   <unicode hex="0160"/>
   <outline>
-    <component base="S" xOffset="60"/>
+    <component base="S" xOffset="-15"/>
     <contour>
-      <point x="566" y="1920" type="line"/>
-      <point x="811" y="1920" type="line"/>
-      <point x="929" y="1740" type="line"/>
-      <point x="1105" y="1920" type="line"/>
-      <point x="1350" y="1920" type="line"/>
-      <point x="1014" y="1590" type="line"/>
-      <point x="794" y="1590" type="line"/>
+      <point x="491" y="1920" type="line"/>
+      <point x="736" y="1920" type="line"/>
+      <point x="854" y="1740" type="line"/>
+      <point x="1030" y="1920" type="line"/>
+      <point x="1275" y="1920" type="line"/>
+      <point x="939" y="1590" type="line"/>
+      <point x="719" y="1590" type="line"/>
     </contour>
   </outline>
 </glyph>

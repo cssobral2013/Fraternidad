@@ -2,7 +2,7 @@
 <glyph name="newsheqel.tf" format="2">
   <advance width="1240"/>
   <outline>
-    <component base="newsheqel" xScale="0.7" xOffset="149"/>
+    <component base="newsheqel" xScale="0.7" xOffset="74"/>
   </outline>
   <lib>
   <dict>

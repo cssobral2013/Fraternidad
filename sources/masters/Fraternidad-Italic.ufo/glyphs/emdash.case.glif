@@ -2,6 +2,6 @@
 <glyph name="emdash.case" format="2">
   <advance width="1560"/>
   <outline>
-    <component base="emdash" xOffset="115" yOffset="90"/>
+    <component base="emdash" xOffset="40" yOffset="90"/>
   </outline>
 </glyph>

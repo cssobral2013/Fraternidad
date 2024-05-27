@@ -3,7 +3,7 @@
   <advance width="1042"/>
   <unicode hex="0390"/>
   <outline>
-    <component base="iota" xOffset="258"/>
-    <component base="dieresistonos" xOffset="-16"/>
+    <component base="iota" xOffset="183"/>
+    <component base="dieresistonos" xOffset="-91"/>
   </outline>
 </glyph>

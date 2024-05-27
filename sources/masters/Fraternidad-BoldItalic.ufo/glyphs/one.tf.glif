@@ -2,12 +2,12 @@
 <glyph name="one.tf" format="2">
   <advance width="1176"/>
   <outline>
-    <component base="one" xOffset="-63"/>
+    <component base="one" xOffset="-138"/>
     <contour>
-      <point x="109" y="256" type="line"/>
-      <point x="1109" y="256" type="line"/>
-      <point x="1070" y="0" type="line"/>
-      <point x="69" y="0" type="line"/>
+      <point x="34" y="256" type="line"/>
+      <point x="1034" y="256" type="line"/>
+      <point x="995" y="0" type="line"/>
+      <point x="-6" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

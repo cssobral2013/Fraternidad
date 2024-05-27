@@ -2,8 +2,8 @@
 <glyph name="Iecyr" format="2">
   <advance width="1120"/>
   <unicode hex="0415"/>
-  <anchor x="749" y="1440" name="top"/>
+  <anchor x="674" y="1440" name="top"/>
   <outline>
-    <component base="E" xOffset="60"/>
+    <component base="E" xOffset="-15"/>
   </outline>
 </glyph>

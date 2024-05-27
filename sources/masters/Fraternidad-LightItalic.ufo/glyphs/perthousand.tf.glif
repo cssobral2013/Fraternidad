@@ -2,6 +2,6 @@
 <glyph name="perthousand.tf" format="2">
   <advance width="2480"/>
   <outline>
-    <component base="perthousand" xOffset="94"/>
+    <component base="perthousand" xOffset="19"/>
   </outline>
 </glyph>

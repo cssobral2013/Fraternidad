@@ -2,6 +2,6 @@
 <glyph name="nine.inferior.ss01" format="2">
   <advance width="874"/>
   <outline>
-    <component base="nine.superior.ss01" xOffset="-27" yOffset="-540"/>
+    <component base="nine.superior.ss01" xOffset="-102" yOffset="-540"/>
   </outline>
 </glyph>

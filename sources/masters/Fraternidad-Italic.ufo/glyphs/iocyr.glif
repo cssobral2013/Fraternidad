@@ -2,9 +2,9 @@
 <glyph name="iocyr" format="2">
   <advance width="1179"/>
   <unicode hex="0451"/>
-  <anchor x="748" y="1080" name="top"/>
+  <anchor x="673" y="1080" name="top"/>
   <outline>
-    <component base="iecyr" xOffset="100"/>
-    <component base="dieresis" xOffset="81" yOffset="-27"/>
+    <component base="iecyr" xOffset="25"/>
+    <component base="dieresis" xOffset="6" yOffset="-27"/>
   </outline>
 </glyph>

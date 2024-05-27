@@ -2,6 +2,6 @@
 <glyph name="i.loclTRK" format="2">
   <advance width="492"/>
   <outline>
-    <component base="i" xOffset="100"/>
+    <component base="i" xOffset="25"/>
   </outline>
 </glyph>

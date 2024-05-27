@@ -2,6 +2,6 @@
 <glyph name="four.tf.ss01" format="2">
   <advance width="1240"/>
   <outline>
-    <component base="four.ss01" xOffset="24"/>
+    <component base="four.ss01" xOffset="-51"/>
   </outline>
 </glyph>

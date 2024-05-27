@@ -2,8 +2,8 @@
 <glyph name="edieresis" format="2">
   <advance width="1179"/>
   <unicode hex="00EB"/>
-  <anchor x="783" y="1440" name="top"/>
+  <anchor x="708" y="1440" name="top"/>
   <outline>
-    <component base="iocyr" xOffset="100"/>
+    <component base="iocyr" xOffset="25"/>
   </outline>
 </glyph>

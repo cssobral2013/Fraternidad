@@ -2,6 +2,6 @@
 <glyph name="nine.tf.ss01" format="2">
   <advance width="1240"/>
   <outline>
-    <component base="nine.ss01" xOffset="83"/>
+    <component base="nine.ss01" xOffset="8"/>
   </outline>
 </glyph>

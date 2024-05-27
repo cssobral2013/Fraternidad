@@ -2,6 +2,6 @@
 <glyph name="less_hyphen.liga" format="2">
   <advance width="2008"/>
   <outline>
-    <component base="arrowleft" xOffset="100"/>
+    <component base="arrowleft" xOffset="25"/>
   </outline>
 </glyph>

@@ -2,6 +2,6 @@
 <glyph name="percent.tf" format="2">
   <advance width="1860"/>
   <outline>
-    <component base="percent" xOffset="179"/>
+    <component base="percent" xOffset="104"/>
   </outline>
 </glyph>

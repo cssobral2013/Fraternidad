@@ -67,7 +67,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Mikhail Sharanda (Manrope), Wayne Shih (Hauora Sans), Ravid Balaliev (Vela Sans), Cristiano Sobral (main changes)</string>
+  <string>The Fraternidad Project Authors</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://github.com/wayne-shih</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -75,7 +75,7 @@ Copyright (c) 2021-2023 The Fraternidad Project Authors (https://github.com/csso
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin</string>
   <key>openTypeNameVersion</key>
-  <string>Version 5.017</string>
+  <string>Version 5.017b</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>

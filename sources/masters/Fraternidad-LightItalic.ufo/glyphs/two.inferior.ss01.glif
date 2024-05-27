@@ -2,6 +2,6 @@
 <glyph name="two.inferior.ss01" format="2">
   <advance width="784"/>
   <outline>
-    <component base="twosuperior.ss01" xOffset="-74" yOffset="-540"/>
+    <component base="twosuperior.ss01" xOffset="-149" yOffset="-540"/>
   </outline>
 </glyph>
