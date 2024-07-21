@@ -5,13 +5,13 @@
   <outline>
     <component base="S" xOffset="-15"/>
     <contour>
-      <point x="506" y="1620" type="line"/>
-      <point x="742" y="1860" type="line"/>
-      <point x="832" y="1860" type="line"/>
-      <point x="988" y="1620" type="line"/>
-      <point x="890" y="1620" type="line"/>
-      <point x="775" y="1790" type="line"/>
-      <point x="604" y="1620" type="line"/>
+      <point x="546" y="1620" type="line"/>
+      <point x="782" y="1860" type="line"/>
+      <point x="872" y="1860" type="line"/>
+      <point x="1028" y="1620" type="line"/>
+      <point x="930" y="1620" type="line"/>
+      <point x="815" y="1790" type="line"/>
+      <point x="644" y="1620" type="line"/>
     </contour>
   </outline>
 </glyph>

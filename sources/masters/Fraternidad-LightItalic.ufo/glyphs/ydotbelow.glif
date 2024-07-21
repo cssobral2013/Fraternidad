@@ -5,30 +5,30 @@
   <outline>
     <component base="y" xOffset="-15"/>
     <contour>
-      <point x="526" y="-390" type="qcurve" smooth="yes"/>
-      <point x="511" y="-390"/>
-      <point x="489" y="-380"/>
-      <point x="480" y="-369" type="qcurve" smooth="yes"/>
-      <point x="471" y="-358"/>
-      <point x="466" y="-333"/>
-      <point x="468" y="-317" type="qcurve"/>
-      <point x="471" y="-301"/>
-      <point x="486" y="-275"/>
-      <point x="498" y="-264" type="qcurve" smooth="yes"/>
-      <point x="510" y="-253"/>
-      <point x="536" y="-243"/>
-      <point x="551" y="-243" type="qcurve" smooth="yes"/>
-      <point x="566" y="-243"/>
-      <point x="589" y="-253"/>
-      <point x="598" y="-264" type="qcurve" smooth="yes"/>
-      <point x="607" y="-275"/>
-      <point x="611" y="-301"/>
-      <point x="609" y="-317" type="qcurve"/>
-      <point x="606" y="-333"/>
-      <point x="593" y="-358"/>
-      <point x="580" y="-369" type="qcurve"/>
-      <point x="568" y="-380"/>
-      <point x="541" y="-390"/>
+      <point x="566" y="-390" type="qcurve" smooth="yes"/>
+      <point x="551" y="-390"/>
+      <point x="529" y="-380"/>
+      <point x="520" y="-369" type="qcurve" smooth="yes"/>
+      <point x="511" y="-358"/>
+      <point x="506" y="-333"/>
+      <point x="508" y="-317" type="qcurve"/>
+      <point x="511" y="-301"/>
+      <point x="526" y="-275"/>
+      <point x="538" y="-264" type="qcurve" smooth="yes"/>
+      <point x="550" y="-253"/>
+      <point x="576" y="-243"/>
+      <point x="591" y="-243" type="qcurve" smooth="yes"/>
+      <point x="606" y="-243"/>
+      <point x="629" y="-253"/>
+      <point x="638" y="-264" type="qcurve" smooth="yes"/>
+      <point x="647" y="-275"/>
+      <point x="651" y="-301"/>
+      <point x="649" y="-317" type="qcurve"/>
+      <point x="646" y="-333"/>
+      <point x="633" y="-358"/>
+      <point x="620" y="-369" type="qcurve"/>
+      <point x="608" y="-380"/>
+      <point x="581" y="-390"/>
     </contour>
   </outline>
 </glyph>

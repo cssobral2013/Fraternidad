@@ -2,19 +2,19 @@
 <glyph name="icyr" format="2">
   <advance width="1026"/>
   <unicode hex="0438"/>
-  <anchor x="566" y="1080" name="top"/>
+  <anchor x="606" y="1080" name="top"/>
   <outline>
     <contour>
-      <point x="969" y="1080" type="line"/>
-      <point x="790" y="0" type="line"/>
-      <point x="711" y="0" type="line"/>
-      <point x="865" y="932" type="line"/>
-      <point x="93" y="0" type="line"/>
-      <point x="18" y="0" type="line"/>
-      <point x="197" y="1080" type="line"/>
-      <point x="277" y="1080" type="line"/>
-      <point x="123" y="148" type="line"/>
-      <point x="895" y="1080" type="line"/>
+      <point x="1009" y="1080" type="line"/>
+      <point x="830" y="0" type="line"/>
+      <point x="751" y="0" type="line"/>
+      <point x="905" y="932" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="237" y="1080" type="line"/>
+      <point x="317" y="1080" type="line"/>
+      <point x="163" y="148" type="line"/>
+      <point x="935" y="1080" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-  <advance width="1575"/>
+  <advance width="1583"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
@@ -45,10 +45,4 @@
       <point x="398" y="134"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=105</string>
-  </dict>
-  </lib>
 </glyph>

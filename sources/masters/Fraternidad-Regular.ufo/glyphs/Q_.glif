@@ -81,10 +81,4 @@
       <point x="513" y="136"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=17</string>
-  </dict>
-  </lib>
 </glyph>
