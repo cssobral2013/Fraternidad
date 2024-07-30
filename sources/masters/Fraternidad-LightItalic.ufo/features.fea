@@ -10,13 +10,13 @@
 @calt6 = [quoteright parenleft.case parenright.case bracketleft.case bracketright.case braceleft.case braceright.case guillemotleft.case guillemotright.case];
 @calt7 = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Alpha Beta Chi Epsilon Phi Gamma Eta Iota Kappa Lambda Mu Nu Omicron Pi Theta Rho Sigma Tau Upsilon Xi Psi Zeta Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Kcommaaccent Lcommaaccent Lcaron Lacute Ncommaaccent Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Gcommaaccent Omega Dcroat Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Geupcyr Iukrcyr Djecyr Gjecyr Jecyr Eukrcyr Yukrcyr Ljecyr Njecyr Dzecyr Tshecyr Kjecyr Ushortcyr Dzhecyr Iocyr Delta Iotadieresis Upsilondieresis Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Abreve Scommaaccent Tcommaaccent Gbreve Idotaccent Scedilla Cdotaccent Gdotaccent Hbar Eng Tcedilla Tbar Wcircumflex Ycircumflex Iegravecyr Igravecyr Wgrave Wacute Wdieresis Ygrave Ustraightcyr Shhacyr Obarcyr Germandbls Decyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR Zhecyr.loclBGR];
 @calt8 = [zero.ss01 one.ss01 two.ss01 three.ss01 four.ss01 five.ss01 six.ss01 seven.ss01 eight.ss01 nine.ss01 zero.tf.ss01 one.tf.ss01 two.tf.ss01 three.tf.ss01 four.tf.ss01 five.tf.ss01 six.tf.ss01 seven.tf.ss01 eight.tf.ss01 nine.tf.ss01 zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf.ss01 eight.tf nine.tf];
-@calt_dnom_numr_ordn_sinf_subs_sups = [zero.ss01 one.ss01 two.ss01 three.ss01 four.ss01 five.ss01 six.ss01 seven.ss01 eight.ss01 nine.ss01];
+@calt_dnom_numr_ordn_sinf_subs_sups = [zero one two three four five six seven eight nine zero.ss01 one.ss01 two.ss01 three.ss01 four.ss01 five.ss01 six.ss01 seven.ss01 eight.ss01 nine.ss01];
 @case = [parenleft parenright hyphen colon less greater at bracketleft bracketright braceleft braceright exclamdown copyright guillemotleft periodcentered guillemotright questiondown endash emdash guilsinglleft guilsinglright arrowleft arrowright];
 @case2 = [parenleft.case parenright.case hyphen.case colon.case less.case greater.case at.case bracketleft.case bracketright.case braceleft.case braceright.case exclamdown.case copyright.case guillemotleft.case periodcentered.case guillemotright.case questiondown.case endash.case emdash.case guilsinglleft.case guilsinglright.case arrowleft.case arrowright.case];
-@dnom_sinf_subs = [zero.inferior.ss01 one.inferior.ss01 two.inferior.ss01 three.inferior.ss01 four.inferior.ss01 five.inferior.ss01 six.inferior.ss01 seven.inferior.ss01 eight.inferior.ss01 nine.inferior.ss01];
+@dnom_sinf_subs = [zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior zero.inferior.ss01 one.inferior.ss01 two.inferior.ss01 three.inferior.ss01 four.inferior.ss01 five.inferior.ss01 six.inferior.ss01 seven.inferior.ss01 eight.inferior.ss01 nine.inferior.ss01];
 @locl = [Decyr Zhecyr Kacyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr encyr pecyr tecyr tsecyr checyr shacyr shchacyr softcyr yucyr igravecyr];
 @locl2 = [Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR encyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR checyr.loclBGR shacyr.loclBGR shchacyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
-@numr_sups = [zero.superior.ss01 onesuperior.ss01 twosuperior.ss01 threesuperior.ss01 four.superior.ss01 five.superior.ss01 six.superior.ss01 seven.superior.ss01 eight.superior.ss01 nine.superior.ss01];
+@numr_sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior zero.superior.ss01 onesuperior.ss01 twosuperior.ss01 threesuperior.ss01 four.superior.ss01 five.superior.ss01 six.superior.ss01 seven.superior.ss01 eight.superior.ss01 nine.superior.ss01];
 @pnum_tnum = [zero one two three four five six seven eight nine zero.ss01 one.ss01 two.ss01 three.ss01 four.ss01 five.ss01 six.ss01 seven.ss01 eight.ss01 nine.ss01 comma period colon semicolon dollar cent sterling currency yen franc Euro tugrik peso hryvnia indianrupee turkishlira ruble bitcoin won newsheqel percent perthousand colon.case];
 @pnum_tnum2 = [zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tf.ss01 one.tf.ss01 two.tf.ss01 three.tf.ss01 four.tf.ss01 five.tf.ss01 six.tf.ss01 seven.tf.ss01 eight.tf.ss01 nine.tf.ss01 comma.tf period.tf colon.tf semicolon.tf dollar.tf cent.tf sterling.tf currency.tf yen.tf franc.tf Euro.tf tugrik.tf peso.tf hryvnia.tf indianrupee.tf turkishlira.tf ruble.tf bitcoin.tf won.tf newsheqel.tf percent.tf perthousand.tf colon.case.tf];
 @ss012 = [zero.ss01 one.ss01 two.ss01 three.ss01 four.ss01 five.ss01 six.ss01 seven.ss01 eight.ss01 nine.ss01 twosuperior.ss01 threesuperior.ss01 onesuperior.ss01 onequarter.ss01 onehalf.ss01 threequarters.ss01 zero.superior.ss01 four.superior.ss01 five.superior.ss01 six.superior.ss01 seven.superior.ss01 eight.superior.ss01 nine.superior.ss01 zero.inferior.ss01 one.inferior.ss01 two.inferior.ss01 three.inferior.ss01 four.inferior.ss01 five.inferior.ss01 six.inferior.ss01 seven.inferior.ss01 eight.inferior.ss01 nine.inferior.ss01 zero.tf.ss01 one.tf.ss01 two.tf.ss01 three.tf.ss01 four.tf.ss01 five.tf.ss01 six.tf.ss01 seven.tf.ss01 eight.tf.ss01 nine.tf.ss01];
@@ -165,9 +165,16 @@ feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
 
+  sub one slash two by onehalf;
+  sub one slash four by onequarter;
+  sub three slash four by threequarters;
   sub one.ss01 slash two.ss01 by onehalf.ss01;
   sub one.ss01 slash four.ss01 by onequarter.ss01;
   sub three.ss01 slash four.ss01 by threequarters.ss01;
+
+  sub @calt_dnom_numr_ordn_sinf_subs_sups by @numr_sups;  
+  sub @numr_sups slash' by fraction;
+  sub @numr_sups fraction @numr_sups' by @dnom_sinf_subs;
 
 } frac;
 feature ordn {
@@ -206,7 +213,7 @@ feature liga {
 
   # GSUB lookup 28, type 14 (Ligature)
     lookupflag IgnoreMarks;
-    sub space less three.ss01 space by space_less_three_space.liga;
+    sub space less [three three.ss01] space by space_less_three_space.liga;
     sub parenleft greater parenright by prnleft_grtr_prnright.liga;
     sub parenleft c parenright by parenleft_c_parenright.liga;
     sub hyphen hyphen by hyphen_hyphen.liga;
@@ -217,7 +224,6 @@ feature liga {
     sub f l by fl;
     sub f i by fi;
     sub f f by f_f;
-    sub t t by t_t.liga;
 
 
 } liga;

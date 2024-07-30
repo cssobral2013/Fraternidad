@@ -1,66 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_i" format="2">
-  <advance width="1905"/>
+  <advance width="2090"/>
   <unicode hex="FB03"/>
   <outline>
-    <contour>
-      <point x="149" y="0" type="line"/>
-      <point x="327" y="1076" type="line" smooth="yes"/>
-      <point x="330" y="1096"/>
-      <point x="339" y="1143"/>
-      <point x="344" y="1169" type="qcurve" smooth="yes"/>
-      <point x="355" y="1221"/>
-      <point x="400" y="1327"/>
-      <point x="444" y="1370" type="qcurve" smooth="yes"/>
-      <point x="472" y="1398"/>
-      <point x="531" y="1436"/>
-      <point x="561" y="1447" type="qcurve"/>
-      <point x="621" y="1467"/>
-      <point x="725" y="1470"/>
-      <point x="762" y="1470" type="qcurve" smooth="yes"/>
-      <point x="890" y="1470" type="line"/>
-      <point x="853" y="1250" type="line"/>
-      <point x="735" y="1250" type="line" smooth="yes"/>
-      <point x="674" y="1250"/>
-      <point x="603" y="1185"/>
-      <point x="596" y="1140" type="qcurve" smooth="yes"/>
-      <point x="407" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="130" y="870" type="line"/>
-      <point x="164" y="1080" type="line"/>
-      <point x="825" y="1080" type="line"/>
-      <point x="790" y="870" type="line"/>
-    </contour>
-    <contour>
-      <point x="790" y="0" type="line"/>
-      <point x="969" y="1076" type="line" smooth="yes"/>
-      <point x="985" y="1172"/>
-      <point x="1037" y="1319"/>
-      <point x="1128" y="1419"/>
-      <point x="1267" y="1470"/>
-      <point x="1367" y="1470" type="qcurve" smooth="yes"/>
-      <point x="1743" y="1470" type="line"/>
-      <point x="1707" y="1252" type="line"/>
-      <point x="1434" y="1252" type="line" smooth="yes"/>
-      <point x="1403" y="1252"/>
-      <point x="1340" y="1247"/>
-      <point x="1284" y="1225"/>
-      <point x="1244" y="1180"/>
-      <point x="1238" y="1140" type="qcurve" smooth="yes"/>
-      <point x="1049" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="714" y="870" type="line"/>
-      <point x="749" y="1080" type="line"/>
-      <point x="1735" y="1080" type="line"/>
-      <point x="1700" y="870" type="line"/>
-    </contour>
-    <contour>
-      <point x="1433" y="0" type="line"/>
-      <point x="1612" y="1080" type="line"/>
-      <point x="1870" y="1080" type="line"/>
-      <point x="1691" y="0" type="line"/>
-    </contour>
+    <component base="f"/>
+    <component base="f" xOffset="734"/>
+    <component base="i" xOffset="1498"/>
   </outline>
 </glyph>

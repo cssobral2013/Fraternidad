@@ -480,6 +480,16 @@
   </array>
   <key>calt_dnom_numr_ordn_sinf_subs_sups</key>
   <array>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
     <string>zero.ss01</string>
     <string>one.ss01</string>
     <string>two.ss01</string>
@@ -545,6 +555,16 @@
   </array>
   <key>dnom_sinf_subs</key>
   <array>
+    <string>zero.inferior</string>
+    <string>one.inferior</string>
+    <string>two.inferior</string>
+    <string>three.inferior</string>
+    <string>four.inferior</string>
+    <string>five.inferior</string>
+    <string>six.inferior</string>
+    <string>seven.inferior</string>
+    <string>eight.inferior</string>
+    <string>nine.inferior</string>
     <string>zero.inferior.ss01</string>
     <string>one.inferior.ss01</string>
     <string>two.inferior.ss01</string>
@@ -610,6 +630,16 @@
   </array>
   <key>numr_sups</key>
   <array>
+    <string>zero.superior</string>
+    <string>onesuperior</string>
+    <string>twosuperior</string>
+    <string>threesuperior</string>
+    <string>four.superior</string>
+    <string>five.superior</string>
+    <string>six.superior</string>
+    <string>seven.superior</string>
+    <string>eight.superior</string>
+    <string>nine.superior</string>
     <string>zero.superior.ss01</string>
     <string>onesuperior.ss01</string>
     <string>twosuperior.ss01</string>
@@ -1451,7 +1481,6 @@
     <string>Xi</string>
     <string>Ylongcyr</string>
     <string>Yucyr</string>
-    <string>Yukrcyr</string>
     <string>Z</string>
     <string>Zacute</string>
     <string>Zcaron</string>
@@ -1642,7 +1671,6 @@
     <string>sterling</string>
     <string>sterling.tf</string>
     <string>summation</string>
-    <string>t_t.liga</string>
     <string>three.inferior.ss01</string>
     <string>three.ss01</string>
     <string>three.tf.ss01</string>

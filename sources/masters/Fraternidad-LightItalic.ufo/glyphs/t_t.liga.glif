@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t_t.liga" format="2">
-  <advance width="1396"/>
-  <unicode hex="E009"/>
-  <outline>
-    <component base="t" xOffset="-15"/>
-    <component base="t" xOffset="623"/>
-  </outline>
-</glyph>

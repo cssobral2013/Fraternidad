@@ -59,7 +59,7 @@ Copyright (c) 2021-2024 The Fraternidad Project Authors (https://github.com/csso
   <key>openTypeNameDescription</key>
   <string>Hauora and Vela Sans are derived from Manrope (https://manropefont.com/) — designed by Mikhail Sharanda (https://gent.media/).</string>
   <key>openTypeNameDesigner</key>
-  <string>Mikhail Sharanda (Manrope), Wayne Shih (Hauora Sans), Ravid Balaliev (Vela Sans), Cristiano Sobral (main changes)</string>
+  <string>Mikhail Sharanda, Wayne Shih, Ravid Balaliev, Vernon Adams, Cristiano Sobral</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://wayneshih.com</string>
   <key>openTypeNameLicense</key>
@@ -75,7 +75,7 @@ Copyright (c) 2021-2024 The Fraternidad Project Authors (https://github.com/csso
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin</string>
   <key>openTypeNameVersion</key>
-  <string>Version 5.018</string>
+  <string>Version 5.020</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -199,7 +199,7 @@ Copyright (c) 2021-2024 The Fraternidad Project Authors (https://github.com/csso
   <key>versionMajor</key>
   <integer>5</integer>
   <key>versionMinor</key>
-  <integer>18</integer>
+  <integer>20</integer>
   <key>xHeight</key>
   <integer>1080</integer>
 </dict>

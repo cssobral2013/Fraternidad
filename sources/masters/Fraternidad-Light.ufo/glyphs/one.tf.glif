@@ -2,12 +2,20 @@
 <glyph name="one.tf" format="2">
   <advance width="1240"/>
   <outline>
-    <component base="one" xOffset="167"/>
     <contour>
       <point x="164" y="84" type="line"/>
       <point x="1076" y="84" type="line"/>
       <point x="1076" y="0" type="line"/>
       <point x="164" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="0" type="line"/>
+      <point x="600" y="1349" type="line"/>
+      <point x="326" y="1183" type="line"/>
+      <point x="287" y="1250" type="line"/>
+      <point x="600" y="1440" type="line"/>
+      <point x="684" y="1440" type="line"/>
+      <point x="684" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

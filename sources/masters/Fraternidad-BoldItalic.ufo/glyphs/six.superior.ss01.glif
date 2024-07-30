@@ -50,19 +50,19 @@
       <point x="616" y="824" type="qcurve" smooth="yes"/>
       <point x="619" y="844"/>
       <point x="617" y="879"/>
-      <point x="610" y="895" type="qcurve"/>
+      <point x="610" y="895" type="qcurve" smooth="yes"/>
       <point x="597" y="927"/>
       <point x="540" y="965"/>
       <point x="503" y="965" type="qcurve" smooth="yes"/>
       <point x="483" y="965"/>
       <point x="447" y="956"/>
-      <point x="430" y="946" type="qcurve"/>
+      <point x="430" y="946" type="qcurve" smooth="yes"/>
       <point x="395" y="927"/>
       <point x="346" y="863"/>
       <point x="340" y="824" type="qcurve" smooth="yes"/>
       <point x="337" y="805"/>
       <point x="340" y="771"/>
-      <point x="347" y="755" type="qcurve"/>
+      <point x="347" y="755" type="qcurve" smooth="yes"/>
       <point x="360" y="723"/>
       <point x="417" y="684"/>
     </contour>
