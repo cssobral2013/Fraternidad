@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="parenleft_c_parenright.liga" format="2">
-  <advance width="2028"/>
-  <unicode hex="E001"/>
-  <outline>
-    <component base="copyright" xOffset="100"/>
-  </outline>
-</glyph>

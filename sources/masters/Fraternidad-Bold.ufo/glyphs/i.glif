@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="i" format="2">
-  <advance width="592"/>
-  <unicode hex="0069"/>
-  <outline>
-    <component base="dotlessi"/>
-    <component base="period" xOffset="-24" yOffset="1213"/>
-  </outline>
-</glyph>
