@@ -2,19 +2,6 @@ from fontTools.ttLib import TTFont
 
 '''Generate WOFF from TTF or OTF font.'''
 
-srcPath  = './ttf/Fraternidad-Thin.ttf'
-woffPath = './web/Fraternidad-Thin.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)
-
-srcPath  = './ttf/Fraternidad-ThinItalic.ttf'
-woffPath = './web/Fraternidad-ThinItalic.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)
 
 srcPath  = './ttf/Fraternidad-ExtraLight.ttf'
 woffPath = './web/Fraternidad-ExtraLight.woff'
@@ -154,19 +141,6 @@ with TTFont(srcPath) as font:
 
 '''Generate WOFF2 from TTF or OTF font.'''
 
-srcPath  = './ttf/Fraternidad-Thin.ttf'
-woff2Path = './web/Fraternidad-Thin.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-
-srcPath  = './ttf/Fraternidad-ThinItalic.ttf'
-woff2Path = './web/Fraternidad-ThinItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
 
 srcPath  = './ttf/Fraternidad-ExtraLight.ttf'
 woff2Path = './web/Fraternidad-ExtraLight.woff2'
